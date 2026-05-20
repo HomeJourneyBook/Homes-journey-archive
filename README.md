@@ -18,7 +18,7 @@
 
 ## Основные разделы
 
-- [Valley of Tea Dragons](Valley/Valley_of_Tea_Dragons.md)
-- Tavern
+- [Valley of Tea Dragons](Valley/README.md)
+- [Tavern](Tavern/README.md)
 
 ---
