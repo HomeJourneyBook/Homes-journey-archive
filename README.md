@@ -10,7 +10,7 @@
 
 ## Основные разделы
 
-- Valley of Tea Dragons
+- [Valley of Tea Dragons](Valley of Tea Dragons.md)
 - Tavern
 - Travelers
 - Worlds
