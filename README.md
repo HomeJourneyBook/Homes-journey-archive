@@ -23,4 +23,4 @@
 
 ---
 
-![Book](book.png)
+![Book](Book.jpeg)
