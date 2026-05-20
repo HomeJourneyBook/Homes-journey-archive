@@ -16,4 +16,4 @@
 
 ---
 
-![Villagers](Villagers.png)
+![Villagers](Villagers.jpeg)
