@@ -1,26 +1,19 @@
 # Home’s Journey Archive
 
-An open archive dedicated to lore of the Home’s Journey Universe.
+Итак, этот архив - это моя большая работа над тем, как я переводил книгу по вселенной "Home's Journey", мои зарисовки и мысли.
 
-This repository contains:
-- world records
-- traveler observations
-- fragmented notes
-- artifacts
-- translated documents
-- unknown findings
+Для начала, кто собственно я такой - я Теантис, ученный из Долины Чайных Драконов. Таковым я себя помню и первые мои осознанные воспоминания касаются как раз того, как я нашел древнюю книгу возле Чайного Камня. Это место - могила создателя Деревни.
+
+Все эти термины, а также больше деталей я раскрою в соответствующих разделах. Добро пожаловать к изучению вселенной *"Home's Journey"* Universe вместе со мной.
 
 ---
 
-## Main Sections
+## Основные разделы
 
 - Valley of Tea Dragons
 - Tavern
 - Travelers
 - Worlds
-- Tea
 - Fragments
 
 ---
-
-> “Not all records survived intact.”
