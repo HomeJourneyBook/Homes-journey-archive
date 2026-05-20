@@ -1,11 +1,10 @@
 # Home’s Journey Archive
 
-An open archive dedicated to the worlds, travelers, gates and forgotten records of the Home’s Journey universe.
+An open archive dedicated to lore of the Home’s Journey Universe.
 
 This repository contains:
 - world records
 - traveler observations
-- gate research
 - fragmented notes
 - artifacts
 - translated documents
@@ -15,13 +14,12 @@ This repository contains:
 
 ## Main Sections
 
-- Worlds
+- Valley of Tea Dragons
+- Tavern
 - Travelers
-- Gates
-- Artifacts
-- Records
+- Worlds
+- Tea
 - Fragments
-- Tea Valley
 
 ---
 
