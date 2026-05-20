@@ -15,4 +15,4 @@
 ---
 
 
-![Village](Village.png)
+![Village](Village.jpeg)
