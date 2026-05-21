@@ -24,4 +24,4 @@
   
 ---
 
-![Book](Book.gif)
+![Book](Book.jpeg)
