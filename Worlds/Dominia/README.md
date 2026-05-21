@@ -1,3 +1,0 @@
-# Dominia
-
-about Dominia
