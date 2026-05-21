@@ -24,4 +24,4 @@
 
 ---
 
-![Shen](Shen.png)
+![Shen](Shen.jpeg)
