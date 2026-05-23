@@ -39,7 +39,7 @@
 
 ## Смежные записи
 
-- [Villagers](../Villagers/README.md)
-- Legends
+- [Villagers](Villagers/README.md)
+- [Legends](Legends/README.md)
 - [Tavern](../Tavern/README.md)
 - [Concepts](../Concepts/README.md)
