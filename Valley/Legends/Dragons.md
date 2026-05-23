@@ -10,4 +10,11 @@ Guardian of the Great Tea Tree, its crimson scales reflecting its noble lineage.
 
 Guardian of the Great Tea Tree, its emerald scales shimmering with ancient wisdom. As a vigilant protector of the sacred valley, it nourishes the tea leaves with its rejuvenating breath. Devoted to the Tea Gods, it ensures the valley's safety with unwavering dedication.
 
-![Green Dragon](Green_dragon.md)
+![Green Dragon](Green_dragon.png)
+---
+
+## Golden Dragon
+
+Guardian of the Great Tea Tree, its radiant scales gleaming with divine light. As a steadfast protector of the sacred valley, it imbues the tea leaves with its warm, life-giving energy. Devoted to the Tea Gods, it watches over the valley with unyielding loyalty and grace.
+
+![Golden Dragon](Golden_dragon.png)
