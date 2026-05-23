@@ -1,6 +1,6 @@
 # Legend of the Great Tea Tree
 
-The following legend was recorded by Teantist from the words of Tildrom, current overseer of the Village in the Valley of Tea Dragons. According to the records, this story was once told to the Traveler Aslex during one of his visits to the valley.
+The following legend was recorded by Teantist from the words of Tealder. According to the records, this story was once told to the Traveler Aslex during one of his visits to the valley.
 
 ---
 
