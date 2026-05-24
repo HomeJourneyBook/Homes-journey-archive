@@ -30,5 +30,6 @@
 - [Home Travelers](Travelers.md)
 - [Valley of Tea Dragons](../Valley/README.md)
 - [Concepts](../Concepts/README.md)
-
+- [Artifacts](../Artifacts/README.md)
+  
 ---
