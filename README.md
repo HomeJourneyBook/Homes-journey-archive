@@ -20,7 +20,7 @@
 
 - [Valley of Tea Dragons](Valley/README.md)
 - [Tavern](Tavern/README.md)
-- [Worlds](Worlds/REAMME.md)
+- [Worlds](Worlds/README.md)
 - [Concepts](Concepts/README.md)
 - [Artifacts](Artifacts/README.md)
   
