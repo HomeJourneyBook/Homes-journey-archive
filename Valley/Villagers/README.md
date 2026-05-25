@@ -35,7 +35,7 @@
 - [Mechanic](Mechanic.md)
 - [Tea Harvester](Harvester.md)
 - [Tea Shearer](Shearer.md)
-- [Cook](Cook.png)
+- [Cook](Cook.md)
 - [Blacksmith](Blacksmith.md)
 - [Teasculapius](Doctor.md)
 
