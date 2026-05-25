@@ -37,6 +37,6 @@
 - [Tea Shearer](Shearer.md)
 - [Cook](Cook.png)
 - [Blacksmith](Blacksmith.md)
-- [Tea](Doctor.md)
+- [Teasculapius](Doctor.md)
 
 ---
