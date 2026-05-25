@@ -1,18 +1,14 @@
-# Селяне
+# Villagers
 
-Среди всех жителей Долины именно Селяне формируют основу её повседневной жизни. На протяжении многих поколений они ухаживают за Чайными Полями, поддерживают Деревню, создают предметы в Мастерской, проводят церемонии и сохраняют традиции, происхождение которых в ряде случаев уже давно оказалось забыто.
+Among all inhabitants of the Valley, the Villagers form the foundation of its daily life. For many generations, they have maintained the Tea Fields, preserved the Village, crafted objects within the Workshop, conducted ceremonies, and continued traditions whose origins have, in many cases, long since been forgotten.
 
-Внешний облик Селян остаётся практически неизменным на протяжении всей известной мне истории Долины. Большинство из них носит плотные одежды, скрывающие тело почти полностью, а лица всегда закрыты масками. При этом сами жители воспринимают подобный образ как нечто абсолютно естественное и редко обращают на него внимание в повседневной жизни.
+The appearance of the Villagers has remained nearly unchanged throughout all known history of the Valley. Most wear heavy clothing that conceals the body almost entirely, while their faces are always hidden behind masks.
 
-Форма масок напрямую связана с ремеслом или обязанностями конкретного Селянина. Треугольные маски чаще всего принадлежат тем, кто занимается торговлей, организацией поставок и другими вопросами, связанными с устройством жизни Долины. Круглые обычно носят мастера искусства, музыканты, хранители церемоний и жители, чья деятельность связана с духовными или культурными традициями. Квадратные же встречаются преимущественно среди ремесленников и Селян, отвечающих за повседневный труд и поддержание Деревни.
+The shape of each mask is directly connected to the craft or responsibility of a particular Villager. Triangular masks are most commonly associated with those involved in trade, supply organization, and matters connected to the structure of village life. Circular masks are usually worn by artists, musicians, ceremony keepers, and villagers whose work relates to spiritual or cultural traditions. Square masks are primarily seen among craftsmen and villagers responsible for physical labor and the maintenance of the Village itself.
 
-Несмотря на существование подобных различий, сами Селяне редко разделяют друг друга по статусу или значимости профессий. По наблюдениям, каждая роль в пределах Долины воспринимается как необходимая часть общего порядка, существующего вокруг Первого Чайного Дерева.
+Despite these distinctions, the Villagers rarely divide one another by status or importance of profession. Every role within the Valley is regarded as a necessary part of the overall order.
 
-Большая часть жизни Селян проходит между Чайными Полями, Деревней, Мастерской и Изумрудным Лесом. Одни занимаются выращиванием и сбором чая, другие создают посуду, инструменты, ткани и предметы искусства, третьи следят за состоянием троп, лесов и старых ритуальных мест.
-
-Несмотря на внешнюю простоту их повседневной жизни, создаётся ощущение, что значительная часть знаний Селян никогда не записывалась напрямую, а передавалась через традиции, ремесло, совместную работу и чайные церемонии. По этой причине многие старые обычаи продолжают существовать даже тогда, когда их первоначальный смысл уже невозможно объяснить словами.
-
-На данный момент мне представляется, что сами Селяне являются неотделимой частью Долины и её истории. Наблюдая за их жизнью, всё сложнее воспринимать Деревню, Чайные Поля или даже Первое Чайное Дерево как отдельные элементы — скорее, всё это существует как единая структура, постепенно сформировавшаяся вокруг чая, памяти и старых традиций.
+Despite the apparent simplicity of their daily life, there is a strong sense that much of the Villagers’ knowledge was never directly written down, but instead passed through tradition, craft, shared labor, and tea ceremonies. Because of this, many ancient customs continue to exist even when their original meaning can no longer be fully explained through words.
 
 ---
 
@@ -20,7 +16,7 @@
 
 ---
 
-## Известные профессии и жители
+## Knowmn Villagers:
 
 - [Artchemist](Artchemist.md)
 - [TJ](Tj.md)
