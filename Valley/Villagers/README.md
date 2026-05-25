@@ -16,7 +16,7 @@ Despite the apparent simplicity of their daily life, there is a strong sense tha
 
 ---
 
-## Knowmn Villagers:
+## Known Villagers:
 
 - [Artchemist](Artchemist.md)
 - [TJ](Tj.md)
