@@ -40,6 +40,6 @@ Despite the relative calmness of the Valley, I gradually began to suspect that a
 ## More notes related to the Valley
 
 - [Villagers](Villagers/README.md)
-- [Legend of ](Legends/README.md)
+- [The Legend of the Battle for the Great Tea Tree](Legends/README.md)
 
 --
