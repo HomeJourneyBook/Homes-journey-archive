@@ -22,21 +22,21 @@
 
 ## Известные профессии и жители
 
-- Художник
-- Музыкант
-- Торговец
-- Рыбак
-- Казначей
-- Ученый
-- Арборист
-- Монах
-- Управленец
-- Программист
-- Механик
-- Чайный сборщик
-- Чайный стригальщик
-- Повар
-- Кузнец
-- Врач
+- [Artchemist](Artchemist.md)
+- [TJ](Tj.md)
+- [Tealer](Tealer.md)
+- [Fisherman](Fisherman.md)
+- [Teasurer](Teasurer.md)
+- [Teantist](Teantist.md)
+- [Arborist](Arborist.md)
+- [Tea Monk](Monk.md)
+- [Tealder](Tealder.md)
+- [Web Teaveloper](WebTeaveloper.md)
+- [Mechanic](Mechanic.md)
+- [Tea Harvester](Harvester.md)
+- [Tea Shearer](Shearer.md)
+- [Cook](Cook.png)
+- [Blacksmith](Blacksmith.md)
+- [Tea](Doctor.md)
 
 ---
