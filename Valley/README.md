@@ -1,22 +1,22 @@
-# Долина Чайных Драконов
+# The Valley of Tea Dragons
 
-Среди всех мест, упоминаемых в сохранившихся записях, Долина Чайных Драконов остаётся одним из наиболее изолированных и одновременно наиболее значимых регионов, известных мне к настоящему моменту. Именно здесь было обнаружено Первое Чайное Дерево, вокруг которого спустя многие поколения сформировались Деревня Селян, чайные поля и большая часть современной жизни Долины.
+Among all locations mentioned in the surviving records, the Valley of Tea Dragons remains one of the most isolated and, at the same time, one of the most significant regions known to me so far. It was here that the First Tea Tree was discovered, around which the Villagers’ settlement, the tea fields, and most of the Valley’s modern life gradually formed over many generations.
 
-Точное местоположение Долины определить до сих пор не удалось. Большинство старых карт либо противоречат друг другу, либо обрываются задолго до указания каких-либо внешних ориентиров. По этой причине происхождение самой Долины, как и её связь с остальным миром, остаётся предметом многочисленных споров среди исследователей прошлого.
+The exact location of the Valley still remains unknown. Most ancient maps either contradict one another or end long before providing any reliable external landmarks.
 
-Центральную часть Долины занимает Первое Чайное Дерево — древнейшая известная структура региона. Непосредственно вокруг дерева расположена Деревня Селян, служащая домом для жителей, поколениями занимающихся сбором чая и поддержанием жизни Долины.
+At the center of the Valley stands the First Tea Tree — the oldest known relic of this region. Directly surrounding the tree lies the Village of the Villagers, home to generations of inhabitants dedicated to tea harvesting and maintaining life within the Valley.
 
-С правой стороны от Деревни простираются обширные чайные поля. Именно здесь Селяне выращивают и собирают большую часть чайных листьев, используемых в пределах Долины. В периоды туманов поля практически полностью скрываются под плотной дымкой, из-за чего определить их реальные размеры со стороны почти невозможно.
+To the right of the Village stretch the vast tea fields. It is here that the Villagers cultivate and gather most of the tea leaves used throughout the Valley.
 
-Ниже чайных полей начинается Изумрудный Лес — густой участок древней растительности, заметно отличающийся от остальных территорий Долины. А также, именно в глубине этого леса находится Чайный Камень — место погребения Создателя Деревни. Несмотря на многочисленные упоминания, большая часть сведений о самом Создателе до настоящего времени остаётся крайне фрагментарной.
+Below the tea fields begins the Emerald Forest — a dense region of ancient vegetation that differs noticeably from the rest of the Valley. Deep within this forest stands the Tea Stone — the burial site of the Founder of the Village. Despite numerous mentions, most information regarding the Founder himself remains unstudied to this day.
 
-В левой нижней части Долины расположен Алмазный Пруд. Селяне используют его как место отдыха, рыбной ловли и проведения некоторых сезонных собраний. Несколько старых записей также указывают на необычные свойства воды в пределах пруда, однако достоверно подтвердить подобные сведения мне пока не удалось.
+In the lower-left region of the Valley lies the Diamond Pond. The Villagers use it as a place for rest, fishing, and certain seasonal gatherings. Several old records also describe unusual properties associated with the pond’s water, though I have not yet been able to confirm such claims reliably.
 
-Северные границы Долины образуют две массивные горные области, известные среди жителей как Левое Плечо и Правое Плечо. Вместе они формируют своеобразное каменное кольцо, окружающее большую часть Долины и защищающее её от внешнего мира. По наблюдениям, значительная часть проходов через горы либо давно обрушилась, либо остаётся скрытой от большинства жителей.
+The northern borders of the Valley are formed by two massive mountain regions known among the Villagers as the Left Shoulder and the Right Shoulder. Together, they create a natural stone ring surrounding most of the Valley and shielding it from the outside world. According to observations, many of the mountain passages either collapsed long ago or remain hidden.
 
-Отдельного упоминания заслуживает Красный Дракон — существо, постоянно наблюдаемое в небе над Долиной. Согласно рассказам Селян, дракон на протяжении многих поколений охраняет территорию с воздуха и крайне редко покидает пределы горной гряды. Происхождение самого дракона, как и его связь с Первым Чайным Деревом, отсылается к Легендам, где упоминается причастность Чайных Богов.
+Special mention should be given to the Red Dragon — a creature constantly observed in the skies above the Valley. According to the Villagers’ accounts, the dragon has protected the region from the air for many generations and rarely leaves the mountain range. The origin of the dragon itself, as well as its connection to the First Tea Tree, is referenced within the Legends, where the Tea Gods are said to have played a role in its creation.
 
-Несмотря на относительное спокойствие Долины, у меня постепенно складывается ощущение, что значительная часть её истории была намеренно скрыта или утрачена задолго до появления нынешнего поколения Селян. Многие легенды обрываются на полуслове, старые тропы больше не используются, а некоторые темы жители предпочитают вовсе не обсуждать даже между собой.
+Despite the relative calmness of the Valley, I gradually began to suspect that a significant portion of its history was intentionally concealed or lost long before the emergence of the current generation of Villagers.
 
 ---
 
@@ -24,7 +24,7 @@
 
 ---
 
-## Известные области Долины
+## Known locations of the Valley
 
 - [Первое Чайное Дерево](Tree.md)
 - [Деревня Селян](Village.md)
@@ -37,9 +37,9 @@
 
 ---
 
-## Смежные записи
+## More notes related to the Valley
 
 - [Villagers](Villagers/README.md)
-- [Legends](Legends/README.md)
-- [Tavern](../Tavern/README.md)
-- [Concepts](../Concepts/README.md)
+- [Legend of ](Legends/README.md)
+
+--
