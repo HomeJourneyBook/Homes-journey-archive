@@ -34,14 +34,12 @@ Despite the relative calmness of the Valley, I gradually began to suspect that a
 
 ## More about locations of the Valley
 
-- [Первое Чайное Дерево](Tree.md)
-- [Деревня Селян](Village.md)
-- [Чайные Поля](Field.md)
-- [Изумрудный Лес](Forest.md)
-- [Чайный Камень](Rock.md)
-- [Алмазный Пруд](Pond.md)
-- [Левое Плечо](L_shoulder.md)
-- [Правое Плечо](R_shoulder.md)
+- [Tean Fields](Field.md)
+- [Emerald Forest](Forest.md)
+- [The Tea Rock](Rock.md)
+- [Diamond Pond](Pond.md)
+- [Left Shoulder](L_shoulder.md)
+- [Right Shoulder](R_shoulder.md)
 
 ---
 
