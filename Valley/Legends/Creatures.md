@@ -45,7 +45,7 @@ Vampires - nocturnal creatures of elegance and danger, their forms gliding throu
 
 Orcs - fierce warriors of the wastelands, their rugged forms moving with a predatory grace amidst the desolate terrain. Chief Orc Pin - ruler of the orcish horde, a towering figure of indomitable strength and unyielding determination. Within the heart of their barren stronghold, he commands the loyalty of his kin through sheer force of will, his authority unchallenged in the harsh expanse of the wasteland.
 
-[!Chief Orc Pin](orc.png)
+![Chief Orc Pin](orc.png)
 
 ---
 
