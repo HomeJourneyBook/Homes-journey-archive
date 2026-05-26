@@ -34,7 +34,7 @@ Despite the relative calmness of the Valley, I gradually began to suspect that a
 
 ## More about locations of the Valley
 
-- [Tean Fields](Field.md)
+- [Tea Fields](Field.md)
 - [Emerald Forest](Forest.md)
 - [The Tea Rock](Rock.md)
 - [Diamond Pond](Pond.md)
