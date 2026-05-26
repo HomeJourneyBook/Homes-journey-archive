@@ -1,10 +1,10 @@
 # The Valley of Tea Dragons
 
-Among all locations mentioned in the surviving records, the Valley of Tea Dragons remains one of the most isolated and, at the same time, one of the most significant regions known to me so far. It was here that the First Tea Tree was discovered, around which the Villagers’ settlement, the tea fields, and most of the Valley’s modern life gradually formed over many generations.
+Among all locations mentioned in the surviving records, the Valley of Tea Dragons remains one of the most isolated and, at the same time, one of the most significant regions known to me so far. It was here that the Great Tea Tree was discovered, around which the Villagers’ settlement, the tea fields, and most of the Valley’s modern life gradually formed over many generations.
 
 The exact location of the Valley still remains unknown. Most ancient maps either contradict one another or end long before providing any reliable external landmarks.
 
-At the center of the Valley stands the First Tea Tree — the oldest known relic of this region. Directly surrounding the tree lies the Village of the Villagers, home to generations of inhabitants dedicated to tea harvesting and maintaining life within the Valley.
+At the center of the Valley stands the Great Tea Tree — the oldest known relic of this region. Directly surrounding the tree lies the Village of the Villagers, home to generations of inhabitants dedicated to tea harvesting and maintaining life within the Valley.
 
 To the right of the Village stretch the vast tea fields. It is here that the Villagers cultivate and gather most of the tea leaves used throughout the Valley.
 
@@ -14,7 +14,7 @@ In the lower-left region of the Valley lies the Diamond Pond. The Villagers use 
 
 The northern borders of the Valley are formed by two massive mountain regions known among the Villagers as the Left Shoulder and the Right Shoulder. Together, they create a natural stone ring surrounding most of the Valley and shielding it from the outside world. According to observations, many of the mountain passages either collapsed long ago or remain hidden.
 
-Special mention should be given to the Red Dragon — a creature constantly observed in the skies above the Valley. According to the Villagers’ accounts, the dragon has protected the region from the air for many generations and rarely leaves the mountain range. The origin of the dragon itself, as well as its connection to the First Tea Tree, is referenced within the Legends, where the Tea Gods are said to have played a role in its creation.
+Special mention should be given to the Red Dragon — a creature constantly observed in the skies above the Valley. According to the Villagers’ accounts, the dragon has protected the region from the air for many generations and rarely leaves the mountain range. The origin of the dragon itself, as well as its connection to the Great Tea Tree, is referenced within the Legends, where the Tea Gods are said to have played a role in its creation.
 
 Despite the relative calmness of the Valley, I gradually began to suspect that a significant portion of its history was intentionally concealed or lost long before the emergence of the current generation of Villagers.
 
