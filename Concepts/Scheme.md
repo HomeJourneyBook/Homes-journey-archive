@@ -12,6 +12,8 @@ Among Travelers, there is also a clear understanding that every Scheme is, to a 
 
 Schemes of the Path are not merely instruments of navigation between Worlds, but one of the most ancient and complex systems preserved from the eras predating the Tavern, the Valley, and most other Worlds known today.
 
+Particularly ancient Schemes, or those that once opened Paths to exceptionally well-preserved Worlds, eventually become artifacts in their own right and are regarded as objects of great historical significance.
+
 ---
 
 ![Scheme of the Path](Scheme.jpeg)
