@@ -1,16 +1,14 @@
-# Чайный Камень
+# The Tea Rock
 
-Чайный Камень располагается в глубине Изумрудного Леса и считается одним из наиболее древних и почитаемых мест всей Долины. Добраться до него можно лишь по узким лесным тропам, известным преимущественно самим Селянам. Большинство старых записей описывает это место как единственную официально признанную ритуальную территорию региона.
+The Tea Rock lies deep within the Emerald Forest and is considered one of the most sacred and revered places in the entire Valley. It can only be reached through narrow forest paths.
 
-Сам Камень представляет собой массивную древнюю плиту, расположенную на небольшой лесной опушке среди густой растительности. Поверхность Камня покрыта высеченными символами на древнем фигурном языке, который встречается также в найденной мной книге и ряде других уцелевших фрагментов старых записей. Значительная часть надписей остаётся непереведённой до настоящего времени, а некоторые символы не встречаются больше нигде среди известных мне источников.
+The Rock itself is a massive ancient stone slab resting within a small clearing surrounded by dense vegetation. Its surface is covered with engraved symbols written in the ancient figurative language also found within the Book I discovered, as well as in several surviving fragments scattered throughout the Village buildings. A large portion of these inscriptions remains untranslated to this day, while some symbols appear nowhere else among any sources known to me.
 
-Согласно сохранившимся легендам, именно здесь был захоронен Создатель Деревни — фигура, упоминания о которой встречаются во многих ранних историях Селян, но при этом практически никогда не сопровождаются подробностями. Большинство жителей избегает прямых разговоров о нём, ограничиваясь лишь краткими упоминаниями или ссылками на старые традиции.
+According to established belief, this is the burial place of the Founder of the Village — a figure whose existence is scarcely mentioned anywhere and remains perhaps the greatest mystery both to myself and to the inhabitants of the Village.
 
-Именно возле Чайного Камня Селяне проводят ритуалы, связанные с памятью, сезонными изменениями и некоторыми древними обрядами Долины. По наблюдениям, во время подобных церемоний жители ведут себя значительно тише обычного, а часть ритуальных действий выполняется без каких-либо объяснений даже для молодого поколения Селян.
+It is near the Tea Rock that the Villagers conduct rituals connected to memory, seasonal changes, and certain ancient ceremonies of the Valley.
 
-Отдельного внимания заслуживает тот факт, что за всё время исследований мне не удалось обнаружить в пределах Долины других известных мест захоронения. Ни кладбищ, ни отдельных могил, ни каких-либо упоминаний о подобных территориях в сохранившихся записях обнаружено не было. По этой причине значение самого Чайного Камня для жителей Долины, вероятно, значительно глубже, чем может показаться на первый взгляд.
-
-Несмотря на многочисленные попытки сопоставить найденные символы с содержанием книги, происхождение самого Камня и точный смысл большей части надписей остаются неизвестными. Однако среди всех объектов Долины именно это место создаёт наиболее сильное ощущение связи между современными Селянами и значительно более древней историей региона.
+Particularly noteworthy is the fact that throughout all my research into the records and the Valley itself, I have failed to discover any other known burial sites. No cemeteries, no individual graves, nor any direct references to them. For this reason, the significance of the Tea Rock to the inhabitants of the Valley is likely both immense and deeply paradoxical.
 
 ---
 
