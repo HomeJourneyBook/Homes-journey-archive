@@ -1,17 +1,12 @@
-# Чайное Поле
+# The Tea Fields
 
-С правой стороны от Деревни на значительном расстоянии простираются Чайные Поля — одна из наиболее важных территорий всей Долины. Именно здесь Селяне выращивают и собирают большую часть чая, производимого вокруг Первого Чайного Дерева.
+To the right of the Village, stretching across a vast distance, lie the Tea Fields — one of the most important regions within the entire Valley. It is here that the Villagers cultivate and harvest the majority of the tea.
 
-На первый взгляд Чайные Поля производят крайне простое впечатление. Практически вся местность покрыта ровными рядами чайных кустов, уходящих далеко в сторону туманов Долины. В отличие от остальных областей региона, здесь почти отсутствуют крупные сооружения, декоративные элементы или сложные постройки. Большая часть пространства остаётся открытой, из-за чего Поля выглядят одновременно спокойными и необычайно пустыми.
+At first glance, the Tea Fields create an impression of great simplicity. Nearly the entire landscape is covered with orderly rows of tea bushes extending far toward the mountains surrounding the Valley. Most of the area remains open, causing the Fields to appear both peaceful and strangely mesmerizing at the same time.
 
-Несмотря на внешнюю минималистичность, жизнь Селян тесно связана именно с этим местом. Значительная часть дня проходит среди чайных рядов: здесь жители выращивают новые побеги, собирают листья, следят за состоянием почвы и поддерживают порядок на всей территории Полей.
+Despite this outward minimalism, the lives of the Villagers are deeply connected to this place. A significant portion of each day is spent among the rows of tea plants: here the inhabitants cultivate new growth, gather leaves, monitor the condition of the soil, and maintain order throughout the Fields.
 
-Во время периодов плотного тумана видимость в пределах Полей значительно ухудшается. Из-за этого дальние участки местности нередко кажутся полностью исчезающими за белой дымкой. Некоторые Селяне утверждают, что в такие периоды Поля становятся заметно тише обычного, однако объяснить природу подобного явления никто из них не смог.
-
-Несколько старых записей также указывают, что чай, собранный в разных частях Полей, может отличаться вкусом и свойствами, даже если внешне листья выглядят одинаково. Подтвердить это с достаточной точностью мне пока не удалось, однако сами жители Долины относятся к подобным различиям с полной серьёзностью.
-
-На данный момент Чайные Поля остаются одним из немногих мест Долины, где повседневная жизнь Селян наблюдается наиболее открыто. При этом даже здесь создаётся ощущение, что за внешней простотой территории скрывается значительно большее количество старых традиций и знаний, чем жители готовы рассказывать напрямую.
-
+My observations also suggest that tea harvested from different parts of the Fields may vary in both flavor and properties, even when the leaves themselves appear identical. This is supported not only by several translated records, but also by the opinions of the Villagers themselves.
 ---
 
 ![Tea Field](Field.png)
