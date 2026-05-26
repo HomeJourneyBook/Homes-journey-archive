@@ -1,23 +1,17 @@
-# Первое Чайное Дерево
+# The Great Tea Tree
 
-Среди всех записей, которые мне удалось изучить к настоящему моменту, не существует ничего древнее упоминаний о Первом Чайном Дереве. Большинство сохранившихся фрагментов указывает на то, что дерево существовало ещё до появления Путешественников и самой Таверны, однако определить его истинное происхождение до сих пор не удалось.
+Among all of my research, there exist no records more ancient than the mentions of the Great Tea Tree. Most translated fragments suggest that the Tree existed long before the appearance of many known and already vanished civilizations, the Tavern, and even the Village within the Valley.
 
-В наиболее старых легендах создание дерева приписывается Чайным Богам. При этом ни один из известных мне источников не описывает сам момент его появления. Некоторые записи и вовсе указывают, что дерево не было создано в привычном понимании этого слова, а существовало как часть самой Эссенции задолго до возникновения Долины Чайных Драконов.
+In the oldest known legend, the creation of the Tree is attributed to the Tea Gods. Records regarding this account can be found within the corresponding section.
 
-Само дерево невозможно спутать ни с одной другой формой жизни, существующей в пределах Долины. Его массивный ствол возвышается над чайными террасами, а крона настолько велика и густa, что даже в ясную погоду часть земель вокруг дерева остаётся покрытой мягкой тенью. В определённые часы листья приобретают глубокий золотисто-зелёный оттенок, из-за чего издалека дерево кажется почти светящимся среди туманов Долины.
+The Tree itself cannot be mistaken for any other form of life existing within the Valley. Its enormous trunk rises above the entire village, the tea fields, and even parts of the surrounding mountains, while its crown is so vast and dense that even during clear weather, sections of the land beneath it remain covered in soft shadow. At certain hours, the leaves acquire a deep golden-green hue, causing the Tree to appear almost luminous through the mists of the Valley. Despite its immense size, however, the Tree does not resemble an ancient ruin, but rather a living and constantly changing organism.
 
-Несмотря на свои размеры, дерево производит впечатление не древней руины, а живого и постоянно изменяющегося существа. Многие Селяне утверждают, что с течением времени форма его ветвей постепенно меняется, хотя подтвердить это наблюдение мне пока не удалось.
+All tea known within the Valley originates from this Tree. For this reason, the inhabitants of the Valley regard it not only as a sacred object, but also as the foundation of their very existence. For many generations, the Villagers have maintained the tea fields surrounding the Tree and continued the harvesting of its leaves.
 
-Весь чай, известный в пределах Долины, происходит именно от этого дерева. По этой причине жители Долины рассматривают его не только как святыню, но и как основу собственного существования. На протяжении многих поколений Селяне ухаживают за чайными террасами вокруг дерева и занимаются сбором чайных листьев, хотя сами крайне редко говорят о происхождении дерева напрямую. Большинство их рассказов сводится к древним ритуалам, предупреждениям и легендам, смысл которых со временем оказался частично утрачен.
+During my research, some fragments describe the Tree as merely an unusually massive plant. Others portray it as a living structure capable of influencing both the surrounding world and the condition of living beings.
 
-Среди исследователей прошлого также не существовало единого мнения относительно природы дерева. В некоторых сохранившихся фрагментах оно описывается как обычное растение необычайных размеров. В других же — как живая структура, способная воздействовать на окружающий мир и состояние живых существ.
-
-Особый интерес представляют записи, связанные с воздействием дерева на память и восприятие. Несколько источников утверждают, что длительное пребывание рядом с ним усиливает ясность сознания и позволяет лучше сохранять воспоминания. Однако существуют и противоположные свидетельства, описывающие искажение восприятия времени и постепенную потерю чувства реальности.
-
-Согласно древним хроникам, именно вокруг Первого Чайного Дерева началась Война Трёх Чайных Драконов — конфликт, в ходе которого двенадцать рас пытались установить контроль над Долиной и источником чая. Большая часть материалов о той эпохе была уничтожена, поэтому восстановить последовательность событий с достаточной точностью в настоящее время не представляется возможным.
-
-На данный момент мне так и не удалось обнаружить ни одной записи, способной достоверно объяснить истинную природу Первого Чайного Дерева.
+Of particular interest are the records connected to the Tree’s effect on memory and perception. Certain translations claim that prolonged exposure to its presence enhances clarity of thought and concentration. However, opposing testimonies also exist, describing distortions in the perception of time and the gradual loss of one’s sense of reality.
 
 ---
 
-![The First Tea Tree](Tree.png)
+![The Great Tea Tree](Tree.png)
