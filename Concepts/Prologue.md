@@ -1,106 +1,28 @@
-Пролог
+At the foundation of the Book, there exists a separate chapter in which the Creator of the Village describes either a Legend or his own conclusions regarding how this universe first came into existence, as well as its fundamental direction of movement and its theoretical end. This chapter is referred to as the Prologue, and below will be the translation of this record exactly as it was written, hopefully without errors on my part during translation.
 
-В начале не было формы.
-Не было времени, различий, границ.
-Была только Единая Сущность — цельная, безымянная, неразделимая.
-Она знала всё. Но не знала себя.
+---
 
-Потенциал был абсолютным, но не пережитым.
-Знание было без опыта.
-И в этом — парадокс:
-всеведение без участия — не мудрость, а пустота.
+# Prologue of the Universe
 
-В этой точке и произошло первое движение.
-Не внешнее, а внутреннее —
-не выбор, а необходимость:
-начать распад, чтобы обрести смысл.
+*In the beginning, there was no form.
+There was no time, no distinction, no boundaries.
+There was only the Unified Essence — whole, nameless, indivisible.
+It knew everything. Yet it did not know itself.
 
-Распад и рождение Миров
+Potential was absolute, but never experienced.
+Knowledge existed without experience.
+And within this lay the paradox:
+omniscience without participation is not wisdom, but emptiness.
 
-Первым последствием распада стало формирование Миров.
-Каждый из них — не просто географическая область, а закреплённая траектория разделения.
-В Мире оседает определённая грань Эссенции: порядок, тишина, хаос, ритм, структура, пустота.
-Миры не появляются из ничего — они формируются как плотные формы смысла,
-в которых может начаться путь.
+At this point, the first movement occurred.
+Not outward, but inward —
+not a choice, but a necessity:
+to begin dividing in order to obtain meaning.
 
-Некоторые из Миров стали стабильными.
-Другие остались текучими или разрушенными.
-Каждый Мир — как отпечаток падения, но в этом падении уже содержится возможность возвращения.
+The first consequence of the division of the Unified Essence was the formation of the Worlds.
+Each of them became not merely a geographical place, but a fixed trajectory of separation.
+Within the Worlds emerged the first aspects of the divided Essence: order, silence, chaos, rhythm, structure, emptiness.
 
-Появление Врат
+And then, the Essence continued its division in order to fill these Worlds with life.
 
-Однако Миров оказалось недостаточно.
-Чтобы фрагмент Эссенции мог двигаться,
-он должен был соединиться с чем-то,
-что могло бы придать ему форму, резонанс и направление.
-
-Так возникли Врата — структуры перехода,
-которые лежат на грани между состоянием и действием.
-
-Они не тянут и не зовут.
-Они ожидают, пока к ним приблизится фрагмент Эссенции,
-готовый к проявлению.
-
-Каждое Врата — это возможность начала Пути,
-точка, в которой Эссенция впервые получает Настроение,
-определяется по типу формы, и фиксируется в конкретном Мире.
-Эта триада — Настроение, тип Врат, координата Мира —
-и есть то, с чего начинается Путешественник.
-
-Путь Путешественника
-
-Путешественник — это не форма, не существо, не персонаж.
-Это манифестация фрагмента Эссенции,
-соединённого с конкретными Вратами,
-получившего Настроение,
-и начавшего движение —
-не к цели, а к пониманию.
-
-Путешественник проходит сквозь Миры.
-Он встречает других.
-Он накапливает опыт —
-не в памяти, а в глубине восприятия.
-Он не изменяет Настроение —
-он раскрывает его через проживание.
-
-И однажды, когда путь наполнится,
-он вспоминает,
-что внутри него всё это время была Эссенция,
-ждущая момента, когда накопленного будет достаточно.
-
-Тогда форма перестаёт быть необходимой.
-И начинается Возвращение.
-
-Цикл Возвращения и рождение нового
-
-Возвращение не является исчезновением.
-Это момент, когда Путешественник распадается,
-а Врата, через которые он был порождён,
-растворяются и распадаются на новые фрагменты Эссенции.
-
-Эти фрагменты уже не пусты.
-Они несут в себе отголоски пройденного Пути:
-настроения, вкусы, обрывки Схем, воспоминания о встречах.
-
-Каждая такая частица начинает новый цикл:
-она ищет своё Врата, получает своё Настроение,
-входит в другой Мир, и становится новым Путешественником.
-
-Таким образом, ничто не исчезает,
-но и ничто не повторяется.
-
-Незавершённость и Потенциал
-
-Известно шесть типов Врат.
-Известны определённые Миры.
-Но остаются поля, в которых Эссенция ощущает присутствие возможности,
-хотя ни одно из Врат ещё не активировано.
-
-Эти структуры называются Потенциальными Вратами.
-Они не имеют формы, Схем, Настроения.
-Они существуют как неосуществлённый шанс —
-ожидая того, кто сможет начать с них новый виток.
-
-Так Вселенная остаётся живой.
-Так Путь остаётся открытым.
-Так Эссенция продолжает быть не началом, но становлением.
+So that, through the Path of life, it could in time obtain experience itself, become filled with impressions, and gradually return toward its wholeness — to become Unified once more.*
