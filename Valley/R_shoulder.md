@@ -1,16 +1,16 @@
-# Правое Плечо
+# The Right Shoulder
 
-Правое Плечо — восточная часть горной гряды, окружающей Долину Чайных Драконов. Вместе с Левым Плечом эти горы формируют естественную защитную границу, скрывающую Долину от большей части внешнего мира. Несмотря на то, что вершины Правого Плеча заметно ниже западных пиков, их высоты по-прежнему достаточно, чтобы полностью закрывать горизонт за пределами Долины.
+The Right Shoulder is the eastern section of the mountain range surrounding the Valley of Tea Dragons. Together with the Left Shoulder, these mountains form a natural protective boundary that conceals the Valley from most of the outside world. Although the peaks of the Right Shoulder are noticeably lower than the western summits, their height is still sufficient to completely obscure the horizon beyond the Valley.
 
-В отличие от сурового и труднодоступного Левого Плеча, восточная часть гряды воспринимается Селянами значительно спокойнее. Именно здесь жители Долины чаще всего наблюдают рассветы. В ясные дни первые лучи света появляются над вершинами гор ещё до того, как туманы начинают рассеиваться над чайными полями и Деревней.
+Unlike the harsh and difficult terrain of the Left Shoulder, the eastern side of the range is regarded by the Villagers as considerably more peaceful. It is here that the inhabitants of the Valley most often watch the sunrise. On clear days, the first rays of light appear above the mountain peaks even before the mists begin to disperse over the tea fields and the Village.
 
-По наблюдениям, в утренние часы каменные склоны Правого Плеча приобретают мягкий золотистый оттенок, из-за чего эта часть Долины нередко упоминается в старых песнях и рассказах Селян как одно из самых красивых мест региона.
+According to observations, during the morning hours the rocky slopes of the Right Shoulder acquire a soft golden hue, which is why this part of the Valley is frequently mentioned in old songs and stories of the Villagers as one of the most beautiful places in the region.
 
-Нижнюю часть Правого Плеча пересекает небольшая речка, отделяющая часть склонов от остальной территории Долины. Вода здесь остаётся холодной практически в любое время года, а вдоль берегов проходит несколько старых троп, которыми жители иногда пользуются для перемещения между удалёнными участками местности.
+The lower part of the Right Shoulder is crossed by a small river that separates portions of the slopes from the rest of the Valley. The water here remains cold during nearly every season of the year, and several old paths run along the riverbanks, occasionally used by the Villagers to travel between distant areas of the region.
 
-Несмотря на более спокойную репутацию, значительная часть территории Правого Плеча всё ещё остаётся малоисследованной. Многие участки склонов покрыты густой растительностью и каменными обвалами, из-за чего даже Селяне предпочитают не подниматься слишком высоко без необходимости.
+Despite its calmer reputation, a large portion of the Right Shoulder still remains poorly explored. Many sections of the slopes are covered with dense vegetation and rocky collapses, causing even the Villagers themselves to avoid climbing too high without necessity.
 
-В старых записях Правое Плечо значительно реже связывается с древними легендами или исчезновениями, чем западная часть горной гряды. Тем не менее создаётся ощущение, что сами жители Долины воспринимают обе стороны кольца как нечто значительно более важное, чем обычные горы, окружающие поселение.
+In ancient records, the Right Shoulder is connected far less frequently with old legends or disappearances than the western part of the mountain range. Nevertheless, there remains a strong impression that the inhabitants of the Valley perceive both sides of the stone ring as something far more significant than ordinary mountains surrounding a settlement.
 
 ---
 
