@@ -4,7 +4,7 @@ At the foundation of the Book, there exists a separate chapter in which the Crea
 
 # Prologue of the Universe
 
-*In the beginning, there was no form.
+In the beginning, there was no form.
 There was no time, no distinction, no boundaries.
 There was only the Unified Essence — whole, nameless, indivisible.
 It knew everything. Yet it did not know itself.
@@ -25,4 +25,4 @@ Within the Worlds emerged the first aspects of the divided Essence: order, silen
 
 And then, the Essence continued its division in order to fill these Worlds with life.
 
-So that, through the Path of life, it could in time obtain experience itself, become filled with impressions, and gradually return toward its wholeness — to become Unified once more.*
+So that, through the Path of life, it could in time obtain experience itself, become filled with impressions, and gradually return toward its wholeness — to become Unified once more.
