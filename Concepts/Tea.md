@@ -1,17 +1,19 @@
 # Tea
 
-Среди всех известных ресурсов Долины именно чай занимает центральное место в жизни Селян. На протяжении многих поколений он остаётся не только основой повседневного быта, но и важнейшей частью культуры, традиций и взаимоотношений внутри самой Долины.
+Among all known resources within the universe, tea from the Valley of Tea Dragons occupies a central place not only in the lives of the Villagers, but also among the Travelers themselves. For many years — perhaps even centuries — it has remained not merely a foundation of everyday life, but also an essential part of culture, tradition, and one of the most effective means of achieving the concentration required for work or travel.
 
-Согласно большинству сохранившихся записей, весь чай, используемый Селянами, происходит от Первого Чайного Дерева и выращивается на окружающих его Полях. По этой причине жители рассматривают чай не как обычное растение, а как нечто значительно более ценное и тесно связанное с существованием самой Долины.
+According to translated records, all tea has long been cultivated by the Villagers within the Valley and originates from the Great Tea Tree, grown throughout the surrounding Fields. For this reason, the inhabitants regard tea not as an ordinary plant, but as something far more valuable and deeply connected to the existence of the Valley itself.
 
-В повседневной жизни чай употребляется практически постоянно. Его пьют во время работы, отдыха, собраний и длительных разговоров в Чайной. Разные способы заваривания используются для различных состояний: одни сорта помогают сохранять ясность сознания и концентрацию во время работы, другие, напротив, применяются для отдыха и успокоения после тяжёлых периодов туманов или длительных дней на Полях.
+In the daily life of the Villagers, tea is consumed almost constantly. It is drunk during work, rest, gatherings, and long conversations within the Tea Home. Different methods of preparation are used for different states of mind: some varieties help preserve clarity and concentration during labor, while others are intended for rest and calm after difficult periods of fog or long days spent in the Tea Fields.
 
-При этом роль чая никогда не ограничивалась исключительно бытовым назначением. Значительная часть ритуалов и старых традиций Долины так или иначе связана именно с процессом приготовления и совместного употребления чая. Многие действия, выполняемые Селянами во время церемоний, давно стали частью привычной культуры, хотя их первоначальный смысл, судя по всему, был утрачен ещё много поколений назад.
+Particularly noteworthy is the attitude of the inhabitants toward the exchange of tea itself. Within the Valley, tea is often used not only as a beverage, but also as a form of value. Certain varieties possess far greater rarity and may function as a kind of currency during exchanges of goods, services, or special agreements between Villagers.
 
-Отдельного внимания заслуживает отношение жителей к самому обмену чаем. В пределах Долины чай нередко используется не только как напиток, но и как форма ценности. Некоторые сорта обладают значительно большей редкостью и могут применяться в качестве своеобразной валюты при обмене предметами, услугами или особыми договорённостями между Селянами.
+Despite the Valley’s isolation, part of the tea continues to regularly leave its borders. This responsibility belongs to the Villagers involved in trade and exchange with the outside world. Using paths known only to them, they depart from the Valley for extended periods in order to trade tea for provisions, materials, tools, and other goods necessary for the survival of the settlement.
 
-Несмотря на изолированность Долины, часть чая продолжает регулярно покидать её пределы. Этим занимаются Селяне, отвечающие за торговлю и обмен с внешним миром. Используя известные только им тропы, они покидают Долину на продолжительное время, чтобы обменивать чай на провизию, материалы, инструменты и другие товары, необходимые для жизни поселения.
+It is also through these trade routes that the tea of the Valley gradually spread far beyond the region itself. Because of this, a portion of every harvest is obligatorily sent to the Tavern for Shen, so that she may brew and distribute it among the Travelers as well.
 
-Именно благодаря этим торговым путям чай Долины постепенно распространился далеко за пределы региона. Известно также, что часть собранного чая в обязательном порядке отправляется в Таверну для Шен. По какой причине эта традиция сохраняется настолько строго даже среди нынешнего поколения Селян, мне пока установить не удалось.
+For the Travelers, tea likewise remains an inseparable part of daily life, a medium of exchange, and most importantly, one of the best ways to attune oneself before the next journey.
 
-На данный момент мне представляется, что чай в пределах Долины выполняет значительно более важную роль, чем обычный напиток или товар. По крайней мере, большая часть сохранившейся культуры Селян, их традиций и даже взаимоотношений с внешним миром так или иначе продолжает строиться именно вокруг него.
+---
+
+![Tea](Tea.png)
