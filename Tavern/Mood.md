@@ -1,14 +1,15 @@
-Настроение
+# Mood
 
-Настроение — одно из состояний, возникающих в момент, когда Врата становятся Путешественником.
+Mood is a state that emerges at the moment when a Gate becomes a Traveler.
 
-В Долине считается, что Настроение определяет внутренний ритм Пути и то, каким образом Путешественник будет воспринимать Миры вокруг себя.
+Translated records and conversations within the Tavern clearly indicate that Mood determines the inner rhythm of the Path and the manner in which a Traveler perceives the Worlds around them.
 
-Одни Настроения делают Путешественников более спокойными и созерцательными.
-Другие — толкают их к постоянному движению, поиску, риску или исследованию неизвестного.
+Some Moods make Travelers calmer and more contemplative. Others drive them toward constant movement, exploration, risk, or deeper investigations into the unknown.
 
-Несмотря на то, что Настроение часто влияет на характер и поведение Путешественника, оно не считается неизменной судьбой.
+Although Mood often influences the character and behavior of a Traveler, it is not considered an unchangeable fate.
 
-Многие записи Теантиста указывают на то, что со временем Путь способен изменять даже самые устойчивые Настроения.
+Approximately 25 different types of Moods are known, each unique in its own way and capable of shaping a Traveler’s behavior differently across various Worlds.
 
-Точное происхождение Настроений до сих пор остается неизвестным.
+---
+
+![Set of Mood](Mood.png)
