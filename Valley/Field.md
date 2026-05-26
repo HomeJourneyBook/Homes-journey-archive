@@ -7,6 +7,7 @@ At first glance, the Tea Fields create an impression of great simplicity. Nearly
 Despite this outward minimalism, the lives of the Villagers are deeply connected to this place. A significant portion of each day is spent among the rows of tea plants: here the inhabitants cultivate new growth, gather leaves, monitor the condition of the soil, and maintain order throughout the Fields.
 
 My observations also suggest that tea harvested from different parts of the Fields may vary in both flavor and properties, even when the leaves themselves appear identical. This is supported not only by several translated records, but also by the opinions of the Villagers themselves.
+
 ---
 
 ![Tea Field](Field.png)
