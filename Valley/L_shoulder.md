@@ -1,16 +1,16 @@
-# Левое Плечо
+# The Left Shoulder
 
-Левое Плечо — название, используемое Селянами для обозначения западной части горной гряды, окружающей Долину Чайных Драконов. Вместе с Правым Плечом эти массивные горы образуют естественное каменное кольцо, на протяжении многих поколений отделяющее Долину от внешнего мира.
+The Left Shoulder is the name used by the Villagers to describe the western section of the mountain range surrounding the Valley of Tea Dragons. Together with the Right Shoulder, these massive mountains form a natural stone ring that has separated the Valley from the outside world for many generations.
 
-Среди всех участков гряды именно Левое Плечо считается наиболее труднодоступной областью. Подступы к горам здесь покрыты плотными лесами и неровной каменистой местностью, из-за чего большая часть старых троп давно стала практически непроходимой. Даже сами Селяне крайне редко поднимаются в эту часть Долины без особой необходимости.
+Among all parts of the range, the Left Shoulder is considered the most inaccessible region. The approaches to the mountains are covered with dense forests and uneven rocky terrain, causing most ancient paths to have long since become nearly impassable. Even the Villagers themselves rarely travel into this part of the Valley without particular necessity.
 
-Именно над Левым Плечом возвышаются самые высокие пики всей горной цепи. В ясную погоду их можно увидеть практически из любой точки Долины, однако значительную часть времени вершины скрываются за облаками и плотными туманами.
+It is above the Left Shoulder that the highest peaks of the entire mountain chain rise. During clear weather, they can be seen from nearly every point within the Valley, though for much of the time their summits remain hidden behind clouds and heavy mist.
 
-Среди жителей распространено множество легенд, связывающих Левое Плечо с Красным Драконом. Наиболее известные из них утверждают, что где-то среди верхних пиков расположено его гнездо, откуда дракон наблюдает за всей Долиной. Подтвердить существование подобного места мне пока не удалось, однако большая часть Селян говорит об этом с необычной уверенностью.
+Among the inhabitants, there exists a theory connecting the Left Shoulder to the Red Dragon. According to this belief, somewhere among the upper peaks lies the dragon’s nest, from which it watches over the entire Valley. I have not yet been able to confirm the existence of such a place, though most Villagers — and even several surviving records — speak of it with unusual certainty.
 
-Помимо этого, в старых записях неоднократно встречаются упоминания о системе пещер, расположенных у подножий гор. Большинство подобных сведений крайне противоречиво: одни источники описывают обычные природные тоннели, другие же указывают на значительно более древние структуры, происхождение которых не связано с нынешними жителями Долины.
+In addition, old records repeatedly mention a system of caves located near the base of the mountains. Most such accounts are highly contradictory: some sources describe ordinary natural tunnels, while others refer to structures far more ancient, whose origins appear unrelated to the current inhabitants of the Valley.
 
-Несмотря на отсутствие достоверных исследований внутренней части Левого Плеча, у меня постепенно складывается ощущение, что именно здесь может скрываться значительная часть наиболее древней истории региона. По крайней мере, среди всех территорий Долины именно это место Селяне обсуждают с наибольшей осторожностью.
+Despite the lack of reliable exploration of the inner regions of the Left Shoulder, I gradually began to suspect that a significant portion of the region’s oldest history may be hidden there. At the very least, among all territories of the Valley, this is the place the Villagers discuss with the greatest caution.
 
 ---
 
