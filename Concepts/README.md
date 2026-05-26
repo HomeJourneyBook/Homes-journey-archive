@@ -1,28 +1,22 @@
-# Концепты
+# Concepts
 
-Данный раздел содержит записи, связанные с фундаментальными принципами, символами и явлениями, регулярно встречающимися в исследованиях Путешественников, легендах Долины и материалах древней книги.
+This section contains records related to the fundamental principles, symbols, and phenomena that regularly appear throughout my research of the ancient Book and the stories told by Travelers.
 
-В отличие от описаний конкретных Миров, мест или жителей, представленные здесь записи посвящены более абстрактным структурам — тем вещам, которые невозможно полностью отнести к одной территории или эпохе.
+Unlike descriptions of specific Worlds, places, or inhabitants, the records presented here are devoted to more abstract structures — things that cannot be fully tied to a single territory or era.
 
-Значительная часть подобных концепций продолжает оставаться недостаточно изученной. Многие из них упоминаются лишь фрагментарно, встречаясь одновременно в Схемах Пути, ритуалах Селян, рассказах Путешественников и старых легендах.
+A significant portion of these concepts remains insufficiently understood. Many are mentioned only fragmentarily. In several cases, I was forced to reconstruct information from isolated pieces of text, symbols, and recurring patterns discovered across different records.
 
-Некоторые записи внутри данного раздела могут противоречить друг другу или содержать неполные сведения. В ряде случаев мне приходилось восстанавливать информацию по отдельным обрывкам текста, символам и совпадениям, найденным в различных источниках.
-
-На данный момент именно эти концепции позволяют постепенно выстраивать более целостное понимание устройства Миров, природы Пути и связи между Долиной, Таверной и Путешественниками.
+At present, it is precisely these concepts that gradually allow for a more complete understanding of the structure of the universe as a whole.
 
 ---
 
-## Изученные концепты:
+## Well known concepts:
 
-- [Алфавит из фигур](Cipher.md)
-- [Схемы Пути](Scheme.md)
-- [Чай](Tea.md)
-- [Чашки чая](Cup.md)
+- [Figurative Language](Cipher.md)
+- [Schemes of the Path](Scheme.md)
+- [Tea](Tea.md)
+- [Tea Cups](Cup.md)
 - [Path](Path.md)
-- [Суть](Essence.md)
-- [Джит](Jeet.md)
-  
-## В процессе:
-
-- [Пролог](Prologue.md)
-
+- [Essence](Essence.md)
+- [Jeet](Jeet.md)
+- [Prologue](Prologue.md)
