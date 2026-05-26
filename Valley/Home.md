@@ -9,6 +9,7 @@ Inside, the House consists of a large communal space divided into several living
 Despite the simplicity of its interior, the inhabitants of the Valley treat the House with visible respect. Many old objects within the building are passed down between generations, while certain parts of the interior appear to have remained unchanged for an extremely long time.
 
 From my own experience, it feels as though the House holds a far greater meaning for the Villagers than simply being a place for sleep and meals. In many ways, the entire sense of everyday life within the Valley seems to be built around it.
+
 ---
 
 ![The Home](Home.png)
