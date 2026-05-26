@@ -1,13 +1,12 @@
 # Worlds
 
-Мирами в Home’s Journey называют различные места, области и реальности, существующие внутри бесконечного пространства Эссенции.
+Within the universe of Home’s Journey, I generally use the term Worlds to describe the various places, regions, and realities that exist within the infinite expanse of the Essence.
 
-Некоторые Миры представляют собой целые галактики или цивилизации.
-Другие могут быть отдельными регионами, долинами, руинами или изолированными пространствами, существующими по собственным законам.
+Some Worlds take the form of entire galaxies or civilizations. Others may consist of isolated regions, valleys, ruins, or enclosed spaces that exist according to their own laws.
 
-Каждый Мир обладает собственной атмосферой, историей и следами Пути тех, кто когда-либо проходил через него.
+Each World possesses its own atmosphere, history, and traces of the Path.
 
-Большинство известных записей о Мирах были собраны Путешественниками, жителями Долины и Теантистом.
+Most of the records concerning the Worlds were gathered either from the stories of Travelers, from the study of recovered artifacts, or through translations from the Book.
 
 ---
 
