@@ -1,23 +1,17 @@
-# Схема Пути
+# Schemes of the Path
 
-Среди множества предметов и записей, связанных с Путешественниками, особое место занимают Схемы Пути. Несмотря на внешнюю схожесть с обычными картами, чертежами или наборами символов, сами Путешественники крайне редко воспринимают их как простые указатели направления.
+Schemes of the Path are one of the fundamental concepts involved in traversing the Path, discovering unexplored Worlds, and traveling in general. Despite their outward resemblance to ordinary maps, blueprints, or collections of symbols, to Travelers they are far more than simple directional guides.
 
-Согласно сохранившимся сведениям, Схемы Пути используются для поиска новых Миров, построения маршрутов между уже известными территориями и навигации среди нестабильных переходов, существующих за пределами привычного пространства.
+Thanks to the exceptionally well-preserved records within the Book, as well as my long and productive work translating its concepts, I have managed to thoroughly understand how these Schemes function and how to reproduce them through sketches. In this work, I am occasionally assisted by the Artchemist.
 
-Большинство Схем представляет собой сложные комбинации фигур, линий, символов и структур, выполненных на древнем фигурном языке. При этом прямое чтение подобных записей зачастую оказывается невозможным без предварительной подготовки или длительного изучения самих принципов Пути.
+The foundation of the Schemes consists of complex combinations of figures, lines, symbols, and structures composed in the ancient figurative language. Even so, directly understanding how to establish a Path is often impossible without prior preparation and proper concentration.
 
-На данный момент значительная часть известных Схем создаётся Теантистом на основе перевода древней книги, найденной возле Чайного Камня. Используя накопленные записи, наблюдения Путешественников и закономерности фигурного языка, ему удалось частично разобраться в способах определения вероятных маршрутов между Мирами.
+However, even with knowledge of the Schemes’ principles, they remain highly unstable. The same route may change over time, certain Worlds disappear entirely from accessible Paths, and some Schemes lead Travelers into places never previously expected to exist.
 
-Однако даже сами принципы работы Схем остаются крайне нестабильными. Один и тот же маршрут может изменяться со временем, некоторые Миры полностью исчезают из доступных путей, а отдельные Схемы и вовсе приводят Путешественников в места, которые ранее не встречались ни в одной записи.
+Among Travelers, there is also a clear understanding that every Scheme is, to a certain extent, unique and never fully separate from the one who uses it. For this reason, some routes become accessible only to particular Travelers, while for others the exact same records remain nothing more than meaningless arrangements of figures. This is precisely why Shen plays such a crucial role in selecting the appropriate Path individually for each Traveler.
 
-Согласно рассказам посетителей Таверны, именно Шен занимается передачей Схем Путешественникам перед началом нового странствия. При этом установить, каким образом она определяет, какая именно Схема предназначена конкретному Путешественнику, до настоящего времени не удалось.
+Schemes of the Path are not merely instruments of navigation between Worlds, but one of the most ancient and complex systems preserved from the eras predating the Tavern, the Valley, and most other Worlds known today.
 
-Особый интерес вызывает тот факт, что некоторые Схемы невозможно полностью воспроизвести вручную. В ряде случаев фигуры внутри записей начинают восприниматься иначе после длительного изучения, а отдельные линии будто изменяют собственную структуру в зависимости от состояния наблюдателя.
-
-Часть исследователей предполагает, что Схемы Пути являются не обычными картами, а своеобразным способом взаимодействия с самой Эссенцией, лежащей в основе Миров. Подтвердить подобные предположения в настоящее время невозможно, однако количество необъяснимых совпадений вокруг самих Схем продолжает расти.
-
-Среди Путешественников также распространено мнение, что каждая Схема в определённой степени уникальна и никогда не существует отдельно от того, кто её использует. По этой причине некоторые маршруты оказываются доступными лишь определённым Путешественникам, в то время как для других те же самые записи остаются бесполезным набором фигур.
-
-На данный момент мне представляется, что Схемы Пути являются не просто инструментом навигации между Мирами, а одной из наиболее сложных и древних систем, сохранившихся со времён, предшествующих появлению Таверны, Долины и большинства известных сегодня Путешественников.
+![Scheme of the Path](Scheme.jpeg)
 
 ---
