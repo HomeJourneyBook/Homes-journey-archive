@@ -1,18 +1,15 @@
-# Изумрудный Лес
+# The Emerald Forest
 
-Изумрудный Лес располагается в нижней части Долины и занимает значительную территорию между Чайными Полями и окраинами горной гряды. Среди всех областей региона именно это место чаще всего упоминается в старых легендах и ритуальных записях Селян, хотя большая часть сведений о самом Лесе до настоящего времени остаётся крайне фрагментарной.
+The Emerald Forest lies in the lower region of the Valley and occupies a vast territory between the Tea Fields and the outer edges of the mountain range. Among all regions of the Valley, this place is mentioned most frequently within ancient legends and ritual records, although much of the information regarding the Forest itself still remains insufficiently studied.
 
-Своё название Лес получил благодаря плотной растительности и глубокому зелёному оттенку листвы, сохраняющемуся здесь практически в любое время года. Даже в периоды сильных туманов Изумрудный Лес остаётся заметно темнее остальных частей Долины, из-за чего его границы часто становятся различимы ещё задолго до приближения к самим деревьям.
+The Forest received its name due to its dense vegetation and the deep emerald hue of its foliage, which remains visible during nearly every season of the year. Even during periods of heavy fog, the Emerald Forest appears noticeably darker than the surrounding parts of the Valley, causing its borders to become distinguishable long before one approaches the trees themselves.
 
-Большая часть территории Леса покрыта густой растительностью, старым мхом и узкими тропами, известными преимущественно самим Селянам. Несмотря на относительную близость к Деревне, многие жители предпочитают не углубляться в лес без необходимости, особенно в ночное время.
+Most of the Forest is covered in thick vegetation, ancient moss, and narrow paths known primarily to certain Villagers responsible for tending the forest or conducting rituals within its boundaries. Despite its relative proximity to the Village, many inhabitants prefer not to venture deep into the forest without necessity, especially during nighttime.
 
-Согласно наблюдениям, часть Селян занимается поддержанием порядка в пределах Леса и следит за состоянием старых троп, ритуальных мест и некоторых древних конструкций, происхождение которых в настоящее время остаётся неизвестным. Именно здесь периодически проводятся отдельные обряды и церемонии Долины, хотя значение большей части подобных ритуалов уже было утрачено или намеренно скрывается самими жителями.
+Deep within the Emerald Forest also stands the Tea Rock — the burial site of the Founder of the Village. Despite the importance of this location to the people of the Valley, the Book contains almost no references to it.
 
-В глубине Изумрудного Леса также находится Чайный Камень — место погребения Создателя Деревни. Несмотря на важность этого места для жителей Долины, упоминания о нём в разговорах Селян встречаются крайне редко.
-
-На первый взгляд Изумрудный Лес может показаться обычной лесной территорией, окружающей Деревню. Однако во время пребывания здесь меня неоднократно не покидало ощущение, что именно в пределах Леса сохранилось наибольшее количество наиболее древних следов ранней истории Долины.
+At first glance, the Emerald Forest may seem like nothing more than an ordinary woodland surrounding the Village. However, during my time within it, I was repeatedly left with the feeling that it is precisely here that the greatest number of traces connected to the earliest history of the Valley have survived.
 
 ---
-
 
 ![Emerald Forest](Forest.png)
