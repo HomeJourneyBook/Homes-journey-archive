@@ -1,24 +1,18 @@
-# Dominia
+# The Dominia
 
-Согласно имеющимся описаниям, Доминия представляла собой крупную и достаточно разнообразную планету с развитой внутренней структурой, множеством регионов и признаками существования по крайней мере трех цивилизаций. В отличие от больлинства других миров, множество артефактов и записей касательно этой планеты, удалось восстановить.
+According to the surviving descriptions, the Dominia was a large and highly diverse planet with a developed internal structure, numerous regions, and signs of at least three distinct peoples having existed there.
 
-На данный момент наиболее подробно описаны три региона Доминии: Арборис, Игнеон и Кристалис. Несмотря на принадлежность к одному Миру, данные территории заметно отличаются друг от друга как визуально, так и по общей атмосфере, архитектуре и состоянию окружающей среды.
+At present, the three most thoroughly documented regions of the Dominia are Arboris, Igneon, and Crystalis. Despite belonging to the same World, these territories differ greatly from one another in appearance, atmosphere, architecture, and the overall condition of their environments.
 
-Арборис чаще всего упоминается как область садов, башен, спокойных поселений и старых традиций. Именно с этим регионом некоторые записи связывают возможное происхождение Шен.
-
-Игнеон, напротив, описывается как более суровая и нестабильная территория, где преобладают раскалённые породы, массивные конструкции и следы древней промышленной деятельности. 
-
-Кристалис считается одним из наиболее загадочных регионов Доминии. В сохранившихся описаниях регулярно встречаются упоминания кристаллических структур, пустынные области и разрозненность в структуре управления необычных форм, происхождение которых до настоящего времени остаётся неизвестным.
-
-Некоторые исследователи предполагают, что Доминия может являться одним из более древних Миров, существовавших ещё до появления значительной части современных Миров, куда обычно лежит Путь. Подтвердить данную теорию в настоящее время невозможно, однако количество древних структур и артефактов, обнаруживаемых в пределах Доминии, действительно значительно превышает большинство известных Миров.
+The exact period during which this World existed remains impossible to determine. However, judging by the large number of recovered Artifacts and the unusually well-preserved records, its decline appears to have occurred not so long ago.
 
 ---
 
-## Разделы для изучения
+## Known locations
 
-- Арборис
-- Игнеон
-- Кристалис
+- [Arboris](Arboris.md)
+- [Igneon](Igneon.md)
+- [Crystalis](Crystalis.md)
 
 ---
 
