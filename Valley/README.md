@@ -23,8 +23,16 @@ Despite the relative calmness of the Valley, I gradually began to suspect that a
 ![Map](Map.png)
 
 ---
+## More about life into Village
 
-## Known locations of the Valley
+- [Village](Village.md)
+- [Villagers](Villagers/README.md)
+- [Great Tea Tree](Tree.md)
+- [Home](Home.md)
+- [Tea Home](Tea_home.md)
+- [Workshop](Workshop.md)
+
+## More about locations of the Valley
 
 - [Первое Чайное Дерево](Tree.md)
 - [Деревня Селян](Village.md)
@@ -39,7 +47,4 @@ Despite the relative calmness of the Valley, I gradually began to suspect that a
 
 ## More notes related to the Valley
 
-- [Villagers](Villagers/README.md)
 - [The Legend of the Battle for the Great Tea Tree](Legends/README.md)
-
---
