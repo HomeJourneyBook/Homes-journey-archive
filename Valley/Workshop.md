@@ -1,16 +1,12 @@
-# Мастерская
+# The Workshop
 
-Среди трёх основных сооружений Деревни Мастерская остаётся, вероятно, самым необычным местом. В отличие от Дома и Чайной, назначение которых понятно практически любому жителю Долины, деятельность Мастерской редко поддаётся точному описанию даже со стороны самих Селян.
+Among the three main structures of the Village, the Workshop remains perhaps the most unusual place. Unlike the House and the Tea House, whose purposes are understandable to nearly anyone, the activities carried out within the Workshop follow truly unique directions.
 
-Именно здесь работают или работали жители, занимающиеся различными ремёслами и созданием искусства. В пределах Мастерской можно было встретить художников, резчиков по дереву, создателей чайной посуды, ткачей, музыкантов и других мастеров, чьи занятия зачастую выходят далеко за рамки обычного ремесла.
+It is here that the villagers engaged in various crafts and artistic practices work — or once worked. Within the Workshop one could encounter painters, woodcarvers, creators of tea utensils, weavers, musicians, and other masters whose occupations often extend far beyond ordinary craftsmanship.
 
-Большая часть предметов, используемых в Долине, создаётся именно здесь: от простых фонарей и чайных чаш до сложных декоративных конструкций, назначение которых не всегда удаётся определить сразу. Некоторые работы Селян носят исключительно практический характер, однако значительная часть создаваемых объектов, по всей видимости, служит скорее способом сохранения памяти, традиций и атмосферы самой Долины.
+Most objects used throughout the Valley are created here: from simple lanterns and tea cups to complex decorative structures and works of art. Some of the Villagers’ creations serve purely practical purposes, yet a significant portion of the objects produced possess spiritual or artistic meaning, and are often valued far beyond the borders of the Valley itself.
 
-Внутри Мастерской практически постоянно слышны звуки работы: скрип инструментов, удары резцов по древесине, негромкая музыка и разговоры между мастерами. При этом атмосфера здания заметно отличается от остальных мест Деревни. Даже во время обычной работы создаётся ощущение, что Селяне относятся к процессу создания искусства как к чему-то значительно более важному, чем простое ремесло.
-
-Особый интерес вызывают многочисленные изображения, символы и узоры, встречающиеся внутри Мастерской. Некоторые из них повторяются на протяжении многих поколений, однако объяснить их точное происхождение жители, как правило, не могут. Несколько старых записей даже предполагают, что часть подобных символов существовала в Долине ещё до появления нынешних Селян.
-
-На данный момент мне представляется, что Мастерская выполняет не только роль места для создания предметов, но и служит своеобразным хранилищем культурной памяти Долины. Именно здесь прошлое продолжает сохраняться не в виде книг или хроник, а через формы, материалы, музыку и создаваемые руками Селян вещи.
+Inside the Workshop, the sounds of labor are almost constant: the creaking of tools, quiet music, and conversations between craftsmen. The atmosphere within this building differs noticeably from the rest of the Village. During ordinary work, there is a persistent feeling that the Villagers regard the act of creating art as something far more significant than simple craftsmanship alone.
 
 ---
 
