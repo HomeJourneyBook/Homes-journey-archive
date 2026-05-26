@@ -1,31 +1,31 @@
 # Home’s Journey Archive
 
-Итак, если эти записи действительно были кем-то найдены, то, вероятно, стоит начать с объяснения того, чем именно является данный архив.
+So, if these records have truly been found by someone, then it is probably worth beginning with an explanation of where exactly this archive came from.
 
-Меня зовут Теантист. Насколько мне известно, я являюсь исследователем и переводчиком из Долины Чайных Драконов. Большая часть моих ранних воспоминаний связана именно с этим местом, хотя многие детали собственного прошлого до сих пор остаются для меня неясными.
+I am Teantist. As far as I know, I am a researcher and translator from the Valley of Tea Dragons. Most of my earliest memories are connected to this place, although many details of my own past still remain unclear even to me.
 
-Много лет назад возле Чайного Камня — места, которое жители Долины считают могилой Создателя Деревни, — мной была обнаружена древняя книга, написанная алфавитом из фигур. Значительная часть её страниц оказалась повреждена временем: некоторые фрагменты невозможно прочитать, часть символов не поддаётся точному переводу, а несколько разделов, судя по всему, были утрачены задолго до того, как книга попала ко мне.
+Many years ago, near the Tea Rock — a place that we Villagers of the Valley consider to be the grave of the Founder of the Village — I discovered an ancient book written in the figurative language. Much of its pages had been damaged by time: some fragments can no longer be read, certain symbols resist precise translation, and several sections appear to have been destroyed long before the book came into my possession.
 
-Именно перевод и изучение этой книги стали основой большей части записей, собранных в данном архиве.
+It is the translation and study of this book that became the foundation for most of the records collected within this archive.
 
-Многие термины, упоминаемые здесь, включая Долину, Путешественников, Таверну и происхождение самого чая, будут подробно рассмотрены в отдельных записях по мере систематизации материалов. Однако должен заранее предупредить: далеко не вся информация может считаться полностью достоверной. Некоторые записи противоречат друг другу, отдельные события сохранились лишь в виде фрагментов легенд, а часть сведений основана исключительно на моих собственных наблюдениях и попытках сопоставить найденные материалы.
+Many of the terms mentioned here — including the Valley, the Travelers, the Tavern, and the origin of tea itself — will be explored in separate records as the materials continue to be organized. However, I should warn in advance that not all information contained here can be considered entirely reliable. Some records survived only in fragments, while parts of these notes are based solely on my own observations and attempts to connect the surviving materials together.
 
-На данный момент я продолжаю работу над переводом книги и восстановлением утерянных записей.
+At present, I continue my work on translating the Book and restoring the lost records.
 
-Если вы действительно намерены изучить вселенную Home’s Journey вместе со мной — добро пожаловать в архив.
+If you truly intend to explore the universe of Home’s Journey together with me — then welcome to the Archive.
+
+![Teantist is writting Archive](Writer.gif)
 
 ---
 
-## Вводный гайд
+## Introductory Guide
 
-Для упрощения понимания, с чего начать и что вообщем и целом тут есть, в первую очередь стоит сказать, что "Home's Journey" большая и многогранная вселенная, включающая в себя множество Галактик и Планет, что для упрощения я обычно обьединяю это одним словом - Мир. Это может быть даже лишь отдельный регион, такой как Долина Чайных Драконов, откуда я и осознал себя и начал вести свои записи.
+To simplify the understanding of where to begin and what this archive contains as a whole, it is first important to say that Home’s Journey is a vast and multifaceted universe, where the Tavern currently serves as the main hub and point of intersection between all Worlds. It is a place where the Travelers gather — perhaps the only surviving intelligent forms of life remaining in the current era of the universe.
 
-Важным хабом и местом пересечения всех Миров, важным образом стоит упомянуть - Таверну. Место, куда стекаются Путешественники - возможно единственные сохранившееся разумные формы жизни в нынешнем времени Вселенной. Однако благодаря им, и найденной мной книги, мне удалось собрать множество записей касательно Миров прошлого, общих концепций и артефактов. 
+However, through them, and through the Book I discovered, I have managed to collect numerous records concerning the Worlds of the past, fundamental concepts, and various artifacts.
 
-## Основные разделы
-
-- [Valley of Tea Dragons](Valley/README.md)
 - [Tavern](Tavern/README.md)
+- [Valley of Tea Dragons](Valley/README.md)
 - [Worlds](Worlds/README.md)
 - [Concepts](Concepts/README.md)
 - [Artifacts](Artifacts/README.md)
