@@ -1,17 +1,14 @@
-# Дом
+# The Home
 
-Среди всех сооружений Деревни именно Дом чаще всего упоминается в записях Селян как её главный очаг. Несмотря на отсутствие каких-либо признаков роскоши, это место остаётся центром повседневной жизни Долины и, по всей видимости, одним из немногих сооружений, где жители действительно позволяют себе отдыхать от постоянной работы на чайных террасах.
+Among all structures within the Village, the House plays one of the most important roles in the lives of the Villagers as their primary hearth. Despite the complete absence of luxury, this place remains the center of the Valley’s daily life and the only location where the inhabitants truly allow themselves to rest from the constant labor surrounding tea production.
 
-Точное время постройки Дома установить не удалось. Судя по состоянию основания и различию используемых материалов, здание неоднократно перестраивалось и расширялось разными поколениями Селян. Некоторые части конструкции выглядят значительно древнее остальных, однако определить их первоначальное назначение в настоящее время невозможно.
+The exact time of the House’s construction could not be determined. Judging by the condition of its foundation and the variation in materials used throughout the structure, the building has been rebuilt and expanded many times by different generations of Villagers. Certain sections appear significantly older than the rest, though their original purpose can no longer be identified.
 
-Внутри Дом представляет собой большое общее пространство, разделённое на несколько жилых зон. Именно здесь Селяне спят, принимают пищу, пережидают периоды сильных туманов и собираются по вечерам после работы. Большая часть внутреннего пространства освещается тёплым светом фонарей и печей, из-за чего даже во время плотного тумана внутри сохраняется ощущение спокойствия и уюта.
+Inside, the House consists of a large communal space divided into several living areas. It is here that the Villagers sleep, eat, wait out periods of heavy fog and rain, and gather together in the evenings after work. Most of the interior is illuminated by the warm light of lanterns and furnaces, creating a constant atmosphere of calmness and comfort.
 
-В сохранившихся заметках неоднократно упоминается запах сушащегося чая, пропитавший практически всё здание. Некоторые исследователи прошлого даже отмечали, что спустя продолжительное время пребывания в Доме человек перестаёт замечать этот запах вовсе, воспринимая его как естественную часть окружающей среды.
+Despite the simplicity of its interior, the inhabitants of the Valley treat the House with visible respect. Many old objects within the building are passed down between generations, while certain parts of the interior appear to have remained unchanged for an extremely long time.
 
-Несмотря на простоту внутреннего устройства, жители Долины относятся к Дому с заметным уважением. Многие старые предметы внутри здания передаются между поколениями, а некоторые части интерьера, судя по всему, сохраняются без изменений уже крайне долгое время. Попытки выяснить причины подобного отношения обычно заканчиваются уклончивыми ответами или ссылками на старые традиции.
-
-На данный момент мне представляется, что Дом играет для Селян значительно более важную роль, чем просто место для сна и приёма пищи. В определённой степени именно вокруг него и строится ощущение повседневной жизни всей Долины
-
+From my own experience, it feels as though the House holds a far greater meaning for the Villagers than simply being a place for sleep and meals. In many ways, the entire sense of everyday life within the Valley seems to be built around it.
 ---
 
 ![The Home](Home.png)
