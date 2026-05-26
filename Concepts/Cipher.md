@@ -1,28 +1,27 @@
-# Язык Фигур
+# The Figurative Language
 
-Среди всех известных символических систем наиболее древней и труднопереводимой остаётся так называемый Язык Фигур — способ записи, встречающийся в Схемах Пути, старых легендах, ритуальных символах Долины и большинстве уцелевших фрагментов древней книги, найденной возле Чайного Камня.
+Among all known symbolic systems, the figurative language remains the most ancient and difficult to translate — a method of writing encountered within the ritual symbols of the Valley of Tea Dragons and throughout most surviving fragments of the ancient Book discovered near the Tea Rock.
 
-В отличие от обычных письменных систем, Язык Фигур практически не использует привычные слова или буквенные конструкции. Вместо этого записи состоят из геометрических фигур, соединённых линий, направлений, повторяющихся узоров и пространственных комбинаций символов, значение которых напрямую зависит от их расположения относительно друг друга.
+Unlike conventional writing systems, the figurative language makes almost no use of familiar words or alphabetical structures. Instead, its records consist of geometric figures, connected lines, directions, repeating patterns, and spatial combinations of symbols whose meanings depend directly on their relationship to one another.
 
-Наиболее часто в сохранившихся записях встречаются три основные формы: треугольник, круг и квадрат. Несмотря на внешнюю простоту подобных фигур, их использование в пределах языка остаётся крайне сложным и многослойным. В различных контекстах одна и та же фигура может обозначать:
+The three most common forms found throughout the surviving records are the triangle, the circle, and the square. Despite the apparent simplicity of these shapes, their usage within the language remains highly complex and layered. Depending on the context, the same figure may represent:
 
-* направление;
-* состояние;
-* роль;
-* тип сущности;
-* способ движения;
-* или даже целый Мир.
+* a direction;
+* a state;
+* a role;
+* a type of entity;
+* a method of movement;
+* or even an entire World.
 
-Среди Селян существует мнение, что именно от Языка Фигур частично произошла традиция разделения масок по форме. Подтвердить подобную связь невозможно, однако совпадение символов действительно встречается слишком часто, чтобы считать его случайным.
+Among the Villagers, there exists a belief that the tradition of dividing masks by shape partially originated from the figurative language itself. Although it is equally possible that the relationship developed in reverse, confirming or disproving this remains impossible at present. Nevertheless, the recurrence of matching symbols appears far too frequent to be dismissed as coincidence.
 
-Согласно имеющимся наблюдениям, Язык Фигур используется не только для хранения информации, но и как способ описания взаимосвязей между объектами, Мирами и самой Эссенцией. По этой причине попытки прямого буквального перевода большинства записей обычно приводят к потере значительной части смысла.
+According to current observations, the figurative language is used not merely for storing information, but also as a method of describing the relationships between objects, Worlds, and the Essence itself. For this reason, attempts at direct literal translation usually result in the loss of a significant portion of the intended meaning.
 
-Во время изучения древней книги мне постепенно стало очевидно, что многие схемы невозможно читать линейно, как обычный текст. Некоторые записи требуют восприятия всей структуры одновременно, а отдельные символы начинают приобретать новое значение лишь после сопоставления с другими Схемами Пути или рассказами Путешественников.
+While studying the ancient Book, it gradually became clear to me that many records cannot be read linearly like ordinary text. Certain passages require the entire structure to be perceived simultaneously, while some symbols only begin to reveal their meaning after deeper comparison with other records.
 
-Особенно странным остаётся поведение отдельных фигур внутри древних записей. В ряде случаев мне приходилось сталкиваться с ситуациями, при которых одни и те же символы воспринимались по-разному после длительного изучения или при сравнении с новыми сведениями о Мирах. До настоящего времени я не могу определить, связано ли это с особенностями самого языка или с ограничениями моего собственного восприятия.
-
-Несмотря на многочисленные попытки систематизировать Язык Фигур, большая часть его структуры всё ещё остаётся непонятной. Многие Схемы содержат символы, не встречающиеся больше нигде среди известных записей, а часть последовательностей и вовсе не поддаётся какой-либо интерпретации.
-
-На данный момент мне представляется, что Язык Фигур является не просто древней письменностью, а значительно более сложной системой описания самой структуры Пути, Миров и Эссенции. Возможно, именно поэтому даже фрагментарное понимание этого языка уже позволяет создавать новые Схемы и находить маршруты к ранее неизвестным Мирам.
+At present, it seems to me that the figurative language is not simply an ancient form of writing, but a far more complex system describing the very structure of the Path, the Worlds, and the Essence itself. Perhaps this is precisely why even a fragmentary understanding of the language already allows for the creation of new Schemes of the Path, and with them, the discovery of routes toward previously unknown Worlds.
 
 ---
+
+![The Figurative Language](Figures.jpeg)
+
