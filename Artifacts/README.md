@@ -1,3 +1,8 @@
 # Artifacts
 
-Here about all artifacts been found.
+Here about all artifacts been found or created.
+
+## List of Artifacts
+
+- The Book
+- 
