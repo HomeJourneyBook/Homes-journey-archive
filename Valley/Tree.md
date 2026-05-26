@@ -15,3 +15,7 @@ Of particular interest are the records connected to the Tree’s effect on memor
 ---
 
 ![The Great Tea Tree](Tree.png)
+
+---
+
+- [The Legend about Tree](Legends/README.md)
