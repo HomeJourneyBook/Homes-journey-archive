@@ -38,7 +38,7 @@ Szarg are Gates born from the abyss. Their form fluctuates. Like the tide, their
 
 Szarg reveal themselves not to those who search, but to those who lose their bearings. These are Gates saturated with the longing for a return that will never come.
 
-![Szarg]()
+![Szarg](Szarg.png)
 
 ---
 
@@ -52,7 +52,7 @@ Umbasir are Gates wrapped in changing shadows — a vessel between light and emp
 
 Umbasir are tied to the displaced, the forgotten, and the drained away. They emerge within Worlds where memory has already begun to fracture, where the Traveler themselves becomes uncertain of their own form.
 
-![Umbasir]()
+![Umbasir](Umbasir.png)
 
 
 ---
@@ -65,7 +65,7 @@ _“They calculate. They adapt. They do not stop.”_
 
 Mechird are Gates forged in precision. They were not simply created — they calculate the exact moment when creation should occur. They respond to cycles, structures, and repeating choices.
 
-![Mechird]()
+![Mechird](Mech.png)
 
 ---
 
@@ -79,7 +79,7 @@ Dreegan are Gates rooted within forgotten ages. Their branches whisper lost trut
 
 These Gates are perceived not as objects, but as landscapes hiding secret meaning, where silence itself becomes an invitation.
 
-![Dreegan]()
+![Dreegan](Dreegan.png)
 
 ---
 
@@ -93,4 +93,4 @@ Nuthqir are Gates beyond reason — silent observers from a Reality where time a
 
 Xuitqr are a silent threat: a gaze without expression, a mirror that does not reflect, but studies.
 
-![Xuitqr]()
+![Xuitqr](Xuqtr.png)
