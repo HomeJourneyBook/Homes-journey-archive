@@ -52,7 +52,7 @@ Umbasir are Gates wrapped in changing shadows — a vessel between light and emp
 
 Umbasir are tied to the displaced, the forgotten, and the drained away. They emerge within Worlds where memory has already begun to fracture, where the Traveler themselves becomes uncertain of their own form.
 
-![Umbasir](Umbasir.png)
+![Umbasir](Umbassir.png)
 
 
 ---
