@@ -15,13 +15,6 @@ At present, it is precisely these concepts that gradually allow for a more compl
 - [Figurative Language](Cipher.md)
 - [Schemes of the Path](Scheme.md)
 - [Tea](Tea.md)
-- [Path](Path.md)
-- [Essence](Essence.md)
-- [Jeet](Jeet.md)
-
-## Timings:
-
-- [Prologue](Prologue.md)
 - [Vanished Civilizations](civil.md)
 - [Current Era](era.md)
 
