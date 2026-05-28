@@ -19,6 +19,9 @@ At present, it is precisely these concepts that gradually allow for a more compl
 - [Path](Path.md)
 - [Essence](Essence.md)
 - [Jeet](Jeet.md)
+
+## Timings:
+
 - [Prologue](Prologue.md)
 - [Vanished Civilizations](civil.md)
 - [Current Era](era.md)
