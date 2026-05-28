@@ -47,13 +47,13 @@ These Gates reveal themselves not to those who seek, but to those who have lost 
 
 ## Umbasir
 
-Umbasir are organic, shifting Gates trembling at the edge of visibility. Their surface is unstable, resembling fabric woven from shadow, subtly moving even when the surrounding air remains still. They cannot be seen until activated — yet their presence is sensed long before approach.
+The Umbasir are organic, shifting Gates that tremble at the edge of visibility. Their surface is unstable, resembling fabric woven from shadows, subtly moving even when the surrounding air is perfectly still. They cannot be seen until the moment of activation — yet their presence is felt long before one draws near.
 
 _“You never see them arrive. But you always know when they are near.”_
 
-Umbasir are Gates wrapped in changing shadows — a vessel between light and emptiness. Their presence is a whisper, a flicker at the edge of sight. No one knows where they came from, only where they appear again.
+The Umbasir are wrapped in changing shadows — vessels between light and emptiness. They appear as a whisper, a flicker at the edge of sight. No one knows where they come from, only where they manifest again.
 
-Umbasir are tied to the displaced, the forgotten, and the drained away. They emerge within Worlds where memory has already begun to fracture, where the Traveler themselves becomes uncertain of their own form.
+These Gates are tied to the displaced, the forgotten, and those whose essence has begun to drain away. They emerge in Worlds where memory itself has started to fracture. In places where the connection to the Essence grows thin, the Umbasir become the last guides through the cracks of oblivion.
 
 ![Umbasir](Umbassir.png)
 
