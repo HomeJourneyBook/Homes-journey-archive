@@ -19,13 +19,13 @@ Below are listed the six known types of Gates, accompanied by brief notes transl
 
 ## Orbiton
 
-Orbiton are Gates suspended in a state of celestial stillness, existing beyond the flow of time itself. Their form resembles an astronaut turned inward — as though all of its mass has collapsed into itself. In the immediate vicinity of such Gates, distortions of space have been observed: everything appears drawn toward the center, as if pulled into a gravitational vortex.
+The Orbiton exist in a state of celestial stillness, beyond the flow of time. Their form resembles a traveler sealed within a shell, turned inward upon themselves — as though their entire being has collapsed into a single point. In the vicinity of such Gates, space itself seems to quietly bow toward the center, drawn by an invisible yet irresistible force.
 
-_“They do not rotate. They do not disappear. Yet they pull everything back.”_
+_“They do not rotate. They do not vanish. Yet everything returns to them.”_
 
-Orbiton are Gates beyond time, suspended in heavenly immobility. They pulse in the rhythm of forgotten stars. Orbiton do not speak, yet their silence echoes across dimensions. Those who approach too closely feel the weight of eternity pulling them inward.
+The Orbiton are silent. But their silence carries weight. Those who approach too closely feel the burden of eternity upon their shoulders — gentle, yet inexorable. It is not coercion. It is an invitation to return to the Center.
 
-Orbiton act not through force, but through presence. Their function is a return toward the center — where time ceases to matter, and perception collapses into a single point of observation.
+Their purpose is to show the way back. To the place where time loses all meaning, and all separated parts become one single gaze of contemplation.
 
 ![Orbiton](Orbiton.png)
 
