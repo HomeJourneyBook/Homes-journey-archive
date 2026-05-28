@@ -20,9 +20,6 @@ Despite the relative calmness of the Valley, I gradually began to suspect that a
 
 ---
 
-![Map](Map.png)
-
----
 ## More about life into Village
 
 - [Village](Village.md)
@@ -46,3 +43,9 @@ Despite the relative calmness of the Valley, I gradually began to suspect that a
 ## More notes related to the Valley
 
 - [The Legend of the Battle for the Great Tea Tree](Legends/README.md)
+
+---
+
+![Map](Map.png)
+
+---
