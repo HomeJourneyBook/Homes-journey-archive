@@ -1,26 +1,20 @@
-# Шен
+# Shen
 
-Среди всех фигур, связанных с Таверной, имя Шен встречается наиболее часто. Практически каждая сохранившаяся запись, описывающая Путешественников, чай или сами Схемы Пути, рано или поздно упоминает её присутствие. Несмотря на это, происхождение Шен до настоящего времени остаётся неизвестным.
+Shen is one of the central figures of the Tavern and its permanent keeper. She is responsible for the Bar, the distribution of tea among Travelers, and assisting in the selection of the necessary Path Schemes before a new journey begins.
 
-Большинство описаний изображает её как молодую девушку с длинными тёмными волосами и яркими зелёными глазами, тело покрыто татуировками, изображающих цветущую сакуру и драконов. Наиболее узнаваемой частью её образа остаётся широкая треугольная шляпа с длинными красными кисточками, благодаря которой Шен невозможно спутать с кем-либо другим среди посетителей Таверны.
+Among all figures connected to the Tavern, Shen’s name appears most frequently. Nearly every surviving record dedicated to Travelers, tea, or the Paths themselves eventually mentions her presence.
 
-Согласно большинству рассказов, именно Шен отвечает за приготовление чая, поддержание порядка внутри Таверны и встречу прибывающих Путешественников. При этом её роль никогда не воспринимается как обычная работа хозяина заведения. Судя по сохранившимся историям, само существование Таверны будто напрямую связано с её присутствием.
+Shen is a young woman with long dark hair and bright green eyes. Her body is covered in tattoos depicting blooming sakura and dragons. The most recognizable part of her appearance remains her wide triangular hat with long red tassels, making Shen nearly impossible to mistake for anyone else among the visitors of the Tavern.
 
-Большая часть посетителей впервые замечает Шен именно во время чайной церемонии. В сохранившихся записях она почти всегда описывается спокойно и доброжелательно, однако создаётся ощущение, что за внешней лёгкостью её поведения скрывается значительно больше знаний о мирах и путях, чем она позволяет понять окружающим.
+According to observations and the accounts of the Travelers themselves, Shen possesses an unusually deep understanding of Moods and is capable of finding an individual approach to almost anyone. For this reason, it is most often she who determines which tea, Path, or World may best suit a particular Traveler.
 
-Отдельного внимания заслуживает её связь с Долиной Чайных Драконов. Известно, что часть поставок чая в обязательном порядке отправляется именно для Шен. Вместе с чаем Таверна периодически получает и Схемы Пути — особые схемы и записи, используемые Путешественниками для поиска новых Миров и прокладывания маршрутов между ними.
+Despite her important role, Shen’s origin remains unknown. Certain records and scattered conversations indirectly connect her to Dominia, specifically to the region of Arboris, though no reliable confirmation of this has ever been discovered. Shen herself rarely shares information about her own past or how long she has remained within the Tavern.
 
-Согласно имеющимся сведениям, значительная часть современных Схем создаётся Теантистом на основе изучения древней книги, фигурного языка и накопленных наблюдений о движении Путешественников между Мирами. Каким именно образом Шен определяет, какая Схема должна быть передана конкретному Путешественнику, установить до настоящего времени не удалось.
+At the same time, there is a widespread feeling among Travelers that the very existence of the Tavern is somehow directly tied to her presence. Some records even suggest that descriptions of Shen barely differ from one another despite enormous spans of time between separate observations.
 
-В некоторых редких записях встречаются предположения, что Шен может происходить из Арбориса — одной из областей Доминии, известной своими древними садами, чайными традициями и необычной архитектурой. Подтвердить подобные сведения невозможно, однако сама Шен никогда не опровергала подобных разговоров напрямую.
+In addition to her work within the Tavern, Shen is also known as a collector of stories, the publisher of her own records, and the author of numerous illustrations dedicated to Travelers, Worlds, and tea culture. Based on her works alone, it would likely be possible to assemble a separate archive in the future.
 
-Несмотря на огромное количество историй, связанных с Шен, сведений о её прошлом практически не существует. Некоторые Путешественники считают, что она значительно старше самой Таверны. Другие же утверждают, что Шен появляется лишь там, где начинает формироваться очередное место для отдыха между странствиями.
-
-Особенно странным остаётся тот факт, что описания самой Шен редко отличаются друг от друга даже среди записей, разделённых огромными промежутками времени. Складывается ощущение, будто её присутствие внутри Таверны остаётся практически неизменным независимо от происходящих вокруг событий.
-
-При этом сама Шен крайне редко рассказывает о себе напрямую. Большинство разговоров с Путешественниками сводится к обсуждению их странствий, найденных миров, чая или историй, принесённых в Таверну извне.
-
-На данный момент мне представляется, что Шен является не просто хозяйкой Таверны, а одной из ключевых фигур, поддерживающих само существование путей между Мирами. По крайней мере, большая часть известных мне историй о Путешественниках так или иначе всегда начинается с чашки чая и Схемы Пути, полученной именно от неё.
+Among most Travelers, Shen is perceived not only as the keeper of the Tavern, but also as one of the few figures of the Current Era who truly understands the nature of the Path.
 
 ---
 
