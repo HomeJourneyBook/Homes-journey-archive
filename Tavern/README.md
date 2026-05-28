@@ -16,15 +16,16 @@ To this day, I have been unable to determine the true origin of the Tavern.
 
 ---
 
-![Tavern](Tavern.png)
-
----
-
-## Смежные записи
+## Main notes here:
 
 - [Home Travelers](Travelers.md)
 - [Shen](Shen.md)
 - [The Bar](bar.md)
 - [Cells](cells.md)
+
+---
+
+![Tavern](Tavern.png)
+
   
 ---
