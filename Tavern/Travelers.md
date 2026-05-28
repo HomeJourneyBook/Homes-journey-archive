@@ -16,9 +16,11 @@ Special mention should also be given to the Ritual of the 10 Gates, periodically
 
 More detailed explanations regarding Travelers and related concepts are provided in the corresponding sections below.
 
-## Following notes
+---
 
 - [Unique Travelers](1-1/1-1.md)
 - [Mood](Mood.md)
 - [Gates](Gate.md)
 - [Worlds](../Worlds/README.md)
+
+---
