@@ -40,8 +40,6 @@ Despite the relative calmness of the Valley, I gradually began to suspect that a
 
 ---
 
-## More notes related to the Valley
-
 - [The Legend of the Battle for the Great Tea Tree](Legends/README.md)
 
 ---
