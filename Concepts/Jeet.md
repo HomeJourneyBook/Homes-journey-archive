@@ -1,7 +1,9 @@
-# Джит 
+# Jeet
 
-Этот термин, встречающийся лишь в небольшом количестве сохранившихся записей. Большая часть упоминаний связана с нестабильными Мирами, повреждёнными Схемами Пути и случаями искажения Сути.
+Jeet is the term used to describe an unstable state of Essence in which Worlds, objects, or living forms begin to lose their stability, shape, and integrity.
 
-В отличие от обычного состояния Сути, Джит описывается как её нарушенная или нестабильная форма. В отдельных записях упоминается, что присутствие Джита способно изменять форму объектов, нарушать восприятие пространства и вызывать постепенное разрушение окружающей среды.
+According to translated records, Jeet most commonly manifests through spatial distortions, disruptions of perception, changes in the structure of objects, or the gradual decay of memory surrounding the things themselves. In certain cases, Worlds affected by Jeet may completely disappear from known Schemes of the Path or become inaccessible to most Travelers.
 
-Некоторые Путешественники избегают регионов, где ранее фиксировались следы Джит. Считается, что длительное пребывание рядом с подобными областями может влиять не только на состояние Мира, но и на самих существ.
+The exact nature of Jeet remains unknown even according to the Book itself. Within the surviving records, it is assumed to be a natural consequence of the instability of Essence — an inevitable process of gradual collapse.
+
+Travelers always attempt to avoid Worlds corrupted by Jeet, as prolonged exposure to such places may gradually affect not only the surrounding environment, but also the observer themselves. The consequences of this can lead to deviation from the Path and eventual descent into prolonged oblivion.
