@@ -1,16 +1,7 @@
-# Путь
+# The Path
 
-Путь — один из самых часто используемых терминов среди Путешественников и жителей Долины.
+The Path is the term commonly used to describe the continuous movement of Travelers between Worlds, as well as the process through which Essence gradually gathers experience, knowledge, and understanding of itself.
 
-Его значение редко объясняется напрямую, поскольку считается, что каждый понимает Путь по-своему.
+According to translated records, the Path is not considered a simple route or physical journey. Rather, it represents a fundamental principle of existence itself, connecting Worlds, Travelers, Gates, and the remnants of vanished civilizations into a single ongoing process.
 
-Для одних Путь означает странствие между Мирами.
-Для других — поиск смысла, воспоминаний или собственного места среди бесчисленных реальностей.
-
-В Таверне нередко говорят, что невозможно по-настоящему остановиться, пока продолжается сам Путь.
-
-Считается, что именно Настроение определяет то, каким станет Путь Путешественника.
-
-Многие Схемы Пути создаются не для достижения конкретной цели, а лишь для того, чтобы помочь сделать следующий шаг.
-
-Некоторые записи Теантиста также предполагают, что потеря собственного Пути может быть связана с появлением нестабильности, известной как Джит.
+Most Travelers perceive the Path differently depending on their Mood, the Worlds they visit, and the Schemes guiding them. For some, the Path becomes a search for knowledge. For others — a form of observation, exploration, or an attempt to understand what remains of the Universe during the Current Era.
