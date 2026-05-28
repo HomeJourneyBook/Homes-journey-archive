@@ -1,16 +1,19 @@
 # Gates
 
-Gates are the forms through which the Essence is capable of manifesting itself as Travelers.
+Gates are the sacred forms through which the Essence manifests itself as Travelers.
 
-At the moment of connection with the Essence, a Gate becomes a complete Traveler, and alongside this transformation, its Mood also emerges.
+At the moment of connection with Essence, a Gate awakens and becomes a complete Traveler. It is then that their Mood is born — a unique echo of both the Gate’s original nature and the traveler’s own heart.
 
-Each type of Gate possesses its own nature, external characteristics, and internal inclinations. My research indicates that each of the six known Gate types was created by highly advanced civilizations of the past. Into these final creations, they placed not merely craftsmanship, but something far deeper — their longing for the unknown and their unfulfilled desire to complete the Path they themselves could never finish. The greatest thing they were capable of creating was entrusted to the hope that someone else might reach the destination where they had failed.
+Each type of Gate possesses its own character, appearance, and inner inclinations. According to my research, all six known types were created by highly advanced civilizations of the previous Epochs. These were not mere tools of travel, but the final, most profound creations of their makers.
 
-For this reason, it appears that before the current era there existed at least six highly developed civilizations, each leaving behind one of the six different types of Gates as their legacy. Altogether, throughout the entirety of the known universe, their total number is believed to have reached approximately 1,100.
+The last great civilizations approached a deep understanding of the Path and the Great Return. They came to realize the inevitable limitations of their own existence — that no matter how magnificent their achievements, they too would eventually fade. In response, they poured their remaining strength, longing, and unfulfilled hopes into the creation of the Gates.
 
-It also remains unknown whether the existing names of the Gates were originally given by those civilizations themselves, or later assigned by the author of the Book. Likewise, the reasoning behind the forms chosen for the Gates remains unclear. One can only speculate what inspired the races of the past — or perhaps what they themselves once looked like.
+They crafted them as bridges — not only between worlds, but between eras. As a final act of humility and love, they entrusted their deepest desire to continue the Journey to those who would come after them. The Gates became their legacy, their message, and their quiet prayer: “We could not reach the end of the Path. Perhaps you will.”
+It is believed that before the Current Era there existed at least six such highly developed civilizations, each leaving behind one distinct type of Gate as their most precious inheritance. In total, across the known universe, their number is estimated to be around 1,100.
 
-Below will be listed the six known types of Gates, accompanied by brief notes translated from the Book.
+It remains unknown whether the current names of the Gates were given by their creators or assigned later by the author of the Book. The reasons behind the chosen forms are likewise veiled in mystery. One can only wonder — did they shape the Gates in the image of beings they once knew, or perhaps in the image of what they themselves wished to become?
+
+Below are listed the six known types of Gates, accompanied by brief notes translated from the Book.
 
 ---
 
