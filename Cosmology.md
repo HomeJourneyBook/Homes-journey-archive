@@ -24,7 +24,7 @@ And thus occurred the first and greatest act — not creation, but self-division
 
 The Unified Essence intentionally shattered itself.
 
-—-
+—--
 
 The first consequences of the Division became the Worlds. They did not emerge as ordinary places or spaces, but as separate trajectories of the divided Essence. Each World received its own nature, its own rhythm, and its own way of experiencing existence.
 
