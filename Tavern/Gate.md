@@ -33,13 +33,13 @@ Their purpose is to show the way back. To the place where time loses all meaning
 
 ## Szarg
 
-Szarg are Gates dwelling within darkness untouched by light. They resemble a frozen figure whose form remains slightly opened, like a waiting maw. These shells were often activated deep within craters or in zones of absolute radio silence. Their presence carries a sensation of hollow anticipation — they do not call, yet neither do they release.
+The Szarg dwell in darkness untouched by light. Their form resembles a frozen figure with a slightly open maw — like an ever-waiting maw. These Gates most often awaken in the depths of craters or in zones of absolute silence, where even echoes perish before they are born.
 
 _“It hides where light dares not enter. It does not chase. It waits.”_
 
-Szarg are Gates born from the abyss. Their form fluctuates. Like the tide, their hunger is endless. Those who hear the call of the depths never return unchanged.
+The Szarg are born from the abyss. Their shape shifts like the tide, and their hunger is endless. Those who hear the call of the depths never return unchanged.
 
-Szarg reveal themselves not to those who search, but to those who lose their bearings. These are Gates saturated with the longing for a return that will never come.
+These Gates reveal themselves not to those who seek, but to those who have lost their way. They are saturated with longing for a Return that may never come.
 
 ![Szarg](Szarg.png)
 
