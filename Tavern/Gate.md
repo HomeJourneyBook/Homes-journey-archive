@@ -62,11 +62,13 @@ These Gates are tied to the displaced, the forgotten, and those whose essence ha
 
 ## Mechird
 
-Mechird are Gates assembled with engineering precision, yet stripped of all context. They resemble fragments of machines once embedded within something far greater. Their surfaces are metallic and angular, filled with repetition.
+The Mechird are assembled with engineering precision, yet stripped of all original context. Their form resembles fragments of machines once part of something far greater. Their surfaces are metallic and angular, filled with repeating patterns and flawless lines.
 
 _“They calculate. They adapt. They do not stop.”_
 
-Mechird are Gates forged in precision. They were not simply created — they calculate the exact moment when creation should occur. They respond to cycles, structures, and repeating choices.
+The Mechird are Gates forged in precision. They were not merely created — they calculate the exact moment when travel should occur. They respond to cycles, structures, and repeating choices. Where other Gates follow longing or intuition, the Mechird follow logic and order — the final weapon of civilizations that tried to defeat the chaos of Jit and the oblivion of time through calculation.
+
+Yet even their flawless precision carries a quiet melancholy. They stand as reminders of those who believed that if everything was calculated correctly, the Return could be planned.
 
 ![Mechird](Mech.png)
 
