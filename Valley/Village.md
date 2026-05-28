@@ -12,12 +12,6 @@ Despite the outward calmness of the Village, living here creates a persistent fe
 
 ---
 
-![Village](Village.jpeg)
-
-![Village_Night](Village_N.png)
-
----
-
 ## More related notes:
 
 - [Villagers](Villagers/README.md)
@@ -25,3 +19,11 @@ Despite the outward calmness of the Village, living here creates a persistent fe
 - [Home](Home.md)
 - [Tea Home](Tea_home.md)
 - [Workshop](Workshop.md)
+  
+---
+
+![Village](Village.jpeg)
+
+![Village_Night](Village_N.png)
+
+---
