@@ -16,8 +16,6 @@ To this day, I have been unable to determine the true origin of the Tavern.
 
 ---
 
-## Main notes here:
-
 - [Home Travelers](Travelers.md)
 - [Shen](Shen.md)
 - [The Bar](bar.md)
