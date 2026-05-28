@@ -12,9 +12,18 @@ Many of the terms mentioned here — including the Valley, the Travelers, the Ta
 
 At present, I continue my work on translating the Book and restoring the lost records.
 
-If you truly intend to explore the universe of Home’s Journey together with me — then welcome to [the Archive](intro.md).
+If you truly intend to explore the universe of Home’s Journey together with me — then welcome to the Archive.
 
-  
 ---
 
-![Book](Book.gif)
+- [Cosmology](Cosmology.md)
+- [Tavern](Tavern/README.md)
+- [Valley of Tea Dragons](Valley/README.md)
+- [Worlds](Worlds/README.md)
+- [Concepts](Concepts/README.md)
+- [Artifacts](Artifacts/README.md)
+
+---
+
+![Teantist is writting Archive](Writer.gif)
+
