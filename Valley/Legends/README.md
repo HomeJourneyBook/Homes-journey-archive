@@ -6,10 +6,6 @@ According to the Legends, countless beings, rulers, creatures, and entire people
 
 Below are the known leaders who took part in the events later remembered as the Legends of the Valley.
 
----
-
-## Битва за Чайное Дерево
-
 - [The Legend](Legend.md)
 - [About Dragons](Dragons.md)
 - [About Leaders](Creatures.md)
