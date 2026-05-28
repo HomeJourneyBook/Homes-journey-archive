@@ -13,6 +13,6 @@ At present, it is precisely these concepts that gradually allow for a more compl
 - [Figurative Language](Cipher.md)
 - [Schemes of the Path](Scheme.md)
 - [Tea](Tea.md)
-- [Vanished Civilizations](civil.md)
+- [Departed Civilizations](civil.md)
 - [Current Era](era.md)
 
