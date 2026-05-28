@@ -4,6 +4,7 @@ To simplify the understanding of where to begin and what this archive contains a
 
 However, through them, and through the Book I discovered, I have managed to collect numerous records concerning the Worlds of the past, fundamental concepts, and various artifacts.
 
+- [Cosmology](Cosmology.md)
 - [Tavern](Tavern/README.md)
 - [Valley of Tea Dragons](Valley/README.md)
 - [Worlds](Worlds/README.md)
