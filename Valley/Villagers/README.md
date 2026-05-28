@@ -12,10 +12,6 @@ Despite the apparent simplicity of their daily life, there is a strong sense tha
 
 ---
 
-![Villagers](Villagers.jpeg)
-
----
-
 ## Known Villagers:
 
 - [Artchemist](Artchemist.md)
@@ -34,5 +30,9 @@ Despite the apparent simplicity of their daily life, there is a strong sense tha
 - [Cook](Cook.md)
 - [Blacksmith](Blacksmith.md)
 - [Teasculapius](Doctor.md)
+  
+---
+
+![Villagers](Villagers.jpeg)
 
 ---
