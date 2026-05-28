@@ -20,3 +20,5 @@ At present, it is precisely these concepts that gradually allow for a more compl
 - [Essence](Essence.md)
 - [Jeet](Jeet.md)
 - [Prologue](Prologue.md)
+- Нынешняя Эпоха
+- Ушедшие Цивилизации
