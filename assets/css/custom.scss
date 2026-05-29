@@ -1,26 +1,49 @@
 ---
 ---
 
-// Import Just the Docs base styles
-@import "just-the-docs";
+// === Кастомные стили для Home's Journey ===
 
-// Твои кастомные стили
-body {
-  font-family: 'Georgia', serif;
-}
-
+// Основной фон (тёмная атмосфера)
+body,
 .main {
   background-image: url('/assets/images/bg.jpeg') !important;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
+  background-color: #0f0c08; /* запасной тёмный цвет */
 }
 
-h1, h2, h3 {
+// Шрифты
+body {
+  font-family: 'Georgia', 'Times New Roman', serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Cinzel', 'Playfair Display', serif;
+  text-shadow: 0 0 8px rgba(0, 0, 0, 0.6);
+}
+
+// Цвета текста и акцентов
+.main-content {
+  color: #e8d5b8;
+}
+
+a {
+  color: #c9a66b;
+}
+
+a:hover {
+  color: #e8d5b8;
+}
+
+// Боковая панель (sidebar)
+.side-bar {
+  background-color: rgba(15, 12, 8, 0.95) !important;
+  border-right: 1px solid #3a2f1f;
+}
+
+// Заголовок сайта
+.site-title {
+  color: #e8d5b8 !important;
   font-family: 'Cinzel', serif;
-}
-
-// Если хочешь тёмную атмосферу
-.sidebar {
-  background-color: rgba(0, 0, 0, 0.85);
 }
