@@ -1,7 +1,7 @@
 title: Home's Journey Archive
 description: Archive of Worlds, Travelers and forgotten Paths
 
-# Используем обычную тему (стабильнее)
+remote_theme: false
 theme: jekyll-theme-minimal
 
 color_scheme: dark
