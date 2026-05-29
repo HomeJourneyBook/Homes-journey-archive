@@ -1,7 +1,7 @@
 ---
 title: Artifacts
 nav_order: 5
-parent:
+has_children: true
 ---
 
 # Artifacts
