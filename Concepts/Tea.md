@@ -15,5 +15,3 @@ It is also through these trade routes that the tea of the Valley gradually sprea
 For the Travelers, tea likewise remains an inseparable part of daily life, a medium of exchange, and most importantly, one of the best ways to attune oneself before the next journey.
 
 ---
-
-![Tea](Tea.png)
