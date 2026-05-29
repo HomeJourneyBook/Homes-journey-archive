@@ -1,6 +1,7 @@
 ---
 title: The Tavern
 nav_order: 2
+parent:
 ---
 
 # The Tavern
