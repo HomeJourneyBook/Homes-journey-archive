@@ -1,40 +1,20 @@
 ---
 ---
 
-// Пиксельный шрифт
-@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
-
-// ФОН
-html, body {
-  background-image: url('/assets/images/bg.jpeg') !important;
-  background-size: cover !important;
-  background-position: center !important;
-  background-attachment: fixed !important;
-  background-color: #0a0503 !important;
-}
-
-// Левая панель
-.side-bar {
-  background: rgba(5, 3, 2, 0.97) !important;
-}
-
-// Основной контент
+/* Минимальные правки для атмосферы */
 .main {
-  background: rgba(10, 5, 3, 0.88) !important;
+  background: rgba(15, 10, 5, 0.85);
 }
 
-// Пиксельный стиль
-body, p, li, .text {
-  font-family: 'Press Start 2P', system-ui !important;
-  font-size: 13px;
-  line-height: 1.6;
+.side-bar {
+  background: rgba(5, 3, 2, 0.95) !important;
 }
 
-h1, h2, h3, h4, .site-title {
-  font-family: 'Press Start 2P', system-ui !important;
-  text-shadow: 2px 2px 0 #000;
-  color: #ffe6b3 !important;
+/* Чтобы текст был читаемее */
+.main-content {
+  color: #e8d5b8;
 }
 
-a { color: #d4af88; }
-a:hover { color: #fff; }
+a {
+  color: #c9a66b;
+}
