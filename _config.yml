@@ -17,3 +17,12 @@ footer_content: ""
 aux_links: {}
 
 nav_enabled: true
+
+# Custom styles
+sass:
+  sass_dir: assets/css
+
+# Убираем лишнее в just-the-docs
+just_the_docs:
+  collections:
+    # если нужно
