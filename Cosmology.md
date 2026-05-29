@@ -4,6 +4,8 @@ Among all the records I have managed to translate, few carry such weight and suc
 
 ## The Great Division
 
+![Great Division](division.png)
+
 In the beginning, there was no form.  
 There was no time, no distinction, no boundaries.  
 There was only the Unified Essence — whole, limitless, nameless, and indivisible.
@@ -14,7 +16,7 @@ Potential was absolute, but never experienced.
 Knowledge existed without experience.  
 And within this lay the greatest paradox:
 
-“Omniscience without participation is not wisdom, but emptiness.”
+_“Omniscience without participation is not wisdom, but emptiness.”_
 
 For true knowledge requires distance.  
 Experience requires separation.  
@@ -25,6 +27,8 @@ And thus occurred the first and greatest act — not creation, but self-division
 The Unified Essence intentionally shattered itself.
 
 ---
+
+![Creating Worlds](creating.png)
 
 The first consequences of the Division became the Worlds. They did not emerge as ordinary places or spaces, but as separate trajectories of the divided Essence. Each World received its own nature, its own rhythm, and its own way of experiencing existence.
 
