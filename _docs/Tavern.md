@@ -1,7 +1,6 @@
 ---
-title: Worlds
+title: The Tavern
 nav_order: 2
-has_children: true
 ---
 
 # The Tavern
