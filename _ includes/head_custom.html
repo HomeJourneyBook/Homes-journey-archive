@@ -1,23 +1,25 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
 <style>
-  /* Пиксельный шрифт */
-  @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
-
-  body, .site-nav, .main-content {
-    font-family: 'Press Start 2P', monospace;
-    font-size: 11px;
-    line-height: 1.8;
-  }
-
-  /* Фоновое изображение */
   body {
-    background-image: url('/assets/images/bg.jpeg');
+    font-family: 'Press Start 2P', monospace !important;
+    font-size: 10px;
+    line-height: 2;
+    background-image: url('{{ "/assets/images/bg.jpeg" | relative_url }}');
     background-size: cover;
     background-attachment: fixed;
-    background-repeat: no-repeat;
   }
 
-  /* Чтобы текст читался поверх фона */
-  .main-content-wrap, .side-bar {
-    background: rgba(15, 15, 20, 0.88);
+  .side-bar {
+    font-family: 'Press Start 2P', monospace !important;
+    background: rgba(13, 17, 23, 0.92);
+  }
+
+  .main-content-wrap {
+    background: rgba(13, 17, 23, 0.88);
+  }
+
+  h1, h2, h3, h4 {
+    font-family: 'Press Start 2P', monospace !important;
   }
 </style>
