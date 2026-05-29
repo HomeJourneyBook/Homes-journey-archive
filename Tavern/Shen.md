@@ -1,3 +1,9 @@
+---
+title: Shen
+parent: The Tavern
+nav_order: 2
+---
+
 # Shen
 
 Shen is one of the central figures of the Tavern and its permanent keeper. She is responsible for the Bar, the distribution of tea among Travelers, and assisting in the selection of the necessary Path Schemes before a new journey begins.
