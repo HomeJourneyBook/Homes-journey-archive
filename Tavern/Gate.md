@@ -88,14 +88,14 @@ These Gates are perceived not as objects, but as landscapes hiding secret meanin
 
 ---
 
-## Xuitqr
+## # Xuitqr (Nuthqir)
 
-Xuitqr — or Nuthqir, as the name itself remains inconsistent across surviving records — are Gates of intellectual anomaly, motionless yet filled with perception. They resemble a grown mass, organic and technological at once, as though assembled from relics belonging to different eras. These Gates display no emotion, yet their gaze remains fixed upon everything.
+Xuitqr appear as towering, imposing figures crowned with masses of twisting tentacles, resembling a living crown of roots or exposed nerves. At the center of their bodies lies a vast black void — an absolute rupture within reality itself.
 
-_“They do not speak. They do not move. And yet, they see everything.”_
+_“They do not speak.  They do not move. And yet — they see everything.”_
 
-Nuthqir are Gates beyond reason — silent observers from a Reality where time and form collapse. Those who stare for too long begin to feel something staring back.
+Nuthqir are Gates of silent judgment and all-encompassing perception. They stand as ancient sentinels, combining overwhelming organic presence with something entirely incomprehensible. Those who stare into the black emptiness within their chest for too long begin to feel their own essence slowly unfolding before something infinitely attentive and detached.
 
-Xuitqr are a silent threat: a gaze without expression, a mirror that does not reflect, but studies.
+They appear in the most desolate places — among dead plains and forgotten ruins. They neither call nor repel. They simply watch. And only those whose soul can endure that gaze are capable of passing through the void.
 
 ![Xuitqr](Xuqtr.png)
