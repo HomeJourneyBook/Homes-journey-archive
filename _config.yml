@@ -7,8 +7,4 @@ color_scheme: dark
 sass:
   sass_dir: assets/css
 
-# Навигация
-nav_ordering: manual   # будет использовать nav_order из front matter
-
-# Если хочешь отключить поиск
 search_enabled: false
