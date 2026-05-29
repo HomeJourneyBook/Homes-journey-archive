@@ -9,3 +9,11 @@ search_enabled: true
 
 plugins:
   - jekyll-remote-theme
+
+heading_anchors: false
+
+footer_content: ""
+
+aux_links: {}
+
+nav_enabled: true
