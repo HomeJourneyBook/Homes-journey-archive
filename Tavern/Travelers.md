@@ -1,3 +1,9 @@
+---
+title: Home Travelers
+parent: The Tavern
+nav_order: 1
+---
+
 # Home Travelers
 
 Travelers are manifested forms of Essence, created through passage into one of the six known types of Gates.
