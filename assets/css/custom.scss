@@ -1,49 +1,43 @@
 ---
 ---
 
-// === Кастомные стили для Home's Journey ===
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600&family=Cinzel:wght@400;500&display=swap');
 
-// Основной фон (тёмная атмосфера)
-body,
-.main {
+body {
+  font-family: 'Cormorant Garamond', serif;
   background-image: url('/assets/images/bg.jpeg') !important;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
-  background-color: #0f0c08; /* запасной тёмный цвет */
+  background-color: #0a0603;
+  color: #e8d5b8;
 }
 
-// Шрифты
-body {
-  font-family: 'Georgia', 'Times New Roman', serif;
+.main {
+  background: rgba(10, 6, 3, 0.85) !important;
+}
+
+.side-bar {
+  background: rgba(5, 3, 2, 0.95) !important;
+}
+
+.site-header {
+  background: rgba(5, 3, 2, 0.95) !important;
+}
+
+.main-content {
+  background: transparent !important;
 }
 
 h1, h2, h3, h4 {
-  font-family: 'Cinzel', 'Playfair Display', serif;
-  text-shadow: 0 0 8px rgba(0, 0, 0, 0.6);
-}
-
-// Цвета текста и акцентов
-.main-content {
-  color: #e8d5b8;
+  font-family: 'Cinzel', serif;
+  color: #f0d9a8;
 }
 
 a {
-  color: #c9a66b;
+  color: #d4af88;
 }
 
 a:hover {
-  color: #e8d5b8;
-}
-
-// Боковая панель (sidebar)
-.side-bar {
-  background-color: rgba(15, 12, 8, 0.95) !important;
-  border-right: 1px solid #3a2f1f;
-}
-
-// Заголовок сайта
-.site-title {
-  color: #e8d5b8 !important;
-  font-family: 'Cinzel', serif;
+  color: #f0d9a8;
 }
