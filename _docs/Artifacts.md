@@ -1,6 +1,7 @@
 ---
 title: Artifacts
 nav_order: 5
+parent:
 ---
 
 # Artifacts
