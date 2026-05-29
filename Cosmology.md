@@ -9,8 +9,6 @@ Among all the records I have managed to translate, few carry such weight and suc
 
 ## The Great Division
 
-![Great Division](division.png)
-
 In the beginning, there was no form.  
 There was no time, no distinction, no boundaries.  
 There was only the Unified Essence — whole, limitless, nameless, and indivisible.
@@ -31,9 +29,9 @@ And thus occurred the first and greatest act — not creation, but self-division
 
 The Unified Essence intentionally shattered itself.
 
----
+![Great Division](division.png)
 
-![Creating Worlds](creating.png)
+---
 
 The first consequences of the Division became the Worlds. They did not emerge as ordinary places or spaces, but as separate trajectories of the divided Essence. Each World received its own nature, its own rhythm, and its own way of experiencing existence.
 
@@ -72,3 +70,7 @@ Jeet is not a mistake or an external threat.
 On the contrary — it is an inevitable consequence of separation. The price of being free to experience, to feel, and to exist apart from Unity.
 
 And though the excessive spread of Jeet may slow or even endanger the Great Return itself — the moment when the divided Essence may once again become whole — the Path will continue until it is completed.
+
+![Creating Worlds](creating.png)
+
+---
