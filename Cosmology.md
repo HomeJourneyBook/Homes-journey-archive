@@ -1,7 +1,6 @@
 ---
 title: Cosmology
 nav_order: 1
-parent:
 ---
 
 # Cosmology
