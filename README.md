@@ -5,6 +5,7 @@ nav_order: 0
 
 # Home's Journey Archive
 
+
 So, if these records have truly been found by someone, then it is probably worth beginning with an explanation of where exactly this archive came from.
 
 I am Teantist. As far as I know, I am a researcher and translator from the Valley of Tea Dragons. Most of my earliest memories are connected to this place, although many details of my own past still remain unclear even to me.
