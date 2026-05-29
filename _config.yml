@@ -1,28 +1,19 @@
 title: Home's Journey Archive
 description: Archive of Worlds, Travelers and forgotten Paths
 
-remote_theme: just-the-docs/just-the-docs
+# Используем обычную тему (стабильнее)
+theme: jekyll-theme-minimal
 
 color_scheme: dark
 
-search_enabled: true
+# Навигация
+header_pages:
+  - Cosmology.md
+  - Tavern.md
+  - Worlds.md
+  - Concepts.md
+  - Artifacts.md
 
-plugins:
-  - jekyll-remote-theme
-
-heading_anchors: false
-
-footer_content: ""
-
-aux_links: {}
-
-nav_enabled: true
-
-# Custom styles
+# Стили
 sass:
   sass_dir: assets/css
-
-# Убираем лишнее в just-the-docs
-just_the_docs:
-  collections:
-    # если нужно
