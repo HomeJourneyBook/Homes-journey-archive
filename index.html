@@ -7,11 +7,7 @@
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
 
     body {
       background-image: url('https://raw.githubusercontent.com/HomeJourneyBook/Homes-journey-archive/main/assets/images/bg.jpeg');
@@ -24,69 +20,80 @@
       font-size: 13px;
       line-height: 1.6;
       min-height: 100vh;
+      overflow: hidden;
     }
 
     .container {
       display: flex;
-      max-width: 1400px;
+      max-width: 1600px;
       margin: 0 auto;
       min-height: 100vh;
     }
 
     /* Левая навигация */
     .sidebar {
-      width: 280px;
-      background: rgba(5, 3, 2, 0.95);
+      width: 300px;
+      background: rgba(5, 3, 2, 0.97);
       border-right: 3px solid #3a2f1f;
       padding: 30px 20px;
       overflow-y: auto;
     }
 
     .sidebar h1 {
-      font-size: 16px;
+      font-size: 17px;
       color: #ffe6b3;
-      margin-bottom: 30px;
       text-align: center;
-      text-shadow: 2px 2px 0 #000;
+      margin-bottom: 40px;
+      text-shadow: 3px 3px 0 #000;
     }
 
     .nav-link {
       display: block;
-      padding: 12px 15px;
+      padding: 14px 18px;
       color: #d4af88;
       text-decoration: none;
-      margin-bottom: 8px;
-      border-left: 3px solid transparent;
+      margin-bottom: 6px;
+      border-left: 4px solid transparent;
       transition: all 0.2s;
     }
 
-    .nav-link:hover {
-      background: rgba(58, 47, 31, 0.6);
-      color: #fff;
-      border-left: 3px solid #d4af88;
+    .nav-link:hover,
+    .nav-link.active {
+      background: rgba(58, 47, 31, 0.7);
+      color: #ffffff;
+      border-left: 4px solid #ffe6b3;
     }
 
     /* Основной контент */
     .content {
       flex: 1;
       padding: 40px;
-      background: rgba(10, 5, 3, 0.85);
+      background: rgba(10, 5, 3, 0.88);
       overflow-y: auto;
+    }
+
+    .content-page {
+      display: none;
+    }
+
+    .content-page.active {
+      display: block;
     }
 
     h1, h2, h3 {
       color: #ffe6b3;
-      margin-bottom: 20px;
+      margin-bottom: 25px;
       text-shadow: 2px 2px 0 #000;
     }
 
-    a {
-      color: #d4af88;
+    img {
+      max-width: 100%;
+      border: 2px solid #3a2f1f;
+      margin: 20px 0;
     }
 
-    a:hover {
-      color: #ffe6b3;
-    }
+    a { color: #d4af88; }
+    a:hover { color: #ffe6b3; }
   </style>
 </head>
 <body>
@@ -96,22 +103,77 @@
     <div class="sidebar">
       <h1>HOME'S JOURNEY</h1>
       <nav>
-        <a href="#" class="nav-link">🏠 Главная</a>
-        <a href="Cosmology.md" class="nav-link">🌌 Cosmology</a>
-        <a href="Tavern.md" class="nav-link">🍺 The Tavern</a>
-        <a href="Worlds.md" class="nav-link">🌲 Worlds</a>
-        <!-- Добавляй сюда новые страницы по мере надобности -->
+        <a href="#" class="nav-link active" onclick="showPage('home')">🏠 Главная</a>
+        <a href="#" class="nav-link" onclick="showPage('cosmology')">🌌 Cosmology</a>
+        <a href="#" class="nav-link" onclick="showPage('tavern')">🍺 Tavern</a>
+        <a href="#" class="nav-link" onclick="showPage('worlds')">🌍 Worlds</a>
+        <a href="#" class="nav-link" onclick="showPage('concepts')">📜 Concepts</a>
+        <a href="#" class="nav-link" onclick="showPage('artifacts')">🛠️ Artifacts</a>
       </nav>
     </div>
 
-    <!-- Основной контент -->
+    <!-- Контент -->
     <div class="content">
-      <h1>Welcome, Traveler</h1>
-      <p>Это архив миров Home's Journey.</p>
-      <p>Выбери раздел слева.</p>
-      
-      <!-- Сюда будешь вставлять содержимое своих md-файлов позже -->
+
+      <!-- Главная страница -->
+      <div id="home" class="content-page active">
+        <h1>Welcome, Traveler</h1>
+        <p>Ты вошёл в архив Home's Journey — место, где хранятся забытые миры, истории и артефакты.</p>
+        <p>Здесь собрано всё, что было создано за время путешествия.</p>
+        
+        <img src="https://raw.githubusercontent.com/HomeJourneyBook/Homes-journey-archive/main/Writer.gif" alt="Writer">
+        
+        <p>Выбери раздел в меню слева, чтобы начать исследование.</p>
+      </div>
+
+      <!-- Cosmology -->
+      <div id="cosmology" class="content-page">
+        <h1>Cosmology</h1>
+        <!-- Вставь сюда содержимое Cosmology.md -->
+      </div>
+
+      <!-- Tavern -->
+      <div id="tavern" class="content-page">
+        <h1>The Tavern</h1>
+        <!-- Вставь сюда содержимое Tavern.md или Tavern/README.md -->
+      </div>
+
+      <!-- Worlds -->
+      <div id="worlds" class="content-page">
+        <h1>Worlds</h1>
+        <!-- Вставь сюда содержимое Worlds.md -->
+      </div>
+
+      <!-- Concepts -->
+      <div id="concepts" class="content-page">
+        <h1>Concepts</h1>
+        <!-- Вставь сюда содержимое Concepts.md -->
+      </div>
+
+      <!-- Artifacts -->
+      <div id="artifacts" class="content-page">
+        <h1>Artifacts</h1>
+        <!-- Вставь сюда содержимое Artifacts.md -->
+      </div>
+
     </div>
   </div>
+
+  <script>
+    function showPage(pageId) {
+      document.querySelectorAll('.content-page').forEach(page => {
+        page.classList.remove('active');
+      });
+
+      document.getElementById(pageId).classList.add('active');
+
+      document.querySelectorAll('.nav-link').forEach(link => {
+        link.classList.remove('active');
+        if(link.getAttribute('onclick').includes(`'${pageId}'`)) {
+          link.classList.add('active');
+        }
+      });
+    }
+  </script>
 </body>
 </html>
