@@ -22,3 +22,12 @@ body {
   background-size: cover;
   background-attachment: fixed;
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500&display=swap');
+
+body {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 20px;
+  line-height: 1.8;
+  letter-spacing: 0.2px;
+}
