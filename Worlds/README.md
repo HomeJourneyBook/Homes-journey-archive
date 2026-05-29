@@ -14,6 +14,7 @@ Most of the records concerning the Worlds were gathered either from the stories 
 - [Dominia](Dominia/README.md)
 - [Edem](Edem.md)
 - [Mireon](Mireon.md)
+- [Bastion](Bastion.md)
 - [Little Explored Worlds](Worlds_low.md)
 
 ---
