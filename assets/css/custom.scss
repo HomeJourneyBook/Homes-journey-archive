@@ -1,0 +1,26 @@
+---
+---
+
+@import "just-the-docs";
+
+body {
+  font-family: "Cormorant Garamond", serif;
+  letter-spacing: 0.2px;
+}
+
+.main-content {
+  max-width: 900px;
+}
+
+img {
+  border-radius: 6px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+body {
+  background-color: #111111;
+  background-image: url('/assets/images/bg.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+}
