@@ -1,8 +1,11 @@
 title: Home's Journey Archive
 description: Archive of Worlds, Travelers and forgotten Paths
 
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 color_scheme: dark
 
 search_enabled: true
+
+plugins:
+  - jekyll-remote-theme
