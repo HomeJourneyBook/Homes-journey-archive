@@ -1,7 +1,7 @@
 ---
 title: Concepts
 nav_order: 4
-parent:
+has_children: true
 ---
 
 # Concepts
