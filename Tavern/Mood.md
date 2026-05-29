@@ -1,3 +1,10 @@
+---
+title: Mood
+parent: Travelers
+grand_parent: The Tavern
+nav_order: 1
+---
+
 # Mood
 
 Mood is a state that emerges at the moment when a Gate becomes a Traveler.
