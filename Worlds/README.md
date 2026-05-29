@@ -1,7 +1,7 @@
 ---
 title: Worlds
 nav_order: 3
-parent:
+has_children: true
 ---
 
 # Worlds
