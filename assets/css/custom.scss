@@ -1,48 +1,28 @@
 ---
 ---
+---
+---
 
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500&display=swap');
+// Import Just the Docs base styles
+@import "just-the-docs";
 
+// Твои кастомные стили
 body {
-  font-family: 'Cormorant Garamond', serif;
-  font-size: 20px;
-  line-height: 1.8;
-  letter-spacing: 0.2px;
-
-  background-image: url('/images/bg.jpeg');
-  background-size: cover;
-  background-attachment: fixed;
-  background-repeat: repeat;
+  font-family: 'Georgia', serif;
 }
 
-/* main content */
 .main {
-  background: rgba(10, 10, 10, 0.82);
+  background-image: url('/assets/images/bg.jpeg') !important;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 }
 
-/* article area */
-.main-content-wrap {
-  max-width: 850px;
+h1, h2, h3 {
+  font-family: 'Cinzel', serif;
 }
 
-/* sidebar */
-.side-bar {
-  background: rgba(5, 5, 5, 0.92);
-}
-
-/* top header mobile */
-.site-header {
-  background: rgba(5, 5, 5, 0.92);
-}
-
-/* links */
-a {
-  color: #d8c8a8;
-}
-
-/* images */
-img {
-  border-radius: 8px;
-  margin-top: 20px;
-  margin-bottom: 20px;
+// Если хочешь тёмную атмосферу
+.sidebar {
+  background-color: rgba(0, 0, 0, 0.85);
 }
