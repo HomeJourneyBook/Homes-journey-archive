@@ -14,6 +14,7 @@ header_pages:
   - Concepts.md
   - Artifacts.md
 
-# Стили
 sass:
   sass_dir: assets/css
+
+nav_enabled: true
