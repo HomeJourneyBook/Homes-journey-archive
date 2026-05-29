@@ -17,6 +17,6 @@ And also the following records represent fragmented observations, reconstruction
 - [Edem](Edem.md)
 - [Mireon](Mireon.md)
 - [Bastion](Bastion.md)
-- [Little Explored Worlds](Worlds_low.md)
+- [Poorly Explored Worlds](Worlds_low.md)
 
 ---
