@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Home's Journey Archive
+nav_order: 0
 ---
 
 # Home's Journey Archive
