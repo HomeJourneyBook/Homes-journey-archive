@@ -7,9 +7,5 @@ search_enabled: false
 # Кастомный CSS
 custom_head: "head_custom.html"
 
-# Папки, которые Jekyll должен обрабатывать
-include:
-  - _docs
-
 # Порядок навигации — manual означает по nav_order в файлах
 nav_order: manual
