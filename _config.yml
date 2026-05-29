@@ -1,11 +1,8 @@
 title: Home's Journey Archive
 description: Archive of Worlds, Travelers and forgotten Paths
-theme: minima
 
-markdown: kramdown
+theme: just-the-docs
 
-header_pages:
-  - index.md
-  - Cosmology.md
-  - Tavern.md
-  - Worlds.md
+color_scheme: dark
+
+search_enabled: true
