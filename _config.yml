@@ -4,7 +4,13 @@ description: Archive of Worlds, Travelers and forgotten Paths
 remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
 
-sass:
-  sass_dir: assets/css
-
 search_enabled: false
+
+# Настройка навигации
+collections:
+  docs:
+    name: "Archive"
+    output: true
+    permalink: "/:path/"
+
+nav_ordering: manual
