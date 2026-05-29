@@ -76,19 +76,19 @@ Yet even their flawless precision carries a quiet melancholy. They stand as remi
 
 ## Dreegan
 
-Dreegan are rooted Gates resembling the trunk of a tree holding emptiness within itself. Their roots consume, while their branches cut through space itself. They were often activated in abandoned gardens, temples, and ancient paths where everything appears untouched — yet unnaturally perfect.
+Dreegan are rooted Gates whose form resembles an ancient, twisted tree trunk with a hollow void at its center. Their roots burrow deep into the soil of Worlds, while their branch-like extensions cut through the fabric of space like frozen lightning. They most often awaken in places where time itself seems to have stopped: abandoned sacred gardens, ruined temples, and paths no one dares to truly call “forgotten.”
 
-_“They have stood here longer than time itself. They do not move. They do not sleep. But they remember.”_
+_“They stood here longer than time itself. They do not move. They do not sleep. But they remember.”_
 
-Dreegan are Gates rooted within forgotten ages. Their branches whisper lost truths, and their presence bends reality itself. Those who listen too closely may never return.
+Dreegan are the living memory of the Departed. They were created by a civilization that understood that every Return demands sacrifice. Their creators willingly wove their own lives into the structure of the Gates — their bodies becoming roots, their minds becoming tree rings, and their unfulfilled longing for Unity becoming the hollow emptiness within.
 
-These Gates are perceived not as objects, but as landscapes hiding secret meaning, where silence itself becomes an invitation.
+Those who approach a Dreegan sometimes hear quiet whispers — not words, but echoes of voices long extinguished. It is said that Dreegan do not merely open the Path. They weigh memories. And only those willing to leave a part of themselves within the roots may pass through the void inside their trunk.
 
 ![Dreegan](Dreegan.png)
 
 ---
 
-## # Xuitqr (Nuthqir)
+## Xuitqr (Nuthqir)
 
 Xuitqr appear as towering, imposing figures crowned with masses of twisting tentacles, resembling a living crown of roots or exposed nerves. At the center of their bodies lies a vast black void — an absolute rupture within reality itself.
 
