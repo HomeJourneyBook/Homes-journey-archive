@@ -55,7 +55,7 @@ The Umbasir are wrapped in changing shadows — vessels between light and emptin
 
 These Gates are tied to the displaced, the forgotten, and those whose essence has begun to drain away. They emerge in Worlds where memory itself has started to fracture. In places where the connection to the Essence grows thin, the Umbasir become the last guides through the cracks of oblivion.
 
-![Umbasir](Umbassir.png)
+![Umbasir](Umbasir.png)
 
 
 ---
@@ -70,7 +70,7 @@ The Mechird are Gates forged in precision. They were not merely created — they
 
 Yet even their flawless precision carries a quiet melancholy. They stand as reminders of those who believed that if everything was calculated correctly, the Return could be planned.
 
-![Mechird](Mech.png)
+![Mechird](Mechird.png)
 
 ---
 
