@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Home's Journey Archive</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      background-image: url('https://raw.githubusercontent.com/HomeJourneyBook/Homes-journey-archive/main/assets/images/bg.jpeg');
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
+      background-color: #0a0503;
+      color: #e8d5b8;
+      font-family: 'Press Start 2P', system-ui;
+      font-size: 13px;
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+
+    .container {
+      display: flex;
+      max-width: 1400px;
+      margin: 0 auto;
+      min-height: 100vh;
+    }
+
+    /* Левая навигация */
+    .sidebar {
+      width: 280px;
+      background: rgba(5, 3, 2, 0.95);
+      border-right: 3px solid #3a2f1f;
+      padding: 30px 20px;
+      overflow-y: auto;
+    }
+
+    .sidebar h1 {
+      font-size: 16px;
+      color: #ffe6b3;
+      margin-bottom: 30px;
+      text-align: center;
+      text-shadow: 2px 2px 0 #000;
+    }
+
+    .nav-link {
+      display: block;
+      padding: 12px 15px;
+      color: #d4af88;
+      text-decoration: none;
+      margin-bottom: 8px;
+      border-left: 3px solid transparent;
+      transition: all 0.2s;
+    }
+
+    .nav-link:hover {
+      background: rgba(58, 47, 31, 0.6);
+      color: #fff;
+      border-left: 3px solid #d4af88;
+    }
+
+    /* Основной контент */
+    .content {
+      flex: 1;
+      padding: 40px;
+      background: rgba(10, 5, 3, 0.85);
+      overflow-y: auto;
+    }
+
+    h1, h2, h3 {
+      color: #ffe6b3;
+      margin-bottom: 20px;
+      text-shadow: 2px 2px 0 #000;
+    }
+
+    a {
+      color: #d4af88;
+    }
+
+    a:hover {
+      color: #ffe6b3;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    
+    <!-- Левая панель -->
+    <div class="sidebar">
+      <h1>HOME'S JOURNEY</h1>
+      <nav>
+        <a href="#" class="nav-link">🏠 Главная</a>
+        <a href="Cosmology.md" class="nav-link">🌌 Cosmology</a>
+        <a href="Tavern.md" class="nav-link">🍺 The Tavern</a>
+        <a href="Worlds.md" class="nav-link">🌲 Worlds</a>
+        <!-- Добавляй сюда новые страницы по мере надобности -->
+      </nav>
+    </div>
+
+    <!-- Основной контент -->
+    <div class="content">
+      <h1>Welcome, Traveler</h1>
+      <p>Это архив миров Home's Journey.</p>
+      <p>Выбери раздел слева.</p>
+      
+      <!-- Сюда будешь вставлять содержимое своих md-файлов позже -->
+    </div>
+  </div>
+</body>
+</html>
