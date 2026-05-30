@@ -3,10 +3,6 @@ title: Locations of Igneon
 nav_exclude: true
 ---
 
-← [Igneon]({{ site.baseurl }}/Worlds/Dominia/Igneon)
-
-[← Back to Igneon]({{ site.baseurl }}/Worlds/Dominia/Igneon){: .btn }
-
 # Locations of Igneon
 
 Known locations from this area
@@ -20,3 +16,5 @@ The city of Igneon is set against the backdrop of vast lava lakes, creating a dr
 ![The City of Igneon](igneon.png)
 
 ---
+
+[Back to Igneon]({{ site.baseurl }}/Worlds/Dominia/Igneon){: .btn }
