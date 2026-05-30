@@ -14,12 +14,4 @@ The exact period during which this World existed remains impossible to determine
 
 ---
 
-## Known locations
-
-- [Arboris](Arboris.md)
-- [Igneon](Igneon.md)
-- [Crystalis](Crystalis.md)
-
----
-
 ![Dominia](Dominia.png)
