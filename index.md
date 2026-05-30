@@ -20,6 +20,9 @@ At present, I continue my work on translating the Book and restoring the lost re
 
 If you truly intend to explore the universe of Home’s Journey together with me — then welcome to the Archive.
 
+[The Tavern]({{ "/Tavern/" | Tavern/README.md }}){: .btn }
+[Worlds]({{ "/Valley/" | Worlds/README }}){: .btn }
+
 ---
 
 - [Cosmology](Cosmology.md)
