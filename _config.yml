@@ -2,7 +2,6 @@ title: Home's Journey Archive
 description: Archive of Worlds, Travelers and forgotten Paths
 remote_theme: just-the-docs/just-the-docs@v0.10.0
 color_scheme: dark
-search_enabled: false
 
 nav_order: manual
 
@@ -20,8 +19,9 @@ aux_links_new_tab: true
 
 search_enabled: true
 
-# Текст в поле поиска
-search.placeholder: "Search the Note..."
+search:
+  placeholder: "Search the Note..."
+
 
 aux_links:
-  "⌂": "https://trianglecirclesqaure.org"
+  "⌂": "https://trianglecirclesquare.org"
