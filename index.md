@@ -25,11 +25,11 @@ If you truly intend to explore the universe of Home’s Journey together with me
 
 ## Main topics:
 
-- [Cosmology](/Homes-journey-archive/Cosmology)
-- [The Tavern](/Homes-journey-archive/Tavern/README)
-- [Worlds](/Homes-journey-archive/Worlds/README)
-- [Concepts](/Homes-journey-archive/Concepts/README)
-- [Artifacts](/Homes-journey-archive/Artifacts/README)
+- [Cosmology](/Homes-journey-archive/Cosmology) - *the beginning of the end*
+- [The Tavern](/Homes-journey-archive/Tavern/README) - *About who and how*
+- [Worlds](/Homes-journey-archive/Worlds/README) - *Welcome to travel around*
+- [Concepts](/Homes-journey-archive/Concepts/README) - *What about what why*
+- [Artifacts](/Homes-journey-archive/Artifacts/README) - *My proud*
 
 ---
 
