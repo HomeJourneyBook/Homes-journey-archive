@@ -1,3 +1,8 @@
+---
+title: The Tealder
+nav_exclude: true
+---
+
 # The Tealder
 
 Tealder is regarded as the current leader and overseer of the Valley settlement.
@@ -9,5 +14,3 @@ He is rarely seen without the young Red Dragon that accompanies him throughout t
 Despite his authority, Tealder is known for maintaining close contact with the daily life of the village rather than remaining distant from it.
 
 ![The Tealder](Tealder.png)
-
----
