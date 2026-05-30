@@ -29,7 +29,7 @@ Under the night sky of the planet Dominia, the Fire Lake in the Igneon region sp
 
 The Two Springs location in Igneon features two massive volcanoes spewing streams of molten lava down their slopes. At the base of the volcanoes, intensive lava mining operations are underway: huge lava excavators with massive buckets and heat-resistant manipulators dig up the lava and load it onto conveyors, which transport it to processing plants. Workers dressed in thermal protection suits monitor the process and maintain the equipment. Around the work zones, thermal insulation barriers and cooling systems are installed to protect against heat and lava eruptions. The landscape at the foot of the volcanoes is covered with solidified lava flows, through which roads and highways are laid. Columns of smoke and steam rising from the volcanoes and lava flows create an atmosphere of constant movement and activity, illuminated by the bright light of the lava and reflections on the metallic surfaces of the machines.
 
-![The Two Springs](Two_Sptrings.png)
+![The Two Springs](Two_Springs.png)
 
 ---
 
