@@ -19,7 +19,7 @@ Potential was absolute, but never experienced.
 Knowledge existed without experience.  
 And within this lay the greatest paradox:
 
->_“Omniscience without participation is not wisdom, but emptiness.”_
+>_“Omniscience without participation is not wisdom, but emptiness.”_{: .note }
 
 For true knowledge requires distance.  
 Experience requires separation.  
