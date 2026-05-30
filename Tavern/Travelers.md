@@ -8,7 +8,7 @@ nav_order: 1
 
 <img src="/Homes-journey-archive/assets/alphabet/letter_T.png" style="float: left; margin-right: 8px; width: 40px;" alt="T">ravelers are manifested forms of Essence, created through passage into one of the six known types of Gates.
 
-<img src="1.png" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 200px;" alt="1">
+<img src="IMG_0565.png" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 200px;" alt="Art1">
 Their emergence is not the result of randomness or choice. Rather, it is a point of convergence where three fundamental elements combine to form the uniqueness of each Traveler: the type of Gate entered by the Essence, the Mood manifested at the moment of connection, and the World in which the Gate was located at the time of activation.
 
 The union between Essence and a Gate is not an accidental process. According to the translated records, this act appears to have been predetermined as part of the Path itself — a final cycle through which Essence is ultimately able to preserve all accumulated experience and impressions, become fully aware of itself, and eventually return to its original unity.
