@@ -18,7 +18,9 @@ Beyond the Bar, the Tavern also contains a hangar — a vast collection of cells
 
 From time to time, the Tavern also hosts performances by the musical group Gate Manifestation, formed by the Travelers themselves. According to visitor accounts, their music is often based on sounds, rhythms, and instruments brought from various Worlds, many of which were recovered as artifacts of vanished civilizations.
 
-The Tavern also serves as a place where many other artifacts are carefully preserved, each representing a source of pride for the Traveler who managed to recover it.
+The Tavern also serves as a place where many other artifacts are carefully preserved, each representing a source of pride for the Traveler who managed to recover it. 
+
+The Travelers Hall of Fame is also located here.
 
 To this day, I have been unable to determine the true origin of the Tavern.
 
