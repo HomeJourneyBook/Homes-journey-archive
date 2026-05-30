@@ -12,8 +12,5 @@ Some Worlds take the form of entire galaxies or civilizations. Others may consis
 
 Each World possesses its own atmosphere, history, and traces of the Path.
 
-Most of the records concerning the Worlds were gathered either from the stories of Travelers, from the study of recovered artifacts, or through translations from the Book.
-
 > *The following records represent fragmented observations, reconstructions, sketches, and rare information gathered from Traveler testimonies, recovered artifacts, and translated fragments of the Book.*
-{: .highlight }
 
