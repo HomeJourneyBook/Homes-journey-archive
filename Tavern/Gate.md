@@ -28,13 +28,13 @@ Below are listed the six known types of Gates, accompanied by brief notes transl
 
 The Orbiton exist in a state of celestial stillness, beyond the flow of time. Their form resembles a traveler sealed within a shell, turned inward upon themselves — as though their entire being has collapsed into a single point. In the vicinity of such Gates, space itself seems to quietly bow toward the center, drawn by an invisible yet irresistible force.
 
+<img src="Orbiton.png" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Orbiton">
 >_“They do not rotate. They do not vanish. Yet everything returns to them.”_
 
 The Orbiton are silent. But their silence carries weight. Those who approach too closely feel the burden of eternity upon their shoulders — gentle, yet inexorable. It is not coercion. It is an invitation to return to the Center.
 
 Their purpose is to show the way back. To the place where time loses all meaning, and all separated parts become one single gaze of contemplation.
 <div style="clear: both;"></div>
-![Orbiton](Orbiton.png){: width="600" }
 
 ---
 
