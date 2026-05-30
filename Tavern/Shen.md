@@ -24,4 +24,4 @@ Among most Travelers, Shen is perceived not only as the keeper of the Tavern, bu
 
 ---
 
-![Shen](Shen.jpeg)
+![Shen](Shen.jpeg){: width="600" }
