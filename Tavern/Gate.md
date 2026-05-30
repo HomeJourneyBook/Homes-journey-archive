@@ -33,7 +33,7 @@ The Orbiton exist in a state of celestial stillness, beyond the flow of time. Th
 The Orbiton are silent. But their silence carries weight. Those who approach too closely feel the burden of eternity upon their shoulders — gentle, yet inexorable. It is not coercion. It is an invitation to return to the Center.
 
 Their purpose is to show the way back. To the place where time loses all meaning, and all separated parts become one single gaze of contemplation.
-
+<div style="clear: both;"></div>
 ![Orbiton](Orbiton.png){: width="600" }
 
 ---
