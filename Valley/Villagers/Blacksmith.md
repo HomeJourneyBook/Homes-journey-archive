@@ -1,3 +1,8 @@
+---
+title: The Blacksmith
+nav_exclude: true
+---
+
 # The Blacksmith
 
 Blacksmith is one of the villagers responsible for crafting and repairing tools used throughout the Valley.
