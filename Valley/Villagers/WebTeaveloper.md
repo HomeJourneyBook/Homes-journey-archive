@@ -12,3 +12,7 @@ Most reconstructed records, stored documents, and technical mechanisms connected
 Although many villagers do not fully understand his work, Web Teveloper is considered essential whenever older systems stop functioning or new ones need to be assembled.
 
 ![The Web Teaveloper](Teaweloper.png)
+
+---
+
+[Back to Villagers](/Homes-journey-archive/Valley/Villagers/README){: .btn }
