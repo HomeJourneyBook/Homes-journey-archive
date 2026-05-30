@@ -22,6 +22,7 @@ In addition to her work within the Tavern, Shen is also known as a collector of 
 
 Among most Travelers, Shen is perceived not only as the keeper of the Tavern, but also as one of the few figures of the Current Era who truly understands the nature of the Path.
 
+>bonus for early readers. Will replace on pixel one later
 ---
 
 ![Shen](Shen.jpeg){: width="600" }
