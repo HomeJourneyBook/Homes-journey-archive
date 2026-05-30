@@ -14,3 +14,5 @@ logo: "/Homes-journey-archive/assets/images/logo.png"
 
 custom_head: "_includes/head_custom.html"
 
+nav_expand_all: true
+
