@@ -1,3 +1,8 @@
+---
+title: The Fisherman
+nav_exclude: true
+---
+
 # The Fisherman
 
 Fisherman is one of the villagers responsible for gathering food from the rivers and lakes surrounding the Valley.
@@ -7,5 +12,3 @@ He is known for spending long periods of time away from the settlement, often tr
 Some villagers believe that Fisherman knows parts of the Valley that do not appear on ordinary maps.
 
 ![The Fisherman](fisherman.png)
-
----
