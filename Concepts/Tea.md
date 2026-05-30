@@ -1,3 +1,9 @@
+---
+title: Tea
+parent: Concepts
+nav_order: 3
+---
+
 # Tea
 
 Among all known resources within the universe, tea from the Valley of Tea Dragons occupies a central place not only in the lives of the Villagers, but also among the Travelers themselves. For many years — perhaps even centuries — it has remained not merely a foundation of everyday life, but also an essential part of culture, tradition, and one of the most effective means of achieving the concentration required for work or travel.
