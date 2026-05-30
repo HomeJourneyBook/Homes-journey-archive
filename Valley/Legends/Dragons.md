@@ -1,3 +1,8 @@
+---
+title: Dragons of the Valley
+nav_exclude: true
+---
+
 # Dragons of the Valley
 
 The dragons of the Valley of Tea Dragons are considered the oldest guardians of the Great Tea Tree. According to the legends, they were created by the Tea Gods shortly after the appearance of the tree itself.
