@@ -10,7 +10,7 @@ permalink: /archive/
 
 <img src="/Homes-journey-archive/assets/alphabet/letter_I.png" style="float: left; margin-right: 8px; width: 40px;" alt="I">f these records have truly been found by someone, then it is probably worth beginning with an explanation of where exactly this archive came from.
 
-I am Teantist. As far as I know, I am a researcher and translator from the Valley of Tea Dragons. Most of my earliest memories are connected to this place, although many details of my own past still remain unclear even to me.
+As far as I know, I am Teantist, a researcher and translator from the Valley of Tea Dragons. Most of my earliest memories are connected to this place, although many details of my own past still remain unclear even to me.
 
 Many years ago, near the Tea Rock — a place that we Villagers of the Valley consider to be the grave of the Founder of the Village — I discovered an ancient book written in the figurative language. Much of its pages had been damaged by time: some fragments can no longer be read, certain symbols resist precise translation, and several sections appear to have been destroyed long before the book came into my possession.
 <div style="clear: both;"></div>
