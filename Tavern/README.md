@@ -24,5 +24,5 @@ The Tavern also serves as a place where many other artifacts are carefully prese
 The Travelers Hall of Fame is also located here.
 <div style="clear: both;"></div>
 
->To this day, I have been unable to determine the true origin of the Tavern.
+>To this day, I have been unable to determine the true origin of the Tavern.{: .warning }
 
