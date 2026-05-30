@@ -1,3 +1,10 @@
+---
+title: Gates
+parent: Home Travelers
+grand_parent: The Tavern
+nav_order: 1
+---
+
 # Gates
 
 Gates are the sacred forms through which the Essence manifests itself as Travelers.
