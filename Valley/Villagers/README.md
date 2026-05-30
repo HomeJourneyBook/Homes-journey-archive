@@ -1,6 +1,6 @@
 ---
 title: Villagers
-parent: The Valley of Tea Dragons
+parent: The Valley
 grand_parent: Worlds
 nav_order: 1
 ---
