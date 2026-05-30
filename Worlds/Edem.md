@@ -1,3 +1,9 @@
+---
+title: Edem
+parent: Worlds
+nav_order: 4
+---
+
 # Edem
 
 Edem is a World composed of countless cities, coastlines, roads, stations, and human settlements spread across forests, oceans, and mountain ranges.
