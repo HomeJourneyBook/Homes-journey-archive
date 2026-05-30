@@ -12,3 +12,7 @@ Many of the sounds heard during village gatherings and seasonal rituals are beli
 Some villagers claim that certain rhythms created by Tj are capable of affecting memory, focus, and emotional state.
 
 ![The TJ](TJ.png)
+
+---
+
+[Back to Villagers](/Homes-journey-archive/Valley/Villagers/README){: .btn }
