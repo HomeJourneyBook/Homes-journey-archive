@@ -3,6 +3,8 @@ title: Locations of Igneon
 nav_exclude: true
 ---
 
+← [Igneon]({{ site.baseurl }}/Worlds/Dominia/Igneon)
+
 # Locations of Igneon
 
 Known locations from this area
