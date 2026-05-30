@@ -1,3 +1,9 @@
+---
+title: Mireon
+parent: Worlds
+nav_order: 3
+---
+
 # Mireon
 
 Mireon is one of the few known Worlds where nearly all stable environments exist in a fluid state. Oceans, rivers, mists, and even certain layers of the atmosphere are composed of unusual liquid substances whose true nature remains only partially understood.
