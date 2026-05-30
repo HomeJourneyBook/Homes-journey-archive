@@ -30,6 +30,22 @@ Despite the relative calmness of the Valley, I gradually began to suspect that a
 
 ---
 
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 24px 0;">
+
+<a href="/Homes-journey-archive/Valley/Village" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
+  <div style="font-size: 12px; margin-bottom: 8px;">Village</div>
+  <div style="font-size: 8px; color: #888;">The Home of Villagers...</div>
+</a>
+
+<a href="/Homes-journey-archive/Valley/Villagers/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
+  <div style="font-size: 12px; margin-bottom: 8px;">Villagers</div>
+  <div style="font-size: 8px; color: #888;">Inhabittans of Village...</div>
+</a>
+
+</div>
+
+---
+
 ## The Tea Fields
 
 To the right of the Village, stretching across a vast distance, lie the Tea Fields — one of the most important regions within the entire Valley. It is here that the Villagers cultivate and harvest the majority of the tea.
