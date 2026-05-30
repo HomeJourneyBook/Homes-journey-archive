@@ -1,3 +1,10 @@
+---
+title: Village
+parent: The Valley of Tea Dragons
+grand_parent: Worlds
+nav_order: 0
+---
+
 # The Village
 
 According to my research, the Village inhabited by the people of the Valley was founded some time after the appearance of the Great Tea Tree. Although the villagers themselves rarely speak about the exact history of its origin, nearly all surviving sources agree on one point: the Village was originally built around the tree and has remained inseparable from the Valley throughout many generations.
@@ -25,5 +32,3 @@ Despite the outward calmness of the Village, living here creates a persistent fe
 ![Village](Village.jpeg)
 
 ![Village_Night](Village_N.png)
-
----
