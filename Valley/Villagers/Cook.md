@@ -12,3 +12,7 @@ Many recipes preserved among the villagers are believed to have passed through h
 Some villagers consider his cooking an important part of daily life in the Valley.
 
 ![The Cook](cook.png)
+
+---
+
+[Back to Villagers](/Homes-journey-archive/Valley/Villagers/README){: .btn }
