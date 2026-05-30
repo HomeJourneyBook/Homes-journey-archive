@@ -22,5 +22,5 @@ Particularly ancient Schemes, or those that once opened Paths to exceptionally w
 
 ---
 
-![Scheme of the Path](Scheme.jpeg)
+![Scheme of the Path](Scheme.png)
 
