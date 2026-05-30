@@ -9,3 +9,5 @@ nav_order: manual
 heading_anchors: true
 
 favicon_ico: "/assets/images/favicon.png"
+
+logo: "/assets/images/logo.png"
