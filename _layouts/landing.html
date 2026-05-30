@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ site.title }}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: 'Press Start 2P', monospace;
+      background-image: url('{{ "/assets/images/bg.jpeg" | relative_url }}');
+      background-size: cover;
+      background-position: center;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .landing {
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 2rem;
+    }
+
+    .landing img {
+      width: 320px;
+      max-width: 80vw;
+      image-rendering: pixelated;
+    }
+
+    .landing a {
+      font-size: 10px;
+      color: #f0d080;
+      text-decoration: none;
+      border: 1px solid #8b6914;
+      padding: 12px 24px;
+      letter-spacing: 2px;
+      transition: background 0.2s;
+    }
+
+    .landing a:hover {
+      background: rgba(139, 105, 20, 0.3);
+    }
+  </style>
+</head>
+<body>
+  <div class="landing">
+    <img src="{{ "/assets/images/book.png" | relative_url }}" alt="The Book">
+    <a href="{{ "/index" | relative_url }}">ENTER THE ARCHIVE</a>
+  </div>
+</body>
+</html>
