@@ -1,3 +1,9 @@
+---
+title: Poorly Explored Worlds
+parent: Worlds
+nav_order: 6
+---
+
 # Poorly Explored Worlds
 
 Among the partially translated records and the relatively rare journeys into these Worlds, enough scattered mentions still remain to assemble this general note.
@@ -6,10 +12,4 @@ In most cases, only isolated regions, brief observations, unstable routes, or si
 
 ---
 
-## Net
-
----
-
-## Bamboo
-
----
+>Note is under of creation
