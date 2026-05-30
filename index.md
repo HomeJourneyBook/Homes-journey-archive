@@ -1,6 +1,7 @@
 ---
 title: Home's Journey Archive
 nav_order: 0
+permalink: /archive/
 ---
 
 # Home's Journey Archive
