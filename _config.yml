@@ -11,8 +11,6 @@ favicon_ico: "/assets/images/favicon.png"
 
 logo: "/Homes-journey-archive/assets/images/logo.png"
 
-custom_head: "_includes/head_custom.html"
-
 nav_expand_all: true
 
 aux_links_new_tab: true
