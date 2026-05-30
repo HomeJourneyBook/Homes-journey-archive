@@ -8,7 +8,7 @@ permalink: /archive/
 
 <img src="/Homes-journey-archive/Writer.gif" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Writer">
 
-So, if these records have truly been found by someone, then it is probably worth beginning with an explanation of where exactly this archive came from.
+<img src="/Homes-journey-archive/assets/alphabet/letter_I.png" style="float: left; margin-right: 8px; width: 40px;" alt="I">f these records have truly been found by someone, then it is probably worth beginning with an explanation of where exactly this archive came from.
 
 I am Teantist. As far as I know, I am a researcher and translator from the Valley of Tea Dragons. Most of my earliest memories are connected to this place, although many details of my own past still remain unclear even to me.
 
