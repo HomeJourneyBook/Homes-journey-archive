@@ -3,9 +3,11 @@
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {
-    var title = document.querySelector('.site-title');
-    if (title) {
-      title.innerHTML = '<img src="/Homes-journey-archive/assets/images/logo.png" style="height:32px;width:auto;">';
+    if (window.innerWidth > 800) {
+      var title = document.querySelector('.site-title');
+      if (title) {
+        title.innerHTML = '<img src="/Homes-journey-archive/assets/images/logo.png" style="height:32px;width:auto;">';
+      }
     }
   });
 </script>
