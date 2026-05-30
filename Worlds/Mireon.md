@@ -75,5 +75,3 @@ The surface of the metal moves slowly and almost silently, creating the sensatio
 According to Traveler records, the region of Gold is one of the easiest places in Mireon to lose the sense of time.
 
 ![Gold](gold.png)
-
----
