@@ -21,12 +21,3 @@ In this process, Travelers are aided by the Tavern — the central hub and place
 Special mention should also be given to the Ritual of the 10 Gates, periodically undergone by certain Travelers, resulting in the appearance of so-called Unique Travelers within the Universe.
 
 More detailed explanations regarding Travelers and related concepts are provided in the corresponding sections below.
-
----
-
-- [Unique Travelers](1-1/1-1.md)
-- [Mood](Mood.md)
-- [Gates](Gate.md)
-- [Worlds](../Worlds/README.md)
-
----
