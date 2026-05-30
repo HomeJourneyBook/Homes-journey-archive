@@ -106,3 +106,7 @@ Nuthqir are Gates of silent judgment and all-encompassing perception. They stand
 They appear in the most desolate places — among dead plains and forgotten ruins. They neither call nor repel. They simply watch. And only those whose soul can endure that gaze are capable of passing through the void.
 
 ![Xuitqr](Xuqtr.png)
+
+---
+
+[Go to Moods](/Homes-journey-archive/Tavern/Mood){: .btn }
