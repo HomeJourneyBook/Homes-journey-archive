@@ -267,3 +267,9 @@ The legends claim it was left behind by the Golden Dragon before its disappearan
 To this day, the Valley of Tea Dragons continues to endure beneath the protection of its guardians, while the story of the Great War is passed from one generation to the next.
 
 And though many believe the conflict ended long ago, some records suggest that not all who vanished during the final battle were truly gone.
+
+---
+
+[See Dragons](/Homes-journey-archive/Valley/Legends/Dragons){: .btn }
+
+[See Leaders](/Homes-journey-archive/Valley/Legends/Creatures){: .btn }
