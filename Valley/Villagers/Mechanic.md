@@ -12,3 +12,7 @@ Many damaged objects brought from old ruins or abandoned workshops are eventuall
 Some villagers believe that Mechanic understands certain mechanisms whose origins are no longer remembered by anyone else in the Valley.
 
 ![The Mechanic](Mech.png)
+
+---
+
+[Back to Villagers](/Homes-journey-archive/Valley/Villagers/README){: .btn }
