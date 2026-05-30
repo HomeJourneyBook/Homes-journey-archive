@@ -13,12 +13,3 @@ Unlike descriptions of specific Worlds, places, or inhabitants, the records pres
 A significant portion of these concepts remains insufficiently understood. Many are mentioned only fragmentarily. In several cases, I was forced to reconstruct information from isolated pieces of text, symbols, and recurring patterns discovered across different records.
 
 At present, it is precisely these concepts that gradually allow for a more complete understanding of the structure of the universe as a whole.
-
----
-
-- [Figurative Language](Cipher.md)
-- [Schemes of the Path](Scheme.md)
-- [Tea](Tea.md)
-- [Departed Civilizations](civil.md)
-- [Current Era](era.md)
-
