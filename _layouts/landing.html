@@ -1,32 +1,30 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="dark">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
   <title>{{ site.title }}</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
 
+    :root {
+      color-scheme: dark;
+    }
+
     body {
       font-family: 'Press Start 2P', monospace;
       background-image: url('{{ "/assets/images/land_bg.png" | relative_url }}');
       background-size: cover;
       background-position: center;
+      background-color: #000;
       min-height: 100vh;
       display: flex;
       align-items: center;
       justify-content: center;
     }
-    
-    :root {
-  color-scheme: dark;
-}
-
-body {
-  background-color: #000;
-}
 
     .landing {
       text-align: center;
