@@ -25,8 +25,7 @@ Despite the outward calmness of the Village, living here creates a persistent fe
 
 ---
 
-
-# The Great Tea Tree
+## The Great Tea Tree
 
 Among all of my research, there exist no records more ancient than the mentions of the Great Tea Tree. Most translated fragments suggest that the Tree existed long before the appearance of many known and already vanished civilizations, the Tavern, and even the Village within the Valley.
 
@@ -46,3 +45,20 @@ Of particular interest are the records connected to the Tree’s effect on memor
 
 ---
 
+## The Home
+
+Among all structures within the Village, the Home plays one of the most important roles in the lives of the Villagers as their primary hearth. Despite the complete absence of luxury, this place remains the center of the Valley’s daily life and the only location where the inhabitants truly allow themselves to rest from the constant labor surrounding tea production.
+
+The exact time of the Home’s construction could not be determined. Judging by the condition of its foundation and the variation in materials used throughout the structure, the building has been rebuilt and expanded many times by different generations of Villagers. Certain sections appear significantly older than the rest, though their original purpose can no longer be identified.
+
+Inside, the Home consists of a large communal space divided into several living areas. It is here that the Villagers sleep, eat, wait out periods of heavy fog and rain, and gather together in the evenings after work. Most of the interior is illuminated by the warm light of lanterns and furnaces, creating a constant atmosphere of calmness and comfort.
+
+Despite the simplicity of its interior, the inhabitants of the Valley treat the Home with visible respect. Many old objects within the building are passed down between generations, while certain parts of the interior appear to have remained unchanged for an extremely long time.
+
+From my own experience, it feels as though the Home holds a far greater meaning for the Villagers than simply being a place for sleep and meals. In many ways, the entire sense of everyday life within the Valley seems to be built around it.
+
+---
+
+![The Home](Home.png)
+
+---
