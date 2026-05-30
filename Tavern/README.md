@@ -22,7 +22,7 @@ From time to time, the Tavern also hosts performances by the musical group Gate 
 The Tavern also serves as a place where many other artifacts are carefully preserved, each representing a source of pride for the Traveler who managed to recover it. 
 
 The Travelers Hall of Fame is also located here.
-
-To this day, I have been unable to determine the true origin of the Tavern.
 <div style="clear: both;"></div>
+
+>To this day, I have been unable to determine the true origin of the Tavern.
 
