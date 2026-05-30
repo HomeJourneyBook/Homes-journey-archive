@@ -10,6 +10,31 @@
   });
 </script>
 
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    // Иконка
+    var title = document.querySelector('.site-title');
+    if (title) {
+      title.innerHTML = '<img src="/Homes-journey-archive/assets/images/logo.png" style="height:32px;width:auto;">';
+    }
+
+    // Sticky header на мобильном
+    var header = document.querySelector('.site-header');
+    if (header && window.innerWidth <= 800) {
+      header.style.position = 'fixed';
+      header.style.top = '0';
+      header.style.left = '0';
+      header.style.right = '0';
+      header.style.zIndex = '9999';
+      header.style.background = '#0c1113';
+      header.style.borderBottom = 'none';
+      
+      var wrap = document.querySelector('.main-content-wrap');
+      if (wrap) wrap.style.paddingTop = '60px';
+    }
+  });
+</script>
+
 <style>
 
   body {
