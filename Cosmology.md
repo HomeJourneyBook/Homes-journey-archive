@@ -5,7 +5,7 @@ nav_order: 1
 
 # Cosmology
 
->Among all the records I have managed to translate, few carry such weight and such an important understanding of the structure of existence as the text speaking of the Great Division and what ultimately followed from it.{: .warning }
+>*Among all the records I have managed to translate, few carry such weight and such an important understanding of the structure of existence as the text speaking of the Great Division and what ultimately followed from it.*{: .warning }
 
 ## The Great Division
 
