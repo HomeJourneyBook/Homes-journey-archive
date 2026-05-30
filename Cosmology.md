@@ -31,7 +31,7 @@ The Unified Essence intentionally shattered itself.
 
 ---
 
-![Great Division](division.png)
+![Great Division](division.png){: width="600" }
 
 ---
 
@@ -75,8 +75,8 @@ And though the excessive spread of Jeet may slow or even endanger the Great Retu
 
 ---
 
-![Creating Worlds](creating.png)
+![Creating Worlds](creating.png){: width="600" }
 
 ---
 
-[Go to The Tavern](/Homes-journey-archive/Tavern/README){: .btn }
+[Read about The Tavern](/Homes-journey-archive/Tavern/README){: .btn }
