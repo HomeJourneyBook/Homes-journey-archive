@@ -21,8 +21,6 @@ Despite the outward calmness of the Village, living here creates a persistent fe
 
 ![Village](Village.jpeg)
 
-![Village_Night](Village_N.png)
-
 ---
 
 ## The Great Tea Tree
