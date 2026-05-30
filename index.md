@@ -15,8 +15,6 @@ As far as I know, I am Teantist, a researcher and translator from the Valley of 
 Many years ago, near the Tea Rock — a place that we Villagers of the Valley consider to be the grave of the Founder of the Village — I discovered an ancient book written in the figurative language. Much of its pages had been damaged by time: some fragments can no longer be read, certain symbols resist precise translation, and several sections appear to have been destroyed long before the book came into my possession.
 <div style="clear: both;"></div>
 
-Many years ago, near the Tea Rock — a place that we Villagers of the Valley consider to be the grave of the Founder of the Village — I discovered an ancient book written in the figurative language. Much of its pages had been damaged by time: some fragments can no longer be read, certain symbols resist precise translation, and several sections appear to have been destroyed long before the book came into my possession.
-
 It is the translation and study of this book that became the foundation for most of the records collected within this archive.
 
 Many of the terms mentioned here — including the Valley, the Travelers, the Tavern, and the origin of tea itself — will be explored in separate records as the materials continue to be organized. However, I should warn in advance that not all information contained here can be considered entirely reliable. Some records survived only in fragments, while parts of these notes are based solely on my own observations and attempts to connect the surviving materials together.
