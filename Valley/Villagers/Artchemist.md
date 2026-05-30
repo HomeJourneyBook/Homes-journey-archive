@@ -12,3 +12,7 @@ Most surviving sketches of Schemes of the Path, symbols, and fragments of distan
 Unlike ordinary artists, Artchemist is primarily concerned with preserving impressions, forms, and memories through physical materials.
 
 ![The Artchemist](Artchemist.png)
+
+---
+
+[Back to Villagers](/Homes-journey-archive/Valley/Villagers/README){: .btn }
