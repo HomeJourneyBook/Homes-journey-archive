@@ -5,6 +5,8 @@ nav_exclude: true
 
 ← [Igneon]({{ site.baseurl }}/Worlds/Dominia/Igneon)
 
+[← Back to Igneon]({{ site.baseurl }}/Worlds/Dominia/Igneon){: .btn }
+
 # Locations of Igneon
 
 Known locations from this area
