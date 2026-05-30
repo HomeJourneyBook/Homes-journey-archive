@@ -18,6 +18,8 @@ The Tea region consists of vast warm oceans of pale green liquid, above which li
 
 Most Travelers describe this region as an unusually quiet place where only the faint sounds of waves, the creaking of old wooden piers, and the distant clinking of dishes from remote settlements can be heard.
 
+![Tea](tea.png)
+
 ---
 
 ## Acid
@@ -26,6 +28,8 @@ Acid is considered one of the most dangerous and unstable regions of Mireon. Vas
 
 The surface of the liquid continuously bubbles and shifts in color, while loud cracking and hissing sounds occasionally emerge from the depths, as though the environment itself is slowly dissolving the surrounding world.
 
+![Acid](acid.png)
+
 ---
 
 ## Lava
@@ -33,6 +37,8 @@ The surface of the liquid continuously bubbles and shifts in color, while loud c
 The Lava region is formed from endless volcanic fields, rivers of liquid fire, and black stone plateaus covered in ash. The sky here is almost always stained with dark red tones, while the air is filled with heat and the smell of burning stone.
 
 Travelers often describe deep vibrations beneath the ground, distant volcanic rumbling, and occasional meteor showers illuminating the surface of Mireon with sudden flashes of light.
+
+![Lava](lava2.png)
 
 ---
 
@@ -44,6 +50,8 @@ The air here is heavy with the smell of oil, rust, and smoke. Most of the region
 
 Many Travelers note the near-complete absence of sound, broken only by the distant hum of pipelines and the slow creaking of metal structures.
 
+![Petrulium](Oil.png)
+
 ---
 
 ## Blood
@@ -54,6 +62,8 @@ The liquid appears unusually dense and moves slowly even across open terrain. Th
 
 Some Travelers claim that the silence of this region is what they remember most vividly.
 
+![Blood](blood.png)
+
 ---
 
 ## Gold
@@ -63,3 +73,7 @@ Gold is found primarily within the immense underground systems of Mireon. Stream
 The surface of the metal moves slowly and almost silently, creating the sensation that the entire surrounding space has become motionless. The air here is dry and hot, while the walls of many caverns are covered in reflections resembling distant stars.
 
 According to Traveler records, the region of Gold is one of the easiest places in Mireon to lose the sense of time.
+
+![Gold](gold.png)
+
+---
