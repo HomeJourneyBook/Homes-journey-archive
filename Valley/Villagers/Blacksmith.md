@@ -12,5 +12,3 @@ Most metal objects found within the settlement — are believed to have passed t
 Despite the simplicity of his work, many villagers consider his craftsmanship essential to the daily life of the Valley.
 
 ![The Blacksmith](blacksmith.png)
-
----
