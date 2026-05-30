@@ -1,5 +1,15 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var title = document.querySelector('.site-title');
+    if (title) {
+      title.innerHTML = '<img src="/Homes-journey-archive/assets/images/logo.png" style="height:32px;width:auto;">';
+    }
+  });
+</script>
+
 <style>
 
   body {
@@ -10,11 +20,13 @@
   }
 
   .site-header,
-  body > header,
-  .top-bar {
+  header.site-header,
+  .site-header-content,
+  .header-nav {
     background: #0c1113 !important;
     border-bottom: none !important;
     box-shadow: none !important;
+    border: none !important;
   }
 
   .site-title {
@@ -76,11 +88,14 @@
     color: #f0d080 !important;
   }
 
-  .nav-list-expander svg {
+  button.nav-list-expander svg,
+  .nav-list-expander > svg {
     fill: #c8a84b !important;
+    color: #c8a84b !important;
   }
 
-  .nav-list-expander:hover svg {
+  button.nav-list-expander:hover svg,
+  .nav-list-expander:hover > svg {
     fill: #f0d080 !important;
   }
 
@@ -100,12 +115,17 @@
   @media (max-width: 800px) {
     body { font-size: 8px !important; }
     h1 { font-size: 1rem !important; }
-    .main-content { padding: 16px !important; }
     .site-header {
-      position: sticky !important;
+      position: fixed !important;
       top: 0;
-      z-index: 100;
+      left: 0;
+      right: 0;
+      z-index: 9999 !important;
     }
+    .main-content-wrap {
+      padding-top: 60px !important;
+    }
+    .main-content { padding: 16px !important; }
   }
 
 </style>
