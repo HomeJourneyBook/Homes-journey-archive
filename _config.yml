@@ -11,3 +11,5 @@ custom_head: "head_custom.html"
 nav_order: manual
 
 heading_anchors: true
+
+favicon_ico: "/assets/images/favicon.ico"
