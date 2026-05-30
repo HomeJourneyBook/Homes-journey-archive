@@ -13,4 +13,6 @@ Some villagers claim that Arborist is capable of noticing changes in the trees l
 
 ![The Arborist](arborist.png)
 
-[Back to Villagers]({{ site.baseurl }}/Worlds/The Valley/Villagers){: .btn }
+---
+
+[Back to Villagers]({{ site.baseurl }}/Valley/Villagers){: .btn }
