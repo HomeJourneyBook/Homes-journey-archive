@@ -1,3 +1,9 @@
+---
+title: The Figurative Language
+parent: Concepts
+nav_order: 1
+---
+
 # The Figurative Language
 
 Among all known symbolic systems, the figurative language remains the most ancient and difficult to translate — a method of writing encountered within the ritual symbols of the Valley of Tea Dragons and throughout most surviving fragments of the ancient Book discovered near the Tea Rock.
