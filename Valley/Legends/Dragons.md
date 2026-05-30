@@ -56,3 +56,9 @@ According to the legends, the Golden Dragon sacrificed itself during the final b
 The only known trace left behind after the battle was a single golden egg discovered beneath the roots of the Great Tea Tree.
 
 ![Golden Dragon](Golden_dragon.png)
+
+---
+
+[See Leaders](/Homes-journey-archive/Valley/Legends/Creatures){: .btn }
+
+[Back to the Valley](/Homes-journey-archive/Valley/README){: .btn }
