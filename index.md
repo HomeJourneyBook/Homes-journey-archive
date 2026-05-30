@@ -20,17 +20,12 @@ At present, I continue my work on translating the Book and restoring the lost re
 
 If you truly intend to explore the universe of Home’s Journey together with me — then welcome to the Archive.
 
-[Cosmology]({{ "/Cosmology/" | Cosmolohy.md }}){: .btn }
-[The Tavern]({{ "/Tavern/" | README.md }}){: .btn }
-[Worlds]({{ "/Worlds/" | Worlds/README }}){: .btn }
-[Concepts]({{ "/Worlds/" | Worlds/README }}){: .btn }
-[Artifacts]({{ "/Worlds/" | Worlds/README }}){: .btn }
-
 ---
 
+## Main topics:
+
 - [Cosmology](Cosmology.md)
-- [Tavern](Tavern/README.md)
-- [Valley of Tea Dragons](Valley/README.md)
+- [The Tavern](Tavern/README.md)
 - [Worlds](Worlds/README.md)
 - [Concepts](Concepts/README.md)
 - [Artifacts](Artifacts/README.md)
