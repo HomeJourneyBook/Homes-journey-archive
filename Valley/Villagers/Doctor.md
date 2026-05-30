@@ -14,3 +14,7 @@ In addition to medicine, Teasculapius is also associated with older rituals and 
 Some villagers consider his methods unusual, though many still seek his help during illness or recovery.
 
 ![The Teasculapius](doctor.png)
+
+---
+
+[Back to Villagers](/Homes-journey-archive/Valley/Villagers/README){: .btn }
