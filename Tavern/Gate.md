@@ -109,4 +109,4 @@ They appear in the most desolate places — among dead plains and forgotten ruin
 
 ---
 
-[Go to Moods](/Homes-journey-archive/Tavern/Mood){: .btn }
+[Go to Mood](/Homes-journey-archive/Tavern/Mood){: .btn }
