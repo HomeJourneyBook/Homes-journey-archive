@@ -6,7 +6,7 @@ nav_order: 1
 
 # The Valley of Tea Dragons
 
-Among all Worlds mentioned in the surviving records, the Valley of Tea Dragons remains one of the most isolated and, at the same time, one of the most significant regions known to me so far. It was here that the Great Tea Tree was discovered, around which the Villagers’ settlement, the tea fields, and most of the Valley’s modern life gradually formed over many generations.
+<img src="Homes-journey-archive/assets/alphabet/letter_A.png" style="float: left; margin-right: 8px; width: 40px;" alt="A">mong all Worlds mentioned in the surviving records, the Valley of Tea Dragons remains one of the most isolated and, at the same time, one of the most significant regions known to me so far. It was here that the Great Tea Tree was discovered, around which the Villagers’ settlement, the tea fields, and most of the Valley’s modern life gradually formed over many generations.
 
 The exact location of the Valley still remains unknown. Most ancient maps either contradict one another or end long before providing any reliable external landmarks.
 
