@@ -2,6 +2,7 @@
 title: Worlds
 parent: Home Travelers
 grand_parent: The Tavern
+nav_order: 3
 ---
 
 # Worlds
