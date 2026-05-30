@@ -1,3 +1,9 @@
+---
+title: Bastion
+parent: Worlds
+nav_order: 5
+---
+
 # Bastion
 
 Bastion is a World of enormous fortresses, stone citadels, bridges, towers, and isolated kingdoms built among mountains, cliffs, forests, endless valleys, and even above the clouds.
