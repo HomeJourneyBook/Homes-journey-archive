@@ -16,7 +16,7 @@ The union between Essence and a Gate is not an accidental process. According to 
 
 For this reason, the primary purpose of Travelers is the exploration of different Worlds and the collection of knowledge, traces, and remnants left behind by previous civilizations. Most of the Worlds known in the current Era exist only as fragments of something far older, and in many cases Travelers become the only witnesses capable of preserving what still remains of them.
 
-<img src="Art2.png" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 200px;" alt="Art2">
+<img src="IMG_3941.png" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 200px;" alt="Art2">
 Despite their differences in appearance, Mood, and origin, Travelers are united by a common internal pull toward the continuation of the Path itself. This desire does not appear to function as a direct command or obligation, but rather as a natural property of Essence seeking experience, movement, and understanding through the observation of Worlds.
 
 In this process, Travelers are aided by the Tavern — the central hub and place of permanent residence from which they depart on their journeys — as well as Shen, Tea, and the Schemes of the Path, all of which help guide them and assist in gathering the necessary experience.
