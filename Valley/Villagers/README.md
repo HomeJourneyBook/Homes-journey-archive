@@ -21,22 +21,22 @@ Despite the apparent simplicity of their daily life, there is a strong sense tha
 
 ## Known Villagers:
 
+- [Arborist](Arborist.md)
 - [Artchemist](Artchemist.md)
+- [Blacksmith](Blacksmith.md)
+- [Cook](Cook.md)
+- [Fisherman](Fisherman.md)
+- [Mechanic](Mechanic.md)
 - [TJ](Tj.md)
 - [Tealer](Tealer.md)
-- [Fisherman](Fisherman.md)
 - [Teasurer](Teasurer.md)
 - [Teantist](Teantist.md)
-- [Arborist](Arborist.md)
 - [Tea Monk](Monk.md)
 - [Tealder](Tealder.md)
-- [Web Teaveloper](WebTeaveloper.md)
-- [Mechanic](Mechanic.md)
 - [Tea Harvester](Harvester.md)
 - [Tea Shearer](Shearer.md)
-- [Cook](Cook.md)
-- [Blacksmith](Blacksmith.md)
 - [Teasculapius](Doctor.md)
+- [Web Teaveloper](WebTeaveloper.md)
   
 ---
 
