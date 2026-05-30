@@ -1,3 +1,10 @@
+---
+title: The Legend of the Battle for the Great Tea Tree
+parent: The Valley of Tea Dragons
+grand_parent: Worlds
+nav_order: 3
+---
+
 # The Legend of the Battle for the Great Tea Tree
 
 This section contains surviving records connected to one of the oldest known conflicts within the Valley of Tea Dragons — the Battle for the Great Tea Tree.
@@ -9,5 +16,3 @@ Below are the known leaders who took part in the events later remembered as the 
 - [The Legend](Legend.md)
 - [About Dragons](Dragons.md)
 - [About Leaders](Creatures.md)
-
----
