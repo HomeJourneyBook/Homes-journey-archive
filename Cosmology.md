@@ -9,6 +9,8 @@ Among all the records I have managed to translate, few carry such weight and suc
 
 ## The Great Division
 
+<div style="text-align: center;">
+
 In the beginning, there was no form.  
 There was no time, no distinction, no boundaries.  
 There was only the Unified Essence — whole, limitless, nameless, and indivisible.
@@ -28,6 +30,8 @@ In order to obtain meaning, the Whole had to look upon itself from within.
 And thus occurred the first and greatest act — not creation, but self-division.
 
 The Unified Essence intentionally shattered itself.
+
+</div>
 
 ---
 
