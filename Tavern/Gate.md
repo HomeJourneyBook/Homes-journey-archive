@@ -47,7 +47,7 @@ The Szarg dwell in darkness untouched by light. Their form resembles a frozen fi
 
 The Szarg are born from the abyss. Their shape shifts like the tide, and their hunger is endless. Those who hear the call of the depths never return unchanged.
 
-These Gates reveal themselves not to those who seek, but to those who have lost their way. They are saturated with longing for a Return that may never come.
+These Gates reveal themselves not to those who seek, but to those who have lost their way.
 <div style="clear: both;"></div>
 
 ---
