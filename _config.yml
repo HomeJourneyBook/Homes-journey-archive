@@ -24,4 +24,4 @@ search_enabled: true
 search.placeholder: "Search the Note..."
 
 aux_links:
-  "Home's Journey site": "https://trianglecirclesqaure.org"
+  "⌂": "https://trianglecirclesqaure.org"
