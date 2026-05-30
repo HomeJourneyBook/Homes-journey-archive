@@ -138,6 +138,3 @@ In ancient records, the Right Shoulder is connected far less frequently with old
 
 ![Right Shoulder](R_shoulder.png)
 
----
-
-[Go to The Village](/Homes-journey-archive/Valley/Village){: .btn }
