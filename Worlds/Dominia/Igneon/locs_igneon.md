@@ -1,3 +1,8 @@
+---
+title: Locations of Igneon
+nav_exclude: true
+---
+
 # Locations of Igneon
 
 Known locations from this area
