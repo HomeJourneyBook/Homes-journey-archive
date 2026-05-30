@@ -14,7 +14,7 @@ According to Traveler records, much of Bastion is covered in ancient defensive s
 
 ## Cloudy Castle
 
-![Cloudy Castle](castle2.png)
+![Cloudy Castle](castler2.png)
 
 ---
 
