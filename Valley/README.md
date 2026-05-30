@@ -30,6 +30,8 @@ Despite the relative calmness of the Valley, I gradually began to suspect that a
 
 ---
 
+> You can continue to read about locations of the Valley. Or check this topics:
+
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 24px 0;">
 
 <a href="/Homes-journey-archive/Valley/Village" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
