@@ -5,7 +5,7 @@ nav_exclude: true
 
 # The Artchemist
 
-<img src="Artchemist.png" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 200px;" alt="Artchemist">
+<img src="Artchemist.png" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 300px;" alt="Artchemist">
 Artchemist is one of the villagers responsible for preserving visual records within the Valley.
 
 Most surviving sketches of Schemes of the Path, symbols, and fragments of distant Worlds are believed to have passed through his workshop at some point.
