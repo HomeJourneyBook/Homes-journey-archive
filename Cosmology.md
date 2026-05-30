@@ -29,11 +29,11 @@ And thus occurred the first and greatest act — not creation, but self-division
 
 The Unified Essence intentionally shattered itself.
 
----
 
-![Great Division](division.png){: width="600" }
+<div style="text-align: center;">
+  <img src="division.png" style="width: 400px;" alt="Great Division">
+</div>
 
----
 
 The first consequences of the Division became the Worlds. They did not emerge as ordinary places or spaces, but as separate trajectories of the divided Essence. Each World received its own nature, its own rhythm, and its own way of experiencing existence.
 
@@ -45,7 +45,7 @@ Thus appeared form, memory, consciousness, emotion, and the very ability to expe
 
 The Essence developed one fundamental desire:
 
-“To know itself through experience and one day return to Unity.”
+>_“To know itself through experience and one day return to Unity.”_{: .highlight }
 
 And within this began the deepest meaning of the Path.
 
@@ -58,6 +58,12 @@ The Great Division was not a tragedy.
 It was the only way for the Essence to escape the state of perfect yet empty omniscience and attain lived wisdom.
 
 However, all division is unstable by nature…
+
+
+<div style="text-align: center;">
+  <img src="creating.png" style="width: 400px;" alt="Creating Worlds">
+</div>
+
 
 Jeet is the instability of Essence, in which Worlds, objects, or living forms begin to lose their cohesion, form, and identity.
 
@@ -72,10 +78,6 @@ Jeet is not a mistake or an external threat.
 On the contrary — it is an inevitable consequence of separation. The price of being free to experience, to feel, and to exist apart from Unity.
 
 And though the excessive spread of Jeet may slow or even endanger the Great Return itself — the moment when the divided Essence may once again become whole — the Path will continue until it is completed.
-
----
-
-![Creating Worlds](creating.png){: width="600" }
 
 ---
 
