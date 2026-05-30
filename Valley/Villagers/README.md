@@ -1,3 +1,10 @@
+---
+title: Villagers
+parent: The Valley of Tea Dragons
+grand_parent: Worlds
+nav_order: 1
+---
+
 # Villagers
 
 Among all inhabitants of the Valley, the Villagers form the foundation of its daily life. For many generations, they have maintained the Tea Fields, preserved the Village, crafted objects within the Workshop, conducted ceremonies, and continued traditions whose origins have, in many cases, long since been forgotten.
@@ -34,5 +41,3 @@ Despite the apparent simplicity of their daily life, there is a strong sense tha
 ---
 
 ![Villagers](Villagers.jpeg)
-
----
