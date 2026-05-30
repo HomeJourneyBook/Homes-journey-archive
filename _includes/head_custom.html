@@ -9,12 +9,13 @@
     background-color: #0c1113;
   }
 
-  .site-header {
-  background: #0c1113 !important;
-  border-bottom: none !important;
-  box-shadow: none !important;
- }
-
+  .site-header,
+  body > header,
+  .top-bar {
+    background: #0c1113 !important;
+    border-bottom: none !important;
+    box-shadow: none !important;
+  }
 
   .site-title {
     font-size: 8px !important;
@@ -92,16 +93,19 @@
 
   .site-footer,
   .site-footer *,
-  p.text-small,
-  .text-small {
+  [class*="footer"] {
     display: none !important;
   }
-  
 
   @media (max-width: 800px) {
     body { font-size: 8px !important; }
     h1 { font-size: 1rem !important; }
     .main-content { padding: 16px !important; }
+    .site-header {
+      position: sticky !important;
+      top: 0;
+      z-index: 100;
+    }
   }
 
 </style>
