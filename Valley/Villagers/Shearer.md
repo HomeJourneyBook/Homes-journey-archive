@@ -12,3 +12,7 @@ Most tea prepared inside the settlement is believed to pass through his work bef
 Some villagers claim that Tea Shearer is capable of recognizing subtle differences in tea leaves that others fail to notice.
 
 ![The Tea Shearer](tea_shearer.png)
+
+---
+
+[Back to Villagers](/Homes-journey-archive/Valley/Villagers/README){: .btn }
