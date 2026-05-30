@@ -76,5 +76,3 @@ And though the excessive spread of Jeet may slow or even endanger the Great Retu
 ---
 
 ![Creating Worlds](creating.png)
-
----
