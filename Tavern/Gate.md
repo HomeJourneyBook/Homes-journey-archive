@@ -71,7 +71,7 @@ These Gates are tied to the displaced, the forgotten, and those whose essence ha
 <img src="Mechird.png" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="Mechird">
 The Mechird are assembled with engineering precision, yet stripped of all original context. Their form resembles fragments of machines once part of something far greater. Their surfaces are metallic and angular, filled with repeating patterns and flawless lines.
 
->_“They calculate. They adapt. They do not stop.”_
+>_“They calculate. They adapt. They do not stop.”_{: .highlight }
 
 The Mechird are Gates forged in precision. They were not merely created — they calculate the exact moment when travel should occur. They respond to cycles, structures, and repeating choices. Where other Gates follow longing or intuition, the Mechird follow logic and order — the final weapon of civilizations that tried to defeat the chaos of Jit and the oblivion of time through calculation.
 
@@ -85,7 +85,7 @@ Yet even their flawless precision carries a quiet melancholy. They stand as remi
 <img src="Dreegan.png" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Dreegan">
 Dreegan are rooted Gates whose form resembles an ancient, twisted tree trunk with a hollow void at its center. Their roots burrow deep into the soil of Worlds, while their branch-like extensions cut through the fabric of space like frozen lightning. They most often awaken in places where time itself seems to have stopped: abandoned sacred gardens, ruined temples, and paths no one dares to truly call “forgotten.”
 
->_“They stood here longer than time itself. They do not move. They do not sleep. But they remember.”_
+>_“They stood here longer than time itself. They do not move. They do not sleep. But they remember.”_{: .note }
 
 Dreegan are the living memory of the Departed. They were created by a civilization that understood that every Return demands sacrifice. Their creators willingly wove their own lives into the structure of the Gates — their bodies becoming roots, their minds becoming tree rings, and their unfulfilled longing for Unity becoming the hollow emptiness within.
 
@@ -99,7 +99,7 @@ Those who approach a Dreegan sometimes hear quiet whispers — not words, but ec
 <img src="Xuqtr.png" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="Xuqtr">
 Xuitqr appear as towering, imposing figures crowned with masses of twisting tentacles, resembling a living crown of roots or exposed nerves. At the center of their bodies lies a vast black void — an absolute rupture within reality itself.
 
->_“They do not speak.  They do not move. And yet — they see everything.”_
+>_“They do not speak.  They do not move. And yet — they see everything.”_{: .warning }
 
 Nuthqir are Gates of silent judgment and all-encompassing perception. They stand as ancient sentinels, combining overwhelming organic presence with something entirely incomprehensible. Those who stare into the black emptiness within their chest for too long begin to feel their own essence slowly unfolding before something infinitely attentive and detached.
 
