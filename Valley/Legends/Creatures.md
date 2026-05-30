@@ -108,3 +108,9 @@ Monkeys - agile and resourceful creatures, their quick movements and clever mind
 Eldritch Spawn - otherworldly beings of chaos and dread, their twisted forms and incomprehensible minds embodying the primal fears of the unknown. Ancient God Samovar - an unfathomable entity of immense power, revered and feared as the progenitor of the Eldritch Spawn. From the depths of his abyssal domain, he commands his nightmarish legions, their grotesque shapes and eldritch whispers spreading his will across the realms, a chilling reminder of the unfathomable forces that lie beyond mortal understanding.
 
 ![Ancient God Samovar](Samovar.png)
+
+---
+
+[See Dragons](/Homes-journey-archive/Valley/Legends/Dragons){: .btn }
+
+[Back to the Valley](/Homes-journey-archive/Valley/README){: .btn }
