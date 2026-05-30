@@ -6,11 +6,13 @@ permalink: /archive/
 
 # Home's Journey Archive
 
-<img src="Writer.gif" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Writer">
+<img src="/Homes-journey-archive/Writer.gif" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Writer">
 
 So, if these records have truly been found by someone, then it is probably worth beginning with an explanation of where exactly this archive came from.
 
 I am Teantist. As far as I know, I am a researcher and translator from the Valley of Tea Dragons. Most of my earliest memories are connected to this place, although many details of my own past still remain unclear even to me.
+
+Many years ago, near the Tea Rock — a place that we Villagers of the Valley consider to be the grave of the Founder of the Village — I discovered an ancient book written in the figurative language. Much of its pages had been damaged by time: some fragments can no longer be read, certain symbols resist precise translation, and several sections appear to have been destroyed long before the book came into my possession.
 <div style="clear: both;"></div>
 
 Many years ago, near the Tea Rock — a place that we Villagers of the Valley consider to be the grave of the Founder of the Village — I discovered an ancient book written in the figurative language. Much of its pages had been damaged by time: some fragments can no longer be read, certain symbols resist precise translation, and several sections appear to have been destroyed long before the book came into my possession.
