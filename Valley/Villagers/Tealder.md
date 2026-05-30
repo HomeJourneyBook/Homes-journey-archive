@@ -14,3 +14,7 @@ He is rarely seen without the young Red Dragon that accompanies him throughout t
 Despite his authority, Tealder is known for maintaining close contact with the daily life of the village rather than remaining distant from it.
 
 ![The Tealder](Tealder.png)
+
+---
+
+[Back to Villagers](/Homes-journey-archive/Valley/Villagers/README){: .btn }
