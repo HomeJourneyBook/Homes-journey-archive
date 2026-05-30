@@ -1,3 +1,9 @@
+---
+title: Current Era
+parent: Concepts
+nav_order: 5
+---
+
 # Current Era
 
 The Current Era is the term commonly used to describe the present period of the Universe, emerging long after the disappearance of most known civilizations. How many of them there were before, and how many eras have passed before the present one, it is almost impossible to establish exactly.
