@@ -1,3 +1,9 @@
+---
+title: Dominia
+parent: Worlds
+nav_order: 2
+---
+
 # The Dominia
 
 According to the surviving descriptions, the Dominia was a large and highly diverse planet with a developed internal structure, numerous regions, and signs of at least three distinct peoples having existed there.
