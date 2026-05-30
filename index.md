@@ -39,7 +39,3 @@ If you truly intend to explore the universe of Home’s Journey together with me
 
 [Artifacts]({{ site.baseurl }}/Artifacts/README){: .btn } - *My proud*.  
 
----
-
-![Teantist is writting Archive](Writer.gif)
-
