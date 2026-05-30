@@ -29,13 +29,13 @@ If you truly intend to explore the universe of Home’s Journey together with me
 
 ## Main topics:
 
-[Cosmology]({{ site.baseurl }}/Cosmology){: .btn } - *the beginning of the end*. 
+[Cosmology]({{ site.baseurl }}/Cosmology){: .btn } - *the beginning of the End*. 
 
-[The Tavern]({{ site.baseurl }}/Tavern/README){: .btn } - *the beginning of the end*. 
+[The Tavern]({{ site.baseurl }}/Tavern/README){: .btn } - *Who about and why*. 
 
-[Home Worlds]({{ site.baseurl }}/Worlds/README){: .btn } - *Welcome to travel around*.  
+[Home Worlds]({{ site.baseurl }}/Worlds/README){: .btn } - *Where about and when*.  
 
-[Concepts]({{ site.baseurl }}/Concepts/README){: .btn } - *What about what why*.  
+[Concepts]({{ site.baseurl }}/Concepts/README){: .btn } - *What about and for what*.  
 
 [Artifacts]({{ site.baseurl }}/Artifacts/README){: .btn } - *My proud*.  
 
