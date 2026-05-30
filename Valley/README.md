@@ -1,5 +1,5 @@
 ---
-title: The Valley of Tea Dragons
+title: The Valley
 parent: Worlds
 nav_order: 1
 ---
