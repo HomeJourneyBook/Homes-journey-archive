@@ -13,3 +13,7 @@ Much of the daily work connected to the harvest season is organized around his r
 Some villagers believe that experienced harvesters are capable of sensing changes in the condition of the tea long before they become visible to others.
 
 ![The Tea Harvester](TeaHarvester.png)
+
+---
+
+[Back to Villagers](/Homes-journey-archive/Valley/Villagers/README){: .btn }
