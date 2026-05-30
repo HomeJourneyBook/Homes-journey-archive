@@ -1,11 +1,11 @@
 ---
-title: Mood
+title: Moods
 parent: Home Travelers
 grand_parent: The Tavern
 nav_order: 2
 ---
 
-# Mood
+# Moods
 
 Mood is a state that emerges at the moment when a Gate becomes a Traveler.
 
@@ -19,7 +19,7 @@ Approximately 25 different types of Moods are known, each unique in its own way 
 
 ---
 
-![Set of Mood](Mood.png)
+![Set of Moods](Mood.png)
 
 ---
 
