@@ -1,6 +1,8 @@
 ---
 title: Arboris
-nav_exclude: true
+parent: Dominia
+grand_parent: Worlds
+nav_order: 2
 ---
 
 # Arboris
