@@ -1,3 +1,9 @@
+---
+title: Schemes of the Path
+parent: Concepts
+nav_order: 2
+---
+
 # Schemes of the Path
 
 Schemes of the Path are one of the fundamental concepts involved in traversing the Path, discovering unexplored Worlds, and traveling in general. Despite their outward resemblance to ordinary maps, blueprints, or collections of symbols, to Travelers they are far more than simple directional guides.
