@@ -20,7 +20,8 @@ Potential was absolute, but never experienced.
 Knowledge existed without experience.  
 And within this lay the greatest paradox:
 
->_“Omniscience without participation is not wisdom, but emptiness.”_{: .note }
+>_“Omniscience without participation is not wisdom, but emptiness.”_
+{: .highlight }
 
 For true knowledge requires distance.  
 Experience requires separation.  
@@ -46,7 +47,8 @@ Thus appeared form, memory, consciousness, emotion, and the very ability to expe
 
 The Essence developed one fundamental desire:
 
->_“To know itself through experience and one day return to Unity.”_{: .highlight }
+>_“To know itself through experience and one day return to Unity.”_
+{: .highlight }
 
 And within this began the deepest meaning of the Path.
 
