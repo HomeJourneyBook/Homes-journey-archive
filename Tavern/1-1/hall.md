@@ -1,5 +1,8 @@
 ---
 title: Hall of Fame
+parent: Home Travelers
+grand_parent: The Tavern
+nav_order: 4
 ---
 
 # Hall of Fame
