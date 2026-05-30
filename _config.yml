@@ -9,3 +9,5 @@ custom_head: "head_custom.html"
 
 # Порядок навигации — manual означает по nav_order в файлах
 nav_order: manual
+
+heading_anchors: true
