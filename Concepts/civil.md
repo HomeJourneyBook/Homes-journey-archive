@@ -1,3 +1,9 @@
+---
+title: The Departed Civilizations
+parent: Concepts
+nav_order: 4
+---
+
 # The Departed Civilizations
 
 The Departed Civilizations is the collective term for the countless races, societies, and cultures that existed in the previous Epochs before the dawn of the Current Era.
