@@ -31,6 +31,7 @@ Despite the relative calmness of the Valley, I gradually began to suspect that a
 ---
 
 > You can continue to read about locations of the Valley. Or check this topics:
+{: .note }
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 24px 0;">
 
