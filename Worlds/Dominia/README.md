@@ -14,4 +14,4 @@ The exact period during which this World existed remains impossible to determine
 
 ---
 
-![Dominia](Dominia.png)
+![Dominia](Dominia.png){: width="600" }
