@@ -9,7 +9,7 @@ nav_order: 1
 
 ## The Great Division
 
-In the beginning, there was no form.  
+<img src="/Homes-journey-archive/assets/alphabet/letter_I.png" style="float: left; margin-right: 8px; width: 40px;" alt="I">n the beginning, there was no form.  
 There was no time, no distinction, no boundaries.  
 There was only the Unified Essence — whole, limitless, nameless, and indivisible.
 
