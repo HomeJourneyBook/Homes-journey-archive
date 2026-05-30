@@ -29,5 +29,5 @@ At present, it seems to me that the figurative language is not simply an ancient
 
 ---
 
-![The Figurative Language](Figures.jpeg)
+![The Figurative Language](Figures.jpeg){: width="600" }
 
