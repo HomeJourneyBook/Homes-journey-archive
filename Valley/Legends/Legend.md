@@ -5,6 +5,8 @@ nav_exclude: true
 
 # The Legend of the Battle for the Great Tea Tree
 
+>Illustration is under of creation
+
 ---
 
 ## The Creation of the Great Tea Tree
