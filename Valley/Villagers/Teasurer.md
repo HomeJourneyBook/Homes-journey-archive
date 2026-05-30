@@ -12,3 +12,7 @@ Most records connected to trade, storage, and distribution eventually pass throu
 Some villagers believe that Teasurer remembers the movement of goods throughout the settlement with unusual precision, even without relying on written records.
 
 ![The Teasurer](teasurer.png)
+
+---
+
+[Back to Villagers](/Homes-journey-archive/Valley/Villagers/README){: .btn }
