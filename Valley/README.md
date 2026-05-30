@@ -24,8 +24,6 @@ Special mention should be given to the Red Dragon — a creature constantly obse
 
 Despite the relative calmness of the Valley, I gradually began to suspect that a significant portion of its history was intentionally concealed or lost long before the emergence of the current generation of Villagers.
 
----
-
 ![Map](Map.png)
 
 ---
@@ -59,8 +57,6 @@ Despite this outward minimalism, the lives of the Villagers are deeply connected
 
 My observations also suggest that tea harvested from different parts of the Fields may vary in both flavor and properties, even when the leaves themselves appear identical. This is supported not only by several translated records, but also by the opinions of the Villagers themselves.
 
----
-
 ![Tea Field](Field.png)
 
 ---
@@ -77,11 +73,9 @@ Deep within the Emerald Forest also stands the Tea Rock — the burial site of t
 
 At first glance, the Emerald Forest may seem like nothing more than an ordinary woodland surrounding the Village. However, during my time within it, I was repeatedly left with the feeling that it is precisely here that the greatest number of traces connected to the earliest history of the Valley have survived.
 
----
-
 ![Emerald Forest](Forest.png)
 
---
+---
 
 ## The Tea Rock
 
@@ -95,7 +89,6 @@ It is near the Tea Rock that the Villagers conduct rituals connected to memory, 
 
 Particularly noteworthy is the fact that throughout all my research into the records and the Valley itself, I have failed to discover any other known burial sites. No cemeteries, no individual graves, nor any direct references to them. For this reason, the significance of the Tea Rock to the inhabitants of the Valley is likely both immense and deeply paradoxical.
 
----
 
 ![Tea Rock](Rock.png)
 
@@ -113,7 +106,6 @@ Despite its calm atmosphere, the origin of the Pond itself remains unknown. A nu
 
 Among the inhabitants of the Valley, there is also a widespread belief that the waters of the Diamond Pond possess the unusual ability to reflect not only the surrounding world, but also the inner state of the observer. Most such stories are likely little more than local superstition, though mentions of similar observations appear in several translated records I have studied.
 
----
 
 ![Diamond Pond](Pond.png)
 
@@ -133,11 +125,10 @@ In addition, old records repeatedly mention a system of caves located near the b
 
 Despite the lack of reliable exploration of the inner regions of the Left Shoulder, I gradually began to suspect that a significant portion of the region’s oldest history may be hidden there. At the very least, among all territories of the Valley, this is the place the Villagers discuss with the greatest caution.
 
----
 
 ![Left Shoulder](L_shoulder.png)
 
---
+---
 
 ## The Right Shoulder
 
@@ -153,7 +144,6 @@ Despite its calmer reputation, a large portion of the Right Shoulder still remai
 
 In ancient records, the Right Shoulder is connected far less frequently with old legends or disappearances than the western part of the mountain range. Nevertheless, there remains a strong impression that the inhabitants of the Valley perceive both sides of the stone ring as something far more significant than ordinary mountains surrounding a settlement.
 
----
 
 ![Right Shoulder](R_shoulder.png)
 
