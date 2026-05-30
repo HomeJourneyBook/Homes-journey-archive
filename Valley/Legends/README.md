@@ -11,8 +11,23 @@ This section contains surviving records connected to one of the oldest known con
 
 According to the Legends, countless beings, rulers, creatures, and entire peoples came to the Valley seeking the power hidden within the leaves of the Great Tea Tree. Some wished to protect the balance of the valley, while others sought power, immortality, knowledge, or salvation for their own worlds.
 
-Below are the known leaders who took part in the events later remembered as the Legends of the Valley.
+> Below are the known leaders who took part in the events later remembered as the Legends of the Valley.
 
-- [The Legend](Legend.md)
-- [About Dragons](Dragons.md)
-- [About Leaders](Creatures.md)
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 24px 0;">
+
+<a href="/Homes-journey-archive/Valley/Legends/Legend" style="grid-column: 1 / -1; display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
+  <div style="font-size: 12px; margin-bottom: 8px;">The Legend</div>
+  <div style="font-size: 8px; color: #888;">What happened...</div>
+</a>
+
+<a href="/Homes-journey-archive/Valley/Legends/Dragons" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
+  <div style="font-size: 12px; margin-bottom: 8px;">Dragons</div>
+  <div style="font-size: 8px; color: #888;">Who protect...</div>
+</a>
+
+<a href="/Homes-journey-archive/Valley/Legends/Creatures" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
+  <div style="font-size: 12px; margin-bottom: 8px;">Leaders</div>
+  <div style="font-size: 8px; color: #888;">Who attack...</div>
+</a>
+
+</div>
