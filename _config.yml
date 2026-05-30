@@ -16,3 +16,12 @@ custom_head: "_includes/head_custom.html"
 
 nav_expand_all: true
 
+aux_links_new_tab: true
+
+search_enabled: true
+
+# Текст в поле поиска
+search.placeholder: "Search the Note..."
+
+aux_links:
+  "Home's Journey site": "https://trianglecirclesqaure.org"
