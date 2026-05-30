@@ -24,4 +24,5 @@ To this day, I have been unable to determine the true origin of the Tavern.
 
 ---
 
-![Tavern](tavern.gif)
+![Tavern](tavern.gif)!{: width="300" }
+
