@@ -12,3 +12,7 @@ She is often seen near quieter parts of the settlement, where villagers gather f
 Some villagers believe that Tea Monk preserves practices and teachings far older than the village itself.
 
 ![The Tea Monk](monk.png)
+
+---
+
+[Back to Villagers](/Homes-journey-archive/Valley/Villagers/README){: .btn }
