@@ -57,7 +57,7 @@ These Gates reveal themselves not to those who seek, but to those who have lost 
 <img src="Umbasir.png" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Umbasir">
 The Umbasir are organic, shifting Gates that tremble at the edge of visibility. Their surface is unstable, resembling fabric woven from shadows, subtly moving even when the surrounding air is perfectly still. They cannot be seen until the moment of activation — yet their presence is felt long before one draws near.
 
->_“You never see them arrive. But you always know when they are near.”_
+>_“You never see them arrive. But you always know when they are near.”_{: .note }
 
 The Umbasir are wrapped in changing shadows — vessels between light and emptiness. They appear as a whisper, a flicker at the edge of sight. No one knows where they come from, only where they manifest again.
 
