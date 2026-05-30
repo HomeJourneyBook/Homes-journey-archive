@@ -4,10 +4,6 @@ remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
 search_enabled: false
 
-# Кастомный CSS
-custom_head: "head_custom.html"
-
-# Порядок навигации — manual означает по nav_order в файлах
 nav_order: manual
 
 heading_anchors: true
