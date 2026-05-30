@@ -15,3 +15,61 @@ Most observations describe Edem as a noisy, warm, and constantly moving World fi
 At present, most of Edem is considered abandoned or existing in a state of gradual decay. However, surviving artifacts, records, and fragments of infrastructure continue to be discovered by Travelers throughout various regions of the World.
 
 ---
+
+## Egypt
+
+![Egypt](egypt2.png)
+
+---
+
+## Russia
+
+![Russia](moscow.png)
+
+---
+
+## Sea Journey
+
+![Sea Journey](sea.png)
+
+---
+
+## Forest
+
+![Forest](steelcity.png)
+
+---
+
+## Autumn
+
+![Autumn](windmilWIP2l.png)
+
+---
+
+## Building
+
+![Building](seyma2.png)
+
+---
+
+## Stolb
+
+![Stolb](stolb.png)
+
+---
+
+## Moon
+
+![Moon](moon2.png)
+
+---
+
+## Kazakhstan
+
+![Kazakhstan](Tyan_Shan.png)
+
+---
+
+## Road
+
+![Road](RyvorDR.png)
