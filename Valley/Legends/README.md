@@ -1,6 +1,6 @@
 ---
-title: The Legend of the Battle for the Great Tea Tree
-parent: The Valley of Tea Dragons
+title: The Legend
+parent: The Valley
 grand_parent: Worlds
 nav_order: 3
 ---
