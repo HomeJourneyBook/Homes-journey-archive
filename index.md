@@ -25,11 +25,11 @@ If you truly intend to explore the universe of Home’s Journey together with me
 
 ## Main topics:
 
-- [Cosmology](Cosmology.md)
-- [The Tavern](Tavern/README.md)
-- [Worlds](Worlds/README.md)
-- [Concepts](Concepts/README.md)
-- [Artifacts](Artifacts/README.md)
+- [Cosmology]({{ site.baseurl }}/Homes-journey-archive/Cosmology)
+- [The Tavern]({{ site.baseurl }}/Homes-journey-archive/Tavern)
+- [Worlds]({{ site.baseurl }}/Homes-journey-archive/Worlds)
+- [Concepts]({{ site.baseurl }}/Homes-journey-archive/Concepts)
+- [Artifacts]({{ site.baseurl }}/Homes-journey-archive/Artifacts)
 
 ---
 
