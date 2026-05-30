@@ -1,5 +1,5 @@
 ---
-title: Music band "Gate Manifestation"
+title: "GM"
 parent: The Tavern
 nav_order: 3
 ---
