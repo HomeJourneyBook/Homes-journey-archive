@@ -1,3 +1,8 @@
+---
+title: The Teasculapius
+nav_exclude: true
+---
+
 # The Teasculapius
 
 Teasculapius is one of the villagers responsible for healing practices within the Valley.
@@ -9,5 +14,3 @@ In addition to medicine, Teasculapius is also associated with older rituals and 
 Some villagers consider his methods unusual, though many still seek his help during illness or recovery.
 
 ![The Teasculapius](doctor.png)
-
----
