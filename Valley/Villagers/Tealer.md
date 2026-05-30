@@ -1,3 +1,8 @@
+---
+title: The Tealer
+nav_exclude: true
+---
+
 # The Tealer
 
 Tealer is one of the villagers responsible for trade and long-distance exchange beyond the Valley.
@@ -7,5 +12,3 @@ He is believed to be among the few villagers familiar with the safer routes lead
 Many objects used throughout the Valley are thought to have reached the village through Tealer’s journeys and exchanges with distant lands.
 
 ![The Tealer](Merchant.png)
-
----
