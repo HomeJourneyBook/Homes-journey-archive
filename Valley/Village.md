@@ -41,7 +41,7 @@ Of particular interest are the records connected to the Tree’s effect on memor
 
 ---
 
-![The Great Tea Tree](Tree.png)
+![The Great Tea Tree](Tree.png){: width="600" }
 
 ---
 
@@ -59,7 +59,7 @@ From my own experience, it feels as though the Home holds a far greater meaning 
 
 ---
 
-![The Home](Home.png)
+![The Home](Home.png){: width="600" }
 
 ---
 
@@ -77,7 +77,7 @@ The process of tea brewing itself receives particular and deliberate attention h
 
 ---
 
-![The Tea Home](Tea_home.png)
+![The Tea Home](Tea_home.png){: width="600" }
 
 ---
 
@@ -93,9 +93,9 @@ Inside the Workshop, the sounds of labor are almost constant: the creaking of to
 
 ---
 
-![The Workshop](Workshop.png)
+![The Workshop](Workshop.png){: width="600" }
 
 ---
 
-[Go to Villagers](/Homes-journey-archive/Valley/Villagers/README){: .btn }
+[Read about Villagers](/Homes-journey-archive/Valley/Villagers/README){: .btn }
 [Read the Legend](/Homes-journey-archive/Valley/Legends/README){: .btn }
