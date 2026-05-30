@@ -43,7 +43,7 @@ Their purpose is to show the way back. To the place where time loses all meaning
 <img src="Szarg.png" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="Szarg">
 The Szarg dwell in darkness untouched by light. Their form resembles a frozen figure with a slightly open maw — like an ever-waiting maw. These Gates most often awaken in the depths of craters or in zones of absolute silence, where even echoes perish before they are born.
 
->_“It hides where light dares not enter. It does not chase. It waits.”_
+>_“It hides where light dares not enter. It does not chase. It waits.”_{: .warning }
 
 The Szarg are born from the abyss. Their shape shifts like the tide, and their hunger is endless. Those who hear the call of the depths never return unchanged.
 
