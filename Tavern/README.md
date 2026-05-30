@@ -24,12 +24,4 @@ To this day, I have been unable to determine the true origin of the Tavern.
 
 ---
 
-- [Home Travelers](Travelers.md)
-- [Shen](Shen.md)
-- [Music band "Gate Manifestation"](GM.md)
-
----
-
 ![Tavern](tavern.gif)
-
----
