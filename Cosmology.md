@@ -29,6 +29,8 @@ And thus occurred the first and greatest act — not creation, but self-division
 
 The Unified Essence intentionally shattered itself.
 
+---
+
 ![Great Division](division.png)
 
 ---
@@ -70,6 +72,8 @@ Jeet is not a mistake or an external threat.
 On the contrary — it is an inevitable consequence of separation. The price of being free to experience, to feel, and to exist apart from Unity.
 
 And though the excessive spread of Jeet may slow or even endanger the Great Return itself — the moment when the divided Essence may once again become whole — the Path will continue until it is completed.
+
+---
 
 ![Creating Worlds](creating.png)
 
