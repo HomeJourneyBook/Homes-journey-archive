@@ -98,3 +98,4 @@ Inside the Workshop, the sounds of labor are almost constant: the creaking of to
 ---
 
 [Go to Villagers](/Homes-journey-archive/Valley/Villagers/README){: .btn }
+[Read the Legend](/Homes-journey-archive/Valley/Legends/README){: .btn }
