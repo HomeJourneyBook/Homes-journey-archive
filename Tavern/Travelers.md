@@ -25,3 +25,13 @@ In this process, Travelers are aided by the Tavern — the central hub and place
 
 Special mention should also be given to **the Ritual of the 10 Gates**, periodically undergone by certain Travelers, resulting in the appearance of so-called [Unique Travelers](1-1/1-1.md) within the Universe.
 <div style="clear: both;"></div>
+
+---
+
+<div>
+<a href="/Homes-journey-archive/Tavern/Gate" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-left: auto; width: fit-content;">
+  <div style="font-size: 8px; color: #888; text-align: right;">Read next</div>
+  <div style="font-size: 12px; text-align: right;">Gates</div>
+</a>
+</div>
+
