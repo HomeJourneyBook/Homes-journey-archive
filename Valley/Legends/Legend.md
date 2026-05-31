@@ -272,6 +272,16 @@ And though many believe the conflict ended long ago, some records suggest that n
 
 ---
 
-[See Dragons](/Homes-journey-archive/Valley/Legends/Dragons){: .btn }
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 24px 0;">
 
-[See Leaders](/Homes-journey-archive/Valley/Legends/Creatures){: .btn }
+<a href="/Homes-journey-archive/Valley/Legends/Dragons" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
+  <div style="font-size: 12px; margin-bottom: 8px;">Read about Dragons</div>
+  <div style="font-size: 8px; color: #888;">Who protect...</div>
+</a>
+
+<a href="/Homes-journey-archive/Valley/Legends/Creatures" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
+  <div style="font-size: 12px; margin-bottom: 8px;">Read about Leaders</div>
+  <div style="font-size: 8px; color: #888;">Who attack...</div>
+</a>
+
+</div>
