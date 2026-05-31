@@ -29,5 +29,7 @@ At present, it seems to me that the figurative language is not simply an ancient
 
 ---
 
-![The Figurative Language](Figures.jpeg){: width="600" }
+<div style="text-align: center;">
+  <img src="Figures.jpeg" style="width: 600px;" alt="Cipher">
+</div>
 
