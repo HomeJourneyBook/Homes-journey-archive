@@ -9,7 +9,7 @@ nav_order: 1
 
 The area is located on the shores of fiery lakes. The city of Igneon is built using fire-resistant materials and cooling systems. It harnesses the energy of the fiery lakes to power its systems. Unique chemical and energy technologies are developed here. The residents have adapted to life near the fiery lakes, developing unique forms of art and crafts related to fire and chemistry.
 
-The found artifacts of this region can be explored [here](/Homes-journey-archive/Artifacts/From_Igneon)
+The found artifacts of this region can be explored [here](/Artifacts/From_Igneon)
 
 ## Topics:
 
@@ -35,7 +35,7 @@ The found artifacts of this region can be explored [here](/Homes-journey-archive
 ---
 
 <div>
-<a href="/Homes-journey-archive/Worlds/Dominia/Arboris" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-left: auto; width: fit-content;">
+<a href="/Worlds/Dominia/Arboris" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-left: auto; width: fit-content;">
   <div style="font-size: 8px; color: #888; text-align: right;">Read next</div>
   <div style="font-size: 12px; text-align: right;">Arboris</div>
 </a>
