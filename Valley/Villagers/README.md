@@ -38,6 +38,8 @@ Despite the apparent simplicity of their daily life, there is a strong sense tha
 - [Teasculapius](Doctor.md)
 - [Web Teaveloper](WebTeaveloper.md)
 
+---
+
 <div style="text-align: center;">
   <img src="Villagers.jpeg" style="width: 600px;" alt="Family">
 </div>
