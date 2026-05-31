@@ -10,7 +10,7 @@ nav_order: 1
 
 ## The Great Division
 
-<img src="/Homes-journey-archive/assets/alphabet/letter_I.png" style="float: left; margin-right: 8px; width: 40px;" alt="I">n the beginning, there was no form.  
+<img src="/assets/alphabet/letter_I.png" style="float: left; margin-right: 8px; width: 40px;" alt="I">n the beginning, there was no form.  
 There was no time, no distinction, no boundaries.  
 There was only the Unified Essence — whole, limitless, nameless, and indivisible.
 
@@ -85,7 +85,7 @@ And though the excessive spread of Jeet may slow or even endanger the Great Retu
 ---
 
 <div>
-<a href="/Homes-journey-archive/Tavern/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-left: auto; width: fit-content;">
+<a href="/Tavern/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-left: auto; width: fit-content;">
   <div style="font-size: 8px; color: #888; text-align: right;">Read next</div>
   <div style="font-size: 12px; text-align: right;">the Tavern</div>
 </a>
