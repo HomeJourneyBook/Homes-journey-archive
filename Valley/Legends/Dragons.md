@@ -61,12 +61,12 @@ The only known trace left behind after the battle was a single golden egg discov
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 24px 0;">
 
-<a href="/Homes-journey-archive/Valley/Legends/Creatures" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
+<a href="/Valley/Legends/Creatures" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
   <div style="font-size: 12px; margin-bottom: 8px;">Read about Leaders</div>
   <div style="font-size: 8px; color: #888;">Who attack....</div>
 </a>
 
-<a href="/Homes-journey-archive/Valley/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
+<a href="/Valley/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
   <div style="font-size: 12px; margin-bottom: 8px;">Back to the Valley</div>
   <div style="font-size: 8px; color: #888;"></div>
 </a>
