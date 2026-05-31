@@ -9,7 +9,7 @@ nav_order: 3
 > Under construction
 {: .warning }
 
-![GM](IMG_4008.gif)
+![GM](IMG_4023.gif)
 
 ---
 
