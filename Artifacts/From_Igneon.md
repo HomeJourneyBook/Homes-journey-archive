@@ -1,3 +1,9 @@
+---
+title: from Igneon
+parent: Artifacts
+nav_order: 1
+---
+
 # Found artifacts from Igneon
 
 ---
