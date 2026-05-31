@@ -5,6 +5,7 @@ nav_exclude: true
 
 # The Tealder
 
+<img src="Tealder.png" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Tealder">
 Tealder is regarded as the current leader and overseer of the Valley settlement.
 
 Most decisions related to village organization, seasonal work, and communication between different groups of villagers eventually pass through him.
