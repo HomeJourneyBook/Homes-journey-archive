@@ -27,6 +27,31 @@ If you truly intend to explore the universe of Home’s Journey together with me
 
 ## Main topics:
 
+<a href="/Home-journey/archive/Cosmology" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-bottom: 12px;">
+  <div style="font-size: 12px; margin-bottom: 8px;">Cosmology</div>
+  <div style="font-size: 8px; color: #888;">*the beginning of the End*</div>
+</a>
+
+<a href="Tavern/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-bottom: 12px;">
+  <div style="font-size: 12px; margin-bottom: 8px;">The Tavern</div>
+  <div style="font-size: 8px; color: #888;">Описание...</div>
+</a>
+
+<a href="Worlds/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-bottom: 12px;">
+  <div style="font-size: 12px; margin-bottom: 8px;">Home Worlds</div>
+  <div style="font-size: 8px; color: #888;">Описание...</div>
+</a>
+
+<a href="Concepts/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-bottom: 12px;">
+  <div style="font-size: 12px; margin-bottom: 8px;">Concepts</div>
+  <div style="font-size: 8px; color: #888;">Описание...</div>
+</a>
+
+<a href="Artifacts/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-bottom: 12px;">
+  <div style="font-size: 12px; margin-bottom: 8px;">Artifacts</div>
+  <div style="font-size: 8px; color: #888;">Описание...</div>
+</a>
+
 [Cosmology]({{ site.baseurl }}/Cosmology){: .btn } - *the beginning of the End*. 
 
 [The Tavern]({{ site.baseurl }}/Tavern/README){: .btn } - *Who about and why*. 
