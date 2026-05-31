@@ -6,7 +6,7 @@ has_children: true
 
 # The Tavern
 
-<img src="/Homes-journey-archive/assets/alphabet/letter_A.png" style="float: left; margin-right: 8px; width: 40px;" alt="A">mong all places that continue to exist during the Current Era, the Tavern remains one of the few stable points where Paths, Worlds, and stories intersect through the presence of Travelers.
+<img src="/assets/alphabet/letter_A.png" style="float: left; margin-right: 8px; width: 40px;" alt="A">mong all places that continue to exist during the Current Era, the Tavern remains one of the few stable points where Paths, Worlds, and stories intersect through the presence of Travelers.
 
 Despite the constant movement and ever-changing visitors, an unusually calm atmosphere persists within the Tavern. According to most descriptions, this place serves simultaneously as a shelter, a place of rest, a space for exchanging stories, and a temporary pause between journeys.
 
@@ -30,7 +30,7 @@ The Travelers Hall of Fame is also located here.
 ---
 
 <div>
-<a href="/Homes-journey-archive/Tavern/Travelers" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-left: auto; width: fit-content;">
+<a href="/Tavern/Travelers" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-left: auto; width: fit-content;">
   <div style="font-size: 8px; color: #888; text-align: right;">Read next</div>
   <div style="font-size: 12px; text-align: right;">Home Travelers</div>
 </a>
