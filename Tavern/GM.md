@@ -11,6 +11,10 @@ nav_order: 3
 
 ![GM](IMG_4023.gif)
 
+<audio controls style="width: 100%; margin: 16px 0;">
+  <source src="/assets/music/GM.mp3" type="audio/mpeg">
+</audio>
+
 ---
 
 <div>
