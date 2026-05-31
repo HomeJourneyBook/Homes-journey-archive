@@ -12,7 +12,7 @@ You can read more about this region [here](/Homes-journey-archive/Worlds/Dominia
 
 ## Elixirs
 
-<img src="d.png" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Elixirs">
+<img src="Elixirs.png" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Elixirs">
 These are the renowned healing infusions of Arboris, created from rare and valuable plants that grow in this region. The image depicts three bowls, each containing a unique infusion with different properties and colors. These elixirs are an integral part of Arboris' culture and traditions, used not only for healing but also in various rituals and ceremonies, emphasizing the deep connection of the people with nature and its gifts.
 <div style="clear: both;"></div>
 
@@ -20,7 +20,7 @@ These are the renowned healing infusions of Arboris, created from rare and valua
 
 ## The Book of All Recipes
 
-<img src="Lava_lamp.gif" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="The Book of All Recipes">
+<img src="book.png" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="The Book of All Recipes">
 In an antique leather cover with embossed patterns, the Book of All Recipes is kept by the Chief Healer of Arboris, emanating ancient wisdom and magic. Its pages, slightly yellowed with age, contain a wealth of knowledge about medicinal plants and Elixirs, gathered and passed down through generations. On the front page, the crest of Arboris is prominently displayed, depicting intertwined tree branches in a ring, symbolizing eternal life and the cyclic nature of the world. Each recipe is meticulously written in calligraphic script, accompanied by illustrations of plants and detailed descriptions of their properties and uses.
 <div style="clear: both;"></div>
 
@@ -28,7 +28,7 @@ In an antique leather cover with embossed patterns, the Book of All Recipes is k
 
 ## The Three-Eyed Owl
 
-<img src="The_Fiery_Altar.gif" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="The Three-Eyed Owl">
+<img src="sova.png" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="The Three-Eyed Owl">
 A mystical creature that inhabits the forest hollows of Arboris. This graceful bird has soft feathers in shades of gray and brown, allowing it to blend perfectly with its surroundings. It has three bright green eyes arranged in a triangle on its head, giving it a special magical aura. The middle eye, endowed with mystical properties, can see the auras and energies of living beings and also predict the future.
 <div style="clear: both;"></div>
 
