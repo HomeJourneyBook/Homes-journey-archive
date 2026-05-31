@@ -11,6 +11,25 @@ The area is located on the shores of fiery lakes. The city of Igneon is built us
 
 ## Topics:
 
+<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 16px; margin: 24px 0;">
+
+<a href="Igneon/locs_igneon" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
+  <div style="font-size: 12px; margin-bottom: 8px;">Locations</div>
+  <div style="font-size: 8px; color: #888;"></div>
+</a>
+
+<a href="Igneon/char_igneon" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
+  <div style="font-size: 12px; margin-bottom: 8px;">Characters</div>
+  <div style="font-size: 8px; color: #888;"></div>
+</a>
+
+<a href="Igneon/ev_igneon" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
+  <div style="font-size: 12px; margin-bottom: 8px;">Events</div>
+  <div style="font-size: 8px; color: #888;"></div>
+</a>
+
+</div>
+
 - [Locations](Igneon/locs_igneon.md)
 - [Characters](Igneon/char_igneon.md)
 - [Events](Igneon/ev_igneon.md)
