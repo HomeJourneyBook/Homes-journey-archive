@@ -6,7 +6,7 @@ has_children: true
 
 # Home Worlds
 
-Within the universe of Home’s Journey, I generally use the term Worlds to describe the various places, regions, and realities that exist within the infinite expanse of the Essence.
+<img src="/Homes-journey-archive/assets/alphabet/letter_W.png" style="float: left; margin-right: 8px; width: 40px;" alt="W">ithin the universe of Home’s Journey, I generally use the term Worlds to describe the various places, regions, and realities that exist within the infinite expanse of the Essence.
 
 Some Worlds take the form of entire galaxies or civilizations. Others may consist of isolated regions, valleys, ruins, or enclosed spaces that exist according to their own laws.
 
