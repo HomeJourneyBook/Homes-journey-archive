@@ -6,9 +6,9 @@ permalink: /archive/
 
 # Home's Journey Archive
 
-<img src="/Homes-journey-archive/Writer.gif" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Writer">
+<img src="/Writer.gif" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Writer">
 
-<img src="/Homes-journey-archive/assets/alphabet/letter_I.png" style="float: left; margin-right: 8px; width: 40px;" alt="I">f these records have truly been found by someone, then it is probably worth beginning with an explanation of where exactly this archive came from.
+<img src="/assets/alphabet/letter_I.png" style="float: left; margin-right: 8px; width: 40px;" alt="I">f these records have truly been found by someone, then it is probably worth beginning with an explanation of where exactly this archive came from.
 
 As far as I know, I am Teantist, a researcher and translator from the Valley of Tea Dragons. Most of my earliest memories are connected to this place, although many details of my own past still remain unclear even to me.
 
@@ -29,7 +29,7 @@ If you truly intend to explore the universe of Home’s Journey together with me
 
 <div>
   
-<a href="/Homes-journey-archive/Cosmology" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-bottom: 12px;">
+<a href="/Cosmology" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-bottom: 12px;">
   <div style="font-size: 12px; margin-bottom: 8px;">Cosmology</div>
   <div style="font-size: 8px; color: #888;">The structure of existence before and after the Great Division</div>
 </a>
@@ -38,7 +38,7 @@ If you truly intend to explore the universe of Home’s Journey together with me
 
 <div>
   
-<a href="/Homes-journey-archive/Tavern/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-bottom: 12px;">
+<a href="/Tavern/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-bottom: 12px;">
   <div style="font-size: 12px; margin-bottom: 8px;">The Tavern</div>
   <div style="font-size: 8px; color: #888;">The only stable place where all Paths eventually cross</div>
 </a>
@@ -47,7 +47,7 @@ If you truly intend to explore the universe of Home’s Journey together with me
 
 <div>
   
-<a href="/Homes-journey-archive/Worlds/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-bottom: 12px;">
+<a href="/Worlds/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-bottom: 12px;">
   <div style="font-size: 12px; margin-bottom: 8px;">Home Worlds</div>
   <div style="font-size: 8px; color: #888;">Fragments of places that once were whole</div>
 </a>
@@ -56,7 +56,7 @@ If you truly intend to explore the universe of Home’s Journey together with me
 
 <div>
   
-<a href="/Homes-journey-archive/Artifacts/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-bottom: 12px;">
+<a href="/Artifacts/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-bottom: 12px;">
   <div style="font-size: 12px; margin-bottom: 8px;">Artifacts</div>
   <div style="font-size: 8px; color: #888;">Objects recovered from Worlds that no longer exist</div>
 </a>
@@ -65,7 +65,7 @@ If you truly intend to explore the universe of Home’s Journey together with me
 
 <div>
   
-<a href="/Homes-journey-archive/Concepts/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-bottom: 12px;">
+<a href="/Concepts/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-bottom: 12px;">
   <div style="font-size: 12px; margin-bottom: 8px;">Concepts</div>
   <div style="font-size: 8px; color: #888;">Terms and ideas that hold the Archive together</div>
 </a>
