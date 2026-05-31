@@ -15,7 +15,7 @@ Each type of Gate possesses its own character, appearance, and inner inclination
 
 The last great civilizations approached a deep understanding of the Path and the Great Return. They came to realize the inevitable limitations of their own existence — that no matter how magnificent their achievements, they too would eventually fade. In response, they poured their remaining strength, longing, and unfulfilled hopes into the creation of the Gates.
 
-They crafted them as bridges — not only between worlds, but between eras. As a final act of humility and love, they entrusted their deepest desire to continue the Journey to those who would come after them. The Gates became their legacy, their message, and their quiet prayer: “We could not reach the end of the Path. Perhaps you will.”
+They crafted them as bridges — not only between worlds, but between eras. As a final act of humility and love, they entrusted their deepest desire to continue the Journey to those who would come after them. The Gates became their legacy, their message, and their quiet prayer: *“We could not reach the end of the Path. Perhaps you will.”*
 It is believed that before the Current Era there existed at least six such highly developed civilizations, each leaving behind one distinct type of Gate as their most precious inheritance. In total, across the known universe, their number is estimated to be around 1,100.
 
 It remains unknown whether the current names of the Gates were given by their creators or assigned later by the author of the Book. The reasons behind the chosen forms are likewise veiled in mystery. One can only wonder — did they shape the Gates in the image of beings they once knew, or perhaps in the image of what they themselves wished to become?
