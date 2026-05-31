@@ -15,17 +15,17 @@ According to the Legends, countless beings, rulers, creatures, and entire people
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 24px 0;">
 
-<a href="/Homes-journey-archive/Valley/Legends/Legend" style="grid-column: 1 / -1; display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
+<a href="/Valley/Legends/Legend" style="grid-column: 1 / -1; display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
   <div style="font-size: 12px; margin-bottom: 8px;">Read The Legend</div>
   <div style="font-size: 8px; color: #888;">What happened...</div>
 </a>
 
-<a href="/Homes-journey-archive/Valley/Legends/Dragons" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
+<a href="/Valley/Legends/Dragons" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
   <div style="font-size: 12px; margin-bottom: 8px;">Dragons</div>
   <div style="font-size: 8px; color: #888;">Who protect...</div>
 </a>
 
-<a href="/Homes-journey-archive/Valley/Legends/Creatures" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
+<a href="/Valley/Legends/Creatures" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
   <div style="font-size: 12px; margin-bottom: 8px;">Leaders</div>
   <div style="font-size: 8px; color: #888;">Who attack...</div>
 </a>
@@ -35,7 +35,7 @@ According to the Legends, countless beings, rulers, creatures, and entire people
 ---
 
 <div>
-<a href="/Homes-journey-archive/Worlds/Dominia/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-left: auto; width: fit-content;">
+<a href="/Worlds/Dominia/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-left: auto; width: fit-content;">
   <div style="font-size: 8px; color: #888; text-align: right;">Read next</div>
   <div style="font-size: 12px; text-align: right;">Dominia</div>
 </a>
