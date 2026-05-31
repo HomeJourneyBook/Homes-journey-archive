@@ -14,4 +14,4 @@ Many of these civilizations reached extraordinary heights of development, and so
 
 In the current era, Travelers continue to discover traces of the Departed across various Worlds. Every fragment found is more than just a historical relic. It is a piece of the Essence’s own memory, which, through us, is trying to remember itself.
 
-![Legacy](Legacy.gif)
+![Legacy](Mechird_statue_ani.gif)
