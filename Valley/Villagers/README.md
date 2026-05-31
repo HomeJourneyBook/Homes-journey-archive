@@ -91,25 +91,6 @@ Despite the apparent simplicity of their daily life, there is a strong sense tha
 
 ---
 
-- [Arborist](Arborist.md)
-- [Artchemist](Artchemist.md)
-- [Blacksmith](Blacksmith.md)
-- [Cook](Cook.md)
-- [Fisherman](Fisherman.md)
-- [Mechanic](Mechanic.md)
-- [TJ](Tj.md)
-- [Tealer](Tealer.md)
-- [Teasurer](Teasurer.md)
-- [Teantist](Teantist.md)
-- [Tea Monk](Monk.md)
-- [Tealder](Tealder.md)
-- [Tea Harvester](Harvester.md)
-- [Tea Shearer](Shearer.md)
-- [Teasculapius](Doctor.md)
-- [Web Teaveloper](WebTeaveloper.md)
-
----
-
 <div style="text-align: center;">
   <img src="Villagers.jpeg" style="width: 600px;" alt="Family">
 </div>
