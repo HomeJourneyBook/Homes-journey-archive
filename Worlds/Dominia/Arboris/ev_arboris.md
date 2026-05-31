@@ -9,42 +9,42 @@ Known events happened on this area
 
 ---
 
-## The Grand Ceremonial Master
+## Ritual of Elixirs Preparation
 
-<img src=".png" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="The Grand Ceremonial Master">
-The Grand Ceremonial Master uses his keen sense of smell to create unique elixirs, making him indispensable in the cultural and spiritual life of Arboris. His knowledge and experience are passed down from generation to generation, maintaining traditions and strengthening the people's connection with nature.
+<img src=".png" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Ritual of Elixirs Preparation">
+The moment of the ritual of preparing healing elixirs by the Grand Ceremonial Master in Arboris. At an ancient stone altar, he carefully mixes the necessary ingredients in a large wooden bowl.
 <div style="clear: both;"></div>
 
 ---
 
-## Chief Healer
+## Harvesting Medicinal Plants
 
-<img src=".png" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="Chief Healer">
-A key figure in the community. He is responsible for preparing healing infusions and Elixirs, treating the sick and wounded, and training young healers in the art of herbalism. His knowledge is passed down through generations, and every resident of Arboris respects and values his wisdom. The healer exudes calmness and confidence, his voice soft yet firm. His eyes reflect wisdom and love for nature, and his face bears the marks of many years dedicated to serving his people.
+<img src=".png" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="Harvesting Medicinal Plants">
+In the Arboris Plantations, surrounded by mountains, the process of harvesting valuable medicinal plants takes place. Workers, dressed in gray tunics, carefully cut the plants and place them in woven baskets. The air is filled with the scent of fresh greenery and blooming plants. This harvesting process is carried out in harmony with nature, following age-old traditions and rituals passed down through generations. The workers meticulously select only the best plants to preserve their medicinal properties.
 <div style="clear: both;"></div>
 
 ---
 
-## Forest Keeper
+## Meditation with Elixirs
 
-<img src=".png" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Forest Keeper">
-A powerful and mysterious protector of the forests, whose knowledge of nature and magic was profound and extensive. He was an integral part of the community, guarding the forests and their inhabitants, maintaining the balance of nature, and defending it from threats. The Forest Keeper was a wise advisor to the Chief Healer and the High Ceremonial Master, assisting them in difficult times and sharing his knowledge of herbs and plants. In his presence, the residents of Arboris felt safe and in harmony with nature. His sanctuary was deep within the forests, in a hidden glade surrounded by ancient trees and flowers, where he maintained the balance and harmony of the forest.
+<img src=".png" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Meditation with Elixirs">
+At a picturesque clearing on the edge of the forest hollow, the Chief Healer of Arboris has gathered with the residents for meditation and drinking Elixirs. The forest hollow, with treehouses in the background, creates an atmosphere of seclusion. The healer serves Elixirs to the residents, and they all sit together, immersed in meditation.
 <div style="clear: both;"></div>
 
 ---
 
-## The Apprentice to the Chief Heal
+## Secrets of the forest
 
-<img src=".png" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="The Apprentice to the Chief Heal">
-He is a diligent and eager learner, dedicated to mastering the art of healing with medicinal plants. Under the Chief Healer's guidance, they study the intricate processes of creating elixirs and potions, learning to identify and harvest the right ingredients. The apprentice spends hours in the Forest Plantations, gathering knowledge and resources, and assisting in the preparation of remedies. Their role is crucial in maintaining the health and well-being of the Arboris community, and they are deeply respected for their commitment and growing expertise.
+<img src=".png" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="Secrets of the forest">
+The Forest Keeper walks gracefully through the serene forest clearing, his presence a blend of strength and tranquility. Towering trees with thick canopies create a cool, shaded path, where dappled sunlight filters through the leaves. The air is filled with the soft rustle of leaves and the melodious songs of birds. Flowers and medicinal plants line the path, their vibrant colors adding to the beauty of the scene. The Forest Keeper moves with purpose, his steps silent and sure, as he observes the health of the flora and fauna around him. This clearing, alive with the harmony of nature, is both his domain and sanctuary, where the secrets of the forest are known only to him.
 <div style="clear: both;"></div>
 
 ---
 
-## The High Priestess
+## Journey of the Elixirs
 
-<img src=".png" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="The High Priestess">
-The High Priestess of Arboris is the revered leader of this verdant realm. With a deep connection to the ancient forests and the sacred rituals that sustain her people, she guides Arboris with wisdom and grace. Her authority is not derived from force but from a profound understanding of the natural world and the healing arts. She oversees the ceremonies that bind the community together, ensuring that the balance between the land and its inhabitants is maintained. In her presence, the air feels charged with a quiet power, and her mere words can bring peace to even the most troubled souls. The High Priestess embodies the soul of Arboris, serving as both a spiritual leader and a guardian of its most cherished traditions.
+<img src=".png" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Journey of the Elixirs">
+A trader from Arboris carefully transports Elixirs through the dense forests, their cart filled with beautifully crafted containers holding the precious plants. The path ahead is winding and shaded by towering trees, creating a tranquil yet mysterious atmosphere. The trader moves with a practiced ease, knowing the value of the cargo and the importance of delivering it safely. As they travel the faint scent of herbs fill the air, marking the journey as one of both commerce and tradition, connecting Arboris to distant lands through the trade of these cherished remedies.
 <div style="clear: both;"></div>
 
 ---
