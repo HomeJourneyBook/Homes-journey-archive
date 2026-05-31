@@ -22,5 +22,7 @@ Particularly ancient Schemes, or those that once opened Paths to exceptionally w
 
 ---
 
-![Scheme of the Path](Scheme.png){: width="600" }
+<div style="text-align: center;">
+  <img src="Scheme.png" style="width: 600px;" alt="Scheme of the Path">
+</div>
 
