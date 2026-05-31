@@ -50,8 +50,8 @@ The High Priestess of Arboris is the revered leader of this verdant realm. With 
 ---
 
 <div>
-<a href="/Worlds/Dominia/Arboris" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 12px; margin-bottom: 8px;">Back to Arboris</div>
-  <div style="font-size: 8px; color: #888;"></div>
+<a href="/Worlds/Dominia/Arboris" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-right: auto; width: fit-content;">
+  <div style="font-size: 8px; color: #888; text-align: right;">Back to</div>
+  <div style="font-size: 12px; text-align: right;">Arboris</div>
 </a>
 </div>
