@@ -8,7 +8,6 @@ nav_order: 1
 
 You can read more about this region [here](/Worlds/Dominia/Igneon)
 
-
 ---
 
 ## Fire lizard
@@ -42,3 +41,10 @@ This device displays all four locations within the Igneon area: the Lava Sea, th
 <div style="clear: both;"></div>
 
 ---
+
+<div>
+<a href="/Artifacts/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-right: auto; width: fit-content;">
+  <div style="font-size: 8px; color: #888; text-align: right;">Back to</div>
+  <div style="font-size: 12px; text-align: right;">Artifacts</div>
+</a>
+</div>
