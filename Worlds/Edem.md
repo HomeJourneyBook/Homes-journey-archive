@@ -16,11 +16,11 @@ At present, most of Edem is considered abandoned or existing in a state of gradu
 
 ---
 
-## Twin Monuments
+## Triple Monuments
 
 Among the most recognizable structures of Edem. These immense stone monuments rise above the surrounding desert and remain visible from great distances.
 
-![Twin Monuments](egypt2.png)
+![Triple Monuments](egypt2.png)
 
 ---
 
