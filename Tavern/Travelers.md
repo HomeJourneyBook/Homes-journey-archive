@@ -1,6 +1,6 @@
 ---
-title: Home Travelers
-parent: The Tavern
+title: Travelers
+parent: Tavern
 nav_order: 1
 ---
 
