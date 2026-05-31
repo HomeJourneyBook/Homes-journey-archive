@@ -12,6 +12,6 @@ At present, the three most thoroughly documented regions of the Dominia are Arbo
 
 The exact period during which this World existed remains impossible to determine. However, judging by the large number of recovered Artifacts and the unusually well-preserved records, its decline appears to have occurred not so long ago.
 
----
-
-![Dominia](Dominia.png){: width="600" }
+<div style="text-align: center;">
+  <img src="Dominia.png" style="width: 600px;" alt="Dominia">
+</div>
