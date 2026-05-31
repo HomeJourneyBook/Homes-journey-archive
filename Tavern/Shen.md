@@ -1,6 +1,6 @@
 ---
 title: Shen
-parent: The Tavern
+parent: Tavern
 nav_order: 2
 ---
 
