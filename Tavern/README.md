@@ -25,7 +25,7 @@ The Travelers Hall of Fame is also located here.
 <div style="clear: both;"></div>
 
 > To this day, I have been unable to determine the true origin of the Tavern.
-{: .warning }
+{: .note }
 
 ---
 
