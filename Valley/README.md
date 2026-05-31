@@ -47,8 +47,8 @@ Despite the relative calmness of the Valley, I gradually began to suspect that a
 
 <div>
   
-<a href="/Homes-journey-archive/Valley/Legends/Legend" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-top: 16px;">
-  <div style="font-size: 12px; margin-bottom: 8px;">The Legend</div>
+<a href="/Homes-journey-archive/Valley/Legends/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-top: 16px;">
+  <div style="font-size: 12px; margin-bottom: 8px;">The Legend of the Great Battle</div>
   <div style="font-size: 8px; color: #888;">What happened...</div>
 </a>
   
