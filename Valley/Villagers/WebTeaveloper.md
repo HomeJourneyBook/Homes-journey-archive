@@ -5,6 +5,7 @@ nav_exclude: true
 
 # The Web Teaveloper
 
+<img src="Teaweloper.png" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Teaveloper">
 Web Teveloper is one of the villagers responsible for maintaining the Valley’s digital archives, devices, and communication systems.
 
 Most reconstructed records, stored documents, and technical mechanisms connected to the village eventually pass through his workstation in some form.
