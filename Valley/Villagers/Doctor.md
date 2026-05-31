@@ -5,6 +5,8 @@ nav_exclude: true
 
 # The Teasculapius
 
+
+<img src="doctor.png" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Teasculapius">
 Teasculapius is one of the villagers responsible for healing practices within the Valley.
 
 Most treatments involving tea mixtures, herbal preparations, and traditional remedies are believed to originate from his work.
