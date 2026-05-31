@@ -11,7 +11,7 @@ Arboris is a rich forested and green area known for its medicinal plants and the
 
 This drink is really reminiscent of Tea, which is why rumors were born about the possible kinship of Shen with this region.
 
-The found artifacts of this region can be explored [here](/Homes-journey-archive/Artifacts/From_Arboris)
+The found artifacts of this region can be explored [here](/Artifacts/From_Arboris)
 
 ## Topics:
 
@@ -37,7 +37,7 @@ The found artifacts of this region can be explored [here](/Homes-journey-archive
 ---
 
 <div>
-<a href="/Homes-journey-archive/Worlds/Dominia/Crystalis" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-left: auto; width: fit-content;">
+<a href="/Worlds/Dominia/Crystalis" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-left: auto; width: fit-content;">
   <div style="font-size: 8px; color: #888; text-align: right;">Read next</div>
   <div style="font-size: 12px; text-align: right;">Crystalis</div>
 </a>
