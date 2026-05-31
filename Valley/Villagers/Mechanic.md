@@ -11,8 +11,7 @@ Mechanic is one of the villagers responsible for maintaining devices, tools, and
 Many damaged objects brought from old ruins or abandoned workshops are eventually taken to his station for repair or reconstruction.
 
 Some villagers believe that Mechanic understands certain mechanisms whose origins are no longer remembered by anyone else in the Valley.
-
-![The Mechanic](Mech.png)
+<div style="clear: both;"></div>
 
 ---
 
