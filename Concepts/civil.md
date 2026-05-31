@@ -6,9 +6,9 @@ nav_order: 4
 
 # The Departed Civilizations
 
+<img src="Mechird_statue_ani.gif" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Legacy">
 The Departed Civilizations is the collective term for the countless races, societies, and cultures that existed in the previous Epochs before the dawn of the Current Era.
 
-<img src="Mechird_statue_ani.gif" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Legacy">
 Although almost all direct records of them have been lost, their existence is confirmed through surviving artifacts, ancient ruins, fragments of translated texts, and — most importantly — the Gates they left behind.
 
 Many of these civilizations reached extraordinary heights of development, and some even began to dimly perceive the true nature of the Great Division and the inevitability of the Return. Yet nearly all of them eventually departed — some fell under the onslaught of Jit, others collapsed due to internal contradictions, and some simply dissolved into the flow of time.
