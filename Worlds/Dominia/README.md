@@ -15,3 +15,12 @@ The exact period during which this World existed remains impossible to determine
 <div style="text-align: center;">
   <img src="Dominia.png" style="width: 600px;" alt="Dominia">
 </div>
+
+---
+
+<div>
+<a href="/Homes-journey-archive/Worlds/Dominia/Igneon" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-left: auto; width: fit-content;">
+  <div style="font-size: 8px; color: #888; text-align: right;">Read next</div>
+  <div style="font-size: 12px; text-align: right;">Igneon</div>
+</a>
+</div>
