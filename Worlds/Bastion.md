@@ -43,3 +43,12 @@ According to one surviving record, a young princess once lived within this fortr
 Mentions of this fortress found in Traveler records strongly suggest that it was the site of the longest war ever fought within this World. Among all inhabited citadels of Bastion, it appears to have remained the final stronghold of the local civilization.
 
 ![Old Castle](RiseKnight.png)
+
+---
+
+<div>
+<a href="/Homes-journey-archive/Worlds/Worlds_low" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-left: auto; width: fit-content;">
+  <div style="font-size: 8px; color: #888; text-align: right;">Read next</div>
+  <div style="font-size: 12px; text-align: right;">Less Explored Worlds</div>
+</a>
+</div>
