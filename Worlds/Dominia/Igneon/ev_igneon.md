@@ -41,4 +41,9 @@ Before you lies the majestic hall of the royal tower of Igneon, illuminated by t
 
 ---
 
-[Back to Igneon]({{ site.baseurl }}/Worlds/Dominia/Igneon){: .btn }
+<div>
+<a href="/Worlds/Dominia/Igneon" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-right: auto; width: fit-content;">
+  <div style="font-size: 8px; color: #888; text-align: right;">Back to</div>
+  <div style="font-size: 12px; text-align: right;">Igneon</div>
+</a>
+</div>
