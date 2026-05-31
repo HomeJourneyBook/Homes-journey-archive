@@ -14,11 +14,17 @@ According to Traveler records, much of Bastion is covered in ancient defensive s
 
 ## Cloudy Castle
 
+Built far above the clouds from a remarkable pink stone found nowhere else on the planet, the fortress raises many questions. It remains unclear how the civilizations of the past managed to establish themselves at such heights, let alone cultivate the colossal tree that towers not only above the fortress itself, but over the entire surrounding region.
+
+Despite being one of the most difficult fortresses in Bastion to reach, it too eventually fell. The cause of its downfall remains unknown.
+
 ![Cloudy Castle](castler2.png)
 
 ---
 
-## PS Castle
+## Phantom Castle
+
+One of the largest fortresses ever documented in Bastion. Judging by the scale of its walls and the number of defensive structures surrounding it, this location likely served as a major center of the region for a considerable period of time. The reasons for its decline remain unknown.
 
 ![PS Castle](PS-BANNER.png)
 
@@ -26,10 +32,14 @@ According to Traveler records, much of Bastion is covered in ancient defensive s
 
 ## Princess Castle
 
+According to one surviving record, a young princess once lived within this fortress, though her name has not been preserved. Most archives connected to this place have been lost. Only scattered references remain, describing an unusually quiet courtyard and gardens that continued to bloom even during winter.
+
 ![Princess Castle](princes3.png)
 
 ---
 
-## Old Castle
+## Strongest Castle
+
+Mentions of this fortress found in Traveler records strongly suggest that it was the site of the longest war ever fought within this World. Among all inhabited citadels of Bastion, it appears to have remained the final stronghold of the local civilization.
 
 ![Old Castle](RiseKnight.png)
