@@ -1,3 +1,9 @@
+---
+title: Jeet
+parent: Concepts
+nav_order: 7
+---
+
 # Jeet
 
 Jeet is the term used to describe an unstable state of Essence in which Worlds, objects, or living forms begin to lose their stability, shape, and integrity.
