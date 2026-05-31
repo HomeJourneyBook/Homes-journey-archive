@@ -36,7 +36,7 @@ A mystical creature that inhabits the forest hollows of Arboris. This graceful b
 
 ## Map of the Arboris area
 
-<img src="map.gif" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="Map of the Arboris area">
+<img src="map.png" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="Map of the Arboris area">
 This map displays the five key locations within the Arboris area: the Forest Hollow, the Ritual Clearing, the Elixirs Temple, the Fields, and the Castle of Arboris itself. The surrounding terrain is lush and verdant, covered with expansive forests and rolling hills, alive with diverse flora and fauna. In the distance, majestic mountains provide a stunning backdrop. The area is rich in medicinal plants and natural resources, vital for the well-being of the entire planet of Dominia. Legends also speak of a hidden clearing deep within the forest, known only to the Forest Keeper.
 <div style="clear: both;"></div>
 
@@ -44,7 +44,7 @@ This map displays the five key locations within the Arboris area: the Forest Hol
 
 ## Statue of Reverence
 
-<img src="map.gif" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="Statue of Reverence">
+<img src="state.png" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="Statue of Reverence">
 In the heart of the Arboris Temple, a statue stands as a symbol of wisdom and joy. The figure radiates warmth and serenity, with a broad smile that seems to invite all who enter to share in the peaceful energy of the space. Crafted from smooth, polished stone, the statue exudes a sense of calm and contentment. It is often adorned with offerings of flowers and herbs, placed lovingly at its feet by worshippers seeking guidance and blessings. This statue, with its gentle and welcoming presence, serves as a focal point for meditation and reflection, embodying the values of harmony and well-being that are central to Arboris.
 <div style="clear: both;"></div>
 
