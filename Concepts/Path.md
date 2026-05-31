@@ -1,3 +1,9 @@
+---
+title: Path
+parent: Concepts
+nav_order: 6
+---
+
 # The Path
 
 The Path is the term commonly used to describe the continuous movement of Travelers between Worlds, as well as the process through which Essence gradually gathers experience, knowledge, and understanding of itself.
