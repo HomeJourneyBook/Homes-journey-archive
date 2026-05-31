@@ -16,66 +16,88 @@ At present, most of Edem is considered abandoned or existing in a state of gradu
 
 ---
 
-## Egypt
+## Twin Monuments
 
-![Egypt](egypt2.png)
+Among the most recognizable structures of Edem. These immense stone monuments rise above the surrounding desert and remain visible from great distances.
 
----
-
-## Russia
-
-![Russia](moscow.png)
+![Twin Monuments](egypt2.png)
 
 ---
 
-## Sea Journey
+## Frozen Capital
 
-![Sea Journey](sea.png)
+A large northern city situated among vast snowy plains. Judging by the scale of its architecture, it remained an important center of civilization for a significant period of time.
 
----
-
-## Forest
-
-![Forest](steelcity.png)
+![Frozen Capital](moscow.png)
 
 ---
 
-## Autumn
+## Eastern Passage
 
-![Autumn](windmilWIP2l.png)
+Maritime travel played a major role in the life of Edem’s inhabitants. Surviving records frequently depict large sailing vessels capable of crossing immense distances.
 
----
-
-## Building
-
-![Building](seyma2.png)
+![Eastern Passage](sea.png)
 
 ---
 
-## Stolb
+## Green Tunnel
 
-![Stolb](stolb.png)
+Roads of this kind appear repeatedly throughout different regions of Edem. Many pass through ancient forests whose age can no longer be determined.
 
----
-
-## Moon
-
-![Moon](moon2.png)
+![Green Tunnel](steelcity.png)
 
 ---
 
-## Kazakhstan
+## Wind Fields
 
-![Kazakhstan](Tyan_Shan.png)
+Wide plains marked by enormous wind-powered structures. Similar constructions can be found in many parts of the World.
 
----
-
-## Road
-
-![Road](RyvorDR.png)
+![Wind Fields](windmilWIP2l.png)
 
 ---
 
-## Home
+## Unfinished Structure
 
-![Home](home1.png)
+Numerous structures across Edem appear to have been abandoned before their construction was completed. Examples such as this can be found in several regions.
+
+![Unfinished Structure](seyma2.png)
+
+---
+
+## Northern Wires
+
+Tall poles connected by long lines can be found across numerous regions of Edem. They appear to have played an important role in the daily life of its inhabitants.
+
+![Northern Wires](stolb.png)
+
+---
+
+## The Grey Friend
+
+Some records suggest that the civilization of Edem succeeded in reaching its natural satellite. Among the surviving images are depictions of lifeless plains beneath a black sky illuminated by distant stars.
+
+![The Grey Friend](moon2.png)
+
+---
+
+## Nomad Plains
+
+Vast steppes and scattered settlements dominate this region. Surviving records contain numerous references to a nomadic way of life and long journeys across open lands.
+
+![Nomad Plains](Tyan_Shan.png)
+
+---
+
+## The Long Bridge
+
+One of the many bridges documented in Edem. According to surviving records, the inhabitants of this World invested considerable effort into connecting even the most distant regions.
+
+![The Long Bridge](RyvorDR.png)
+
+---
+
+## Silent Settlement
+
+A small settlement composed of uniform houses and narrow streets. Similar architecture appears throughout many surviving records associated with Edem.
+
+![Silent Settlement](home1.png)
