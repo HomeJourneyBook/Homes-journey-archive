@@ -48,3 +48,11 @@ This map displays the five key locations within the Arboris area: the Forest Hol
 In the heart of the Arboris Temple, a statue stands as a symbol of wisdom and joy. The figure radiates warmth and serenity, with a broad smile that seems to invite all who enter to share in the peaceful energy of the space. Crafted from smooth, polished stone, the statue exudes a sense of calm and contentment. It is often adorned with offerings of flowers and herbs, placed lovingly at its feet by worshippers seeking guidance and blessings. This statue, with its gentle and welcoming presence, serves as a focal point for meditation and reflection, embodying the values of harmony and well-being that are central to Arboris.
 <div style="clear: both;"></div>
 
+---
+
+<div>
+<a href="/Artifacts/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-right: auto; width: fit-content;">
+  <div style="font-size: 8px; color: #888; text-align: right;">Back to</div>
+  <div style="font-size: 12px; text-align: right;">Artifacts</div>
+</a>
+</div>
