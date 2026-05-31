@@ -17,7 +17,7 @@ Inside the Tavern, the scent of hot tea is ever-present, accompanied by quiet co
 <img src="tavern.gif" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Tavern">
 Beyond the Bar, the Tavern also contains a hangar — a vast collection of cells used both as resting quarters and departure points for travel. These spaces are designed in a minimalist style and equipped with everything necessary for prolonged stays. However, access to them requires an active Scheme.
 
-From time to time, the Tavern also hosts performances by the musical group Gate Manifestation, formed by the Travelers themselves. According to visitor accounts, their music is often based on sounds, rhythms, and instruments brought from various Worlds, many of which were recovered as artifacts of [Departured civilizations](/Concepts/civil).
+From time to time, the Tavern also hosts performances by the musical group Gate Manifestation, formed by the Travelers themselves. According to visitor accounts, their music is often based on sounds, rhythms, and instruments brought from various Worlds, many of which were recovered as artifacts of [Ancient civilizations](/Concepts/civil).
 
 The Tavern also serves as a place where many other artifacts are carefully preserved, each representing a source of pride for the Traveler who managed to recover it. 
 
