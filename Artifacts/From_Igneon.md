@@ -6,6 +6,8 @@ nav_order: 1
 
 # Found artifacts from Igneon
 
+You can read more about this region [here](Worlds/Dominia/Igneon.md).
+
 ---
 
 ## Fire lizard
