@@ -7,7 +7,11 @@ nav_order: 2
 
 # Arboris
 
->under translation
+Arboris is a rich forested and green area known for its medicinal plants and the rituals associated with their use. The inhabitants of this region value harmony with nature and perform numerous rituals using healing infusions, which they call "Elixirs".
+
+This drink is really reminiscent of Tea, which is why rumors were born about the possible kinship of Shen with this region.
+
+The found artifacts of this region can be explored [here](Artefacts/arboris.md)
 
 ## Topics:
 
