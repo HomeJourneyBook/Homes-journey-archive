@@ -17,12 +17,12 @@ Some villagers claim that Arborist is capable of noticing changes in the trees l
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 24px 0;">
 
-<a href="/Homes-journey-archive/Valley/Villagers/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
+<a href="/Valley/Villagers/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
   <div style="font-size: 12px; margin-bottom: 8px;">Back to Villagers</div>
   <div style="font-size: 8px; color: #888;"></div>
 </a>
 
-<a href="/Homes-journey-archive/Valley/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
+<a href="/Valley/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
   <div style="font-size: 12px; margin-bottom: 8px;">Back to the Valley</div>
   <div style="font-size: 8px; color: #888;"></div>
 </a>
