@@ -66,8 +66,8 @@ The only known trace left behind after the battle was a single golden egg discov
   <div style="font-size: 8px; color: #888;">Who attack....</div>
 </a>
 
-<a href="/Valley/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 12px; margin-bottom: 8px;">Back to the Valley</div>
+<a href="/Valley/Legends/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
+  <div style="font-size: 12px; margin-bottom: 8px;">Back to the Legend</div>
   <div style="font-size: 8px; color: #888;"></div>
 </a>
 
