@@ -4,7 +4,7 @@ nav_order: 4
 has_children: true
 ---
 
-# # Artifacts
+# Artifacts
 
 <img src="/assets/alphabet/letter_A.png" style="float: left; margin-right: 8px; width: 40px;" alt="A">rtifacts are among the most valuable sources of information and a great source of pride for the Travelers who discover them.
 
