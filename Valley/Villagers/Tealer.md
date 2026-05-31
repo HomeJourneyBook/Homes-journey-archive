@@ -5,6 +5,7 @@ nav_exclude: true
 
 # The Tealer
 
+<img src="Merchant.png" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Tealer">
 Tealer is one of the villagers responsible for trade and long-distance exchange beyond the Valley.
 
 He is believed to be among the few villagers familiar with the safer routes leading outside the surrounding regions, allowing him to transport tea and return with goods difficult to obtain within the settlement itself.
