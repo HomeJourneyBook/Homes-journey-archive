@@ -10,6 +10,4 @@ has_children: true
 
 Unlike descriptions of specific Worlds, places, or inhabitants, the records presented here are devoted to more abstract structures — things that cannot be fully tied to a single territory or era.
 
-A significant portion of these concepts remains insufficiently understood. Many are mentioned only fragmentarily. In several cases, I was forced to reconstruct information from isolated pieces of text, symbols, and recurring patterns discovered across different records.
-
 At present, it is precisely these concepts that gradually allow for a more complete understanding of the structure of the universe as a whole.
