@@ -29,7 +29,3 @@ The area is located on the shores of fiery lakes. The city of Igneon is built us
 </a>
 
 </div>
-
-- [Locations](Igneon/locs_igneon.md)
-- [Characters](Igneon/char_igneon.md)
-- [Events](Igneon/ev_igneon.md)
