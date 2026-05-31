@@ -6,7 +6,8 @@ nav_order: 3
 
 # Music band "Gate Manifestation"
 
->Note is under of creation
+> Under construction
+{: .warning }
 
 ![GM](IMG_4008.gif)
 
