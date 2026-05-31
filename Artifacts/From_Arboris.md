@@ -6,7 +6,7 @@ nav_order: 2
 
 # Found artifacts from Arboris.
 
-You can read more about this region [here](Worlds/Dominia/Arboris/README).
+You can read more about this region [here](Worlds/Dominia/Arboris.md).
 
 ---
 
