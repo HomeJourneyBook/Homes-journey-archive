@@ -178,78 +178,95 @@
 }
 
 @media (max-width: 800px) {
+
+  /* Текст и заголовки */
   body { font-size: 8px !important; }
   h1 { font-size: 1rem !important; }
+
+  /* Шапка — фиксированная, с фоном и иконкой */
   .site-header {
     position: fixed !important;
     top: 0;
     left: 0;
     right: 0;
     z-index: 9999 !important;
-    background: transparent !important;
-    border-bottom: none !important;
+    background: #0c1113 !important;
+    border-bottom: 1px solid rgba(200, 168, 75, 0.2) !important;
     box-shadow: none !important;
   }
+
   #main-header {
-  background: transparent !important;
-  border: none !important;
-  position: fixed !important;
-  top: 0;
-  left: 0;
-  right: 0;
-  z-index: 9999 !important;
-}
-  .nav-list .nav-list-item .nav-list-link {
-    font-size: 12px !important;
-    padding: 8px 12px !important;
+    background: #0c1113 !important;
+    border: none !important;
+    position: fixed !important;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 9999 !important;
   }
-  .nav-list .nav-list-item a {
-  font-size: 12px !important;
-}
-    .children-nav .nav-list-item a,
-  #markdown-toc a,
-  .toc-list a {
-    font-size: 20px !important;
+
+  /* Иконка — показываем */
+  .site-logo {
+    display: block !important;
   }
-    .travelers-grid {
-    grid-template-columns: repeat(2, 1fr) !important;
+
+  /* Скрываем поиск, показываем ссылку на сайт */
+  .search {
+    display: none !important;
   }
+
+  /* Кнопка меню */
+  .navigation-list-toggle,
+  .site-header .btn-reset svg,
+  .site-header svg {
+    fill: #c8a84b !important;
+    color: #c8a84b !important;
+  }
+
+  /* Навигационное меню */
   .site-nav {
     top: 55px !important;
   }
-  .nav-list a,
-.nav-list-link {
-  font-size: 16px !important;
-}
-    .search,
-  .aux-nav {
-    display: none !important;
+
+  .side-bar {
+    height: auto !important;
+    min-height: unset !important;
   }
-  .navigation-list-toggle,
-.site-header .btn-reset svg,
-.site-header svg {
-  fill: #c8a84b !important;
-  color: #c8a84b !important;
-}
-    .text-delta {
+
+  /* Размеры ссылок в навигации */
+  .nav-list a,
+  .nav-list-link,
+  .nav-list .nav-list-item .nav-list-link,
+  .nav-list .nav-list-item a {
+    font-size: 12px !important;
+    padding: 8px 12px !important;
+    line-height: 2 !important;
+  }
+
+  /* Table of Contents */
+  .text-delta {
     font-size: 14px !important;
   }
-  
+
   .main-content ul li a {
     font-size: 12px !important;
     line-height: 2 !important;
   }
-  .side-bar {
-  height: auto !important;
-  min-height: unset !important;
-}
-  .site-logo {
-    display: none !important;
+
+  /* Грид путешественников */
+  .travelers-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
   }
+
+  /* Основной контент */
   .main-content-wrap {
     padding-top: 60px !important;
   }
-  .main-content { padding: 16px !important; }
+
+  .main-content {
+    padding: 16px !important;
+  }
+
 }
 
 </style>
