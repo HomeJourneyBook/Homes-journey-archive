@@ -24,3 +24,11 @@ An important resource of this area, fought over by several clans.
 A very rare reptile native to the area, encountering it is considered great luck.
 <div style="clear: both;"></div>
 
+---
+
+<div>
+<a href="/Artifacts/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-right: auto; width: fit-content;">
+  <div style="font-size: 8px; color: #888; text-align: right;">Back to</div>
+  <div style="font-size: 12px; text-align: right;">Artifacts</div>
+</a>
+</div>
