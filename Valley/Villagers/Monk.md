@@ -23,7 +23,7 @@ Some villagers believe that Tea Monk preserves practices and teachings far older
 </a>
 
 <a href="/Homes-journey-archive/Valley/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 12px; margin-bottom: 8px;">Bacl to the Valley</div>
+  <div style="font-size: 12px; margin-bottom: 8px;">Back to the Valley</div>
   <div style="font-size: 8px; color: #888;"></div>
 </a>
 
