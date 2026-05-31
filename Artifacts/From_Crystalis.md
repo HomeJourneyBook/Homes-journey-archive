@@ -20,7 +20,7 @@ An important resource of this area, fought over by several clans.
 
 ## Etherite Turtle
 
-<img src="turtle.gif" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="Etherite Turtle">
+<img src="turtle.png" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="Etherite Turtle">
 A very rare reptile native to the area, encountering it is considered great luck.
 <div style="clear: both;"></div>
 
