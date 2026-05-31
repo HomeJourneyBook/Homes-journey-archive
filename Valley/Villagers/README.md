@@ -17,10 +17,6 @@ Despite these distinctions, the Villagers rarely divide one another by status or
 
 Despite the apparent simplicity of their daily life, there is a strong sense that much of the Villagers’ knowledge was never directly written down, but instead passed through tradition, craft, shared labor, and tea ceremonies. Because of this, many ancient customs continue to exist even when their original meaning can no longer be fully explained through words.
 
-<div style="text-align: center;">
-  <img src="Villagers.jpeg" style="width: 600px;" alt="Family">
-</div>
-
 ---
 
 ## Known Villagers:
@@ -41,3 +37,7 @@ Despite the apparent simplicity of their daily life, there is a strong sense tha
 - [Tea Shearer](Shearer.md)
 - [Teasculapius](Doctor.md)
 - [Web Teaveloper](WebTeaveloper.md)
+
+<div style="text-align: center;">
+  <img src="Villagers.jpeg" style="width: 600px;" alt="Family">
+</div>
