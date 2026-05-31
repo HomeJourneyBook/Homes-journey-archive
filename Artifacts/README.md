@@ -21,3 +21,7 @@ Unlike Worlds, which can be observed directly, and records from the Book, which 
   <div style="font-size: 12px; text-align: right;">Concepts</div>
 </a>
 </div>
+
+---
+
+*Continue exploring:*
