@@ -87,9 +87,17 @@ And though the excessive spread of Jeet may slow or even endanger the Great Retu
 <div>
   
 <a href="/Homes-journey-archive/Tavern/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-bottom: 12px;">
-  <div style="font-size: 12px; margin-bottom: 8px;">Read about the Tavern</div>
-  <div style="font-size: 8px; color: #888;"></div>
+  <div style="font-size: 12px; margin-bottom: 8px;">Read next</div>
+  <div style="font-size: 8px; color: #888;">about the Tavern</div>
 </a>
 
 </div>
+
+<div>
+<a href="/Homes-journey-archive/Tavern/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-left: auto; width: fit-content;">
+  <div style="font-size: 8px; color: #888; text-align: right;">Read next</div>
+  <div style="font-size: 12px; text-align: right;">about the Tavern»</div>
+</a>
+</div>
+
 
