@@ -21,6 +21,76 @@ Despite the apparent simplicity of their daily life, there is a strong sense tha
 
 ## Known Villagers:
 
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 24px 0;">
+
+<a href="/Valley/Villagers/Arborist" style="display: block; padding: 12px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
+  <div style="font-size: 10px;">Arborist</div>
+</a>
+
+<a href="/Valley/Villagers/Artchemist" style="display: block; padding: 12px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
+  <div style="font-size: 10px;">Artchemist</div>
+</a>
+
+<a href="/Valley/Villagers/Blacksmith" style="display: block; padding: 12px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
+  <div style="font-size: 10px;">Blacksmith</div>
+</a>
+
+<a href="/Valley/Villagers/Cook" style="display: block; padding: 12px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
+  <div style="font-size: 10px;">Cook</div>
+</a>
+
+<a href="/Valley/Villagers/Fisherman" style="display: block; padding: 12px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
+  <div style="font-size: 10px;">Fisherman</div>
+</a>
+
+<a href="/Valley/Villagers/Harvester" style="display: block; padding: 12px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
+  <div style="font-size: 10px;">Tea Harvester</div>
+</a>
+
+<a href="/Valley/Villagers/Mechanic" style="display: block; padding: 12px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
+  <div style="font-size: 10px;">Mechanic</div>
+</a>
+
+<a href="/Valley/Villagers/Monk" style="display: block; padding: 12px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
+  <div style="font-size: 10px;">Tea Monk</div>
+</a>
+
+<a href="/Valley/Villagers/Shearer" style="display: block; padding: 12px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
+  <div style="font-size: 10px;">Tea Shearer</div>
+</a>
+
+<a href="/Valley/Villagers/Tealder" style="display: block; padding: 12px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
+  <div style="font-size: 10px;">Tealder</div>
+</a>
+
+<a href="/Valley/Villagers/Tealer" style="display: block; padding: 12px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
+  <div style="font-size: 10px;">Tealer</div>
+</a>
+
+<a href="/Valley/Villagers/Teantist" style="display: block; padding: 12px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
+  <div style="font-size: 10px;">Teantist</div>
+</a>
+
+<a href="/Valley/Villagers/Teasurer" style="display: block; padding: 12px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
+  <div style="font-size: 10px;">Teasurer</div>
+</a>
+
+<a href="/Valley/Villagers/Tj" style="display: block; padding: 12px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
+  <div style="font-size: 10px;">TJ</div>
+</a>
+
+<a href="/Valley/Villagers/Doctor" style="display: block; padding: 12px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
+  <div style="font-size: 10px;">Teasculapius</div>
+</a>
+
+<a href="/Valley/Villagers/WebTeaveloper" style="display: block; padding: 12px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
+  <div style="font-size: 10px;">Web Teaveloper</div>
+</a>
+
+</div>
+
+---
+
 - [Arborist](Arborist.md)
 - [Artchemist](Artchemist.md)
 - [Blacksmith](Blacksmith.md)
