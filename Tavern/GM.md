@@ -1,6 +1,6 @@
 ---
 title: "GM"
-parent: The Tavern
+parent: Tavern
 nav_order: 3
 ---
 
