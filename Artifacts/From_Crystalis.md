@@ -6,7 +6,7 @@ nav_order: 3
 
 # Found artifacts from Crystalis
 
-You can read more about this region [here](/Homes-journey-archive/Worlds/Dominia/Crystalis)
+You can read more about this region [here](/Worlds/Dominia/Crystalis)
 
 ---
 
