@@ -6,6 +6,8 @@ nav_exclude: true
 
 # The Tea Harvester
 
+
+<img src="TeaHarvester.png" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Tea Harvester">
 Tea Harvester is one of the villagers responsible for gathering tea leaves from the Tea fields.
 
 Much of the daily work connected to the harvest season is organized around his routines and knowledge of the growing regions.
