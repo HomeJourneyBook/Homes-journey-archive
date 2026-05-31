@@ -17,11 +17,13 @@ Although Mood often influences the character and behavior of a Traveler, it is n
 
 Approximately 25 different types of Moods are known, each unique in its own way and capable of shaping a Traveler’s behavior differently across various Worlds.
 
----
-
 ![Set of Moods](Mood.png)
 
 ---
 
-
-[Go to Home Worlds](/Homes-journey-archive/Worlds/README){: .btn }
+<div>
+<a href="/Homes-journey-archive/Tavern/1-1/1-1" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-left: auto; width: fit-content;">
+  <div style="font-size: 8px; color: #888; text-align: right;">Read next</div>
+  <div style="font-size: 12px; text-align: right;">Unique Travelers</div>
+</a>
+</div>
