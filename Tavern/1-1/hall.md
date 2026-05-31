@@ -14,3 +14,12 @@ When a Traveler is chosen — or for other reasons becomes one of the Ten partic
 Until that moment, they were known only by their number.
 
 After — their name is spoken aloud in the Tavern for the first time.
+
+---
+
+<div>
+<a href="/Homes-journey-archive/Tavern/Shen" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-left: auto; width: fit-content;">
+  <div style="font-size: 8px; color: #888; text-align: right;">Read next</div>
+  <div style="font-size: 12px; text-align: right;">Shen</div>
+</a>
+</div>
