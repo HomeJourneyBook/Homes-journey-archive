@@ -11,7 +11,7 @@ Arboris is a rich forested and green area known for its medicinal plants and the
 
 This drink is really reminiscent of Tea, which is why rumors were born about the possible kinship of Shen with this region.
 
-The found artifacts of this region can be explored [here](Artefacts/From_Arboris.md)
+The found artifacts of this region can be explored [here](/Homes-journey-archive/Artifacts/From_Arboris)
 
 ## Topics:
 
