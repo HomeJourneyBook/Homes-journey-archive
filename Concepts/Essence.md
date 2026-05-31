@@ -16,4 +16,5 @@ There are also references to an unstable form of Essence known as Jeet. In such 
 
 Despite the vast number of references, the true nature of the Essence remains one of the primary subjects of my ongoing research. A significant portion of the surviving records still proves extremely difficult to translate.
 
-Somewhat greater understanding of the Essence was only achieved through the translation of the record known from [Cosmology](/Home-journey-archive/Cosmology).
+Somewhat greater understanding of the Essence was only achieved through the translation of the record known from [Cosmology](/Homes-journey-archive/Cosmology).
+
