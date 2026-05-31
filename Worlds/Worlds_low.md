@@ -1,10 +1,10 @@
 ---
-title: Poorly Explored Worlds
+title: Less Explored Worlds
 parent: Worlds
 nav_order: 6
 ---
 
-# Poorly Explored Worlds
+# Less Explored Worlds
 
 Among the partially translated records and the relatively rare journeys into these Worlds, enough scattered mentions still remain to assemble this general note.
 
