@@ -27,44 +27,48 @@ If you truly intend to explore the universe of Home’s Journey together with me
 
 ## Main topics:
 
+<div>
+  
 <a href="/Homes-journey-archive/Cosmology" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-bottom: 12px;">
   <div style="font-size: 12px; margin-bottom: 8px;">Cosmology</div>
   <div style="font-size: 8px; color: #888;">The structure of existence before and after the Great Division</div>
 </a>
 
-<a href="/Homes-journey-archive/Cosmology" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-bottom: 12px;">
-  <div style="font-size: 12px; margin-bottom: 8px;">Cosmology</div>
-  <div style="font-size: 8px; color: #888;">The structure of existence before and after the Great Division</div>
-</a>
+</div>
 
+<div>
+  
 <a href="/Homes-journey-archive/Tavern/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-bottom: 12px;">
   <div style="font-size: 12px; margin-bottom: 8px;">The Tavern</div>
   <div style="font-size: 8px; color: #888;">The only stable place where all Paths eventually cross</div>
 </a>
 
+</div>
+
+<div>
+  
 <a href="/Homes-journey-archive/Worlds/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-bottom: 12px;">
   <div style="font-size: 12px; margin-bottom: 8px;">Home Worlds</div>
   <div style="font-size: 8px; color: #888;">Fragments of places that once were whole</div>
 </a>
 
+</div>
+
+<div>
+  
 <a href="/Homes-journey-archive/Concepts/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-bottom: 12px;">
   <div style="font-size: 12px; margin-bottom: 8px;">Concepts</div>
   <div style="font-size: 8px; color: #888;">Terms and ideas that hold the Archive together</div>
 </a>
 
+</div>
+
+<div>
+  
 <a href="/Homes-journey-archive/Artifacts/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-bottom: 12px;">
   <div style="font-size: 12px; margin-bottom: 8px;">Artifacts</div>
   <div style="font-size: 8px; color: #888;">Objects recovered from Worlds that no longer exist</div>
 </a>
 
-
-[Cosmology]({{ site.baseurl }}/Cosmology){: .btn } - *the beginning of the End*. 
-
-[The Tavern]({{ site.baseurl }}/Tavern/README){: .btn } - *Who about and why*. 
-
-[Home Worlds]({{ site.baseurl }}/Worlds/README){: .btn } - *Where about and when*.  
-
-[Concepts]({{ site.baseurl }}/Concepts/README){: .btn } - *What about and for what*.  
-
-[Artifacts]({{ site.baseurl }}/Artifacts/README){: .btn } - *My proud*.  
+</div>
 
