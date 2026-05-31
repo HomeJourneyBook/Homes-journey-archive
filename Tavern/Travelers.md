@@ -22,7 +22,7 @@ For this reason, the primary purpose of Travelers is the exploration of differen
 
 Despite their differences in appearance, Mood, and origin, Travelers are united by a common internal pull toward the continuation of the Path itself. This desire does not appear to function as a direct command or obligation, but rather as a natural property of Essence seeking experience, movement, and understanding through the observation of Worlds.
 
-In this process, Travelers are aided by the Tavern — the central hub and place of permanent residence from which they depart on their journeys — as well as Shen, [Tea](Concepts/Tea), and the Schemes of the Path, all of which help guide them and assist in gathering the necessary experience.
+In this process, Travelers are aided by the Tavern — the central hub and place of permanent residence from which they depart on their journeys — as well as Shen, [Tea](/Concepts/Tea), and the Schemes of the Path, all of which help guide them and assist in gathering the necessary experience.
 
 Special mention should also be given to the Ritual of the 10 Gates, periodically undergone by certain Travelers, resulting in the appearance of so-called [Unique Travelers](1-1/1-1.md) within the Universe.
 
