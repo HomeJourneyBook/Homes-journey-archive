@@ -32,6 +32,11 @@ If you truly intend to explore the universe of Home’s Journey together with me
   <div style="font-size: 8px; color: #888;">The structure of existence before and after the Great Division</div>
 </a>
 
+<a href="/Homes-journey-archive/Cosmology" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-bottom: 12px;">
+  <div style="font-size: 12px; margin-bottom: 8px;">Cosmology</div>
+  <div style="font-size: 8px; color: #888;">The structure of existence before and after the Great Division</div>
+</a>
+
 <a href="/Homes-journey-archive/Tavern/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-bottom: 12px;">
   <div style="font-size: 12px; margin-bottom: 8px;">The Tavern</div>
   <div style="font-size: 8px; color: #888;">The only stable place where all Paths eventually cross</div>
