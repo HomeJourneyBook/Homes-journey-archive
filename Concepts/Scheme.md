@@ -20,9 +20,15 @@ Schemes of the Path are not merely instruments of navigation between Worlds, but
 
 Particularly ancient Schemes, or those that once opened Paths to exceptionally well-preserved Worlds, eventually become artifacts in their own right and are regarded as objects of great historical significance.
 
----
-
 <div style="text-align: center;">
   <img src="Scheme.png" style="width: 600px;" alt="Scheme of the Path">
 </div>
 
+---
+
+<div>
+<a href="/Concepts/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-right: auto; width: fit-content;">
+  <div style="font-size: 8px; color: #888; text-align: right;">Back to</div>
+  <div style="font-size: 12px; text-align: right;">Concepts</div>
+</a>
+</div>
