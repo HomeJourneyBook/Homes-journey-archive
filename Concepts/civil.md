@@ -14,3 +14,11 @@ Many of these civilizations reached extraordinary heights of development, and so
 
 In the current era, Travelers continue to discover traces of the Departed across various Worlds. Every fragment found is more than just a historical relic. It is a piece of the Essence’s own memory, which, through us, is trying to remember itself.
 
+---
+
+<div>
+<a href="/Concepts/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-right: auto; width: fit-content;">
+  <div style="font-size: 8px; color: #888; text-align: right;">Back to</div>
+  <div style="font-size: 12px; text-align: right;">Concepts</div>
+</a>
+</div>
