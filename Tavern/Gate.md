@@ -77,7 +77,7 @@ The Mechird are assembled with engineering precision, yet stripped of all origin
 >_“They calculate. They adapt. They do not stop.”_
 {: .highlight }
 
-The Mechird are Gates forged in precision. They were not merely created — they calculate the exact moment when travel should occur. They respond to cycles, structures, and repeating choices. Where other Gates follow longing or intuition, the Mechird follow logic and order — the final weapon of civilizations that tried to defeat the chaos of Jit and the oblivion of time through calculation.
+The Mechird are Gates forged in precision. They were not merely created — they calculate the exact moment when travel should occur. They respond to cycles, structures, and repeating choices. Where other Gates follow longing or intuition, the Mechird follow logic and order — the final weapon of civilizations that tried to defeat the chaos of Jeet and the oblivion of time through calculation.
 
 Yet even their flawless precision carries a quiet melancholy. They stand as reminders of those who believed that if everything was calculated correctly, the Return could be planned.
 <div style="clear: both;"></div>
