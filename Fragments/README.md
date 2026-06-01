@@ -6,4 +6,4 @@ has_children: true
 
 # Fragments
 
-Here is a section where all kinds of notes will be collected, somewhere not sorted, somewhere just my reasoning.
+A collection of miscellaneous notes, observations, and personal remarks gathered throughout the study of the Path. Some entries are records, others are merely thoughts that seemed worth preserving.
