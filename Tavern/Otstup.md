@@ -1,6 +1,7 @@
 ---
 title: Apostasy
-parent: Tavern
+parent: Travelers
+grand_parent: Tavern
 nav_order:
 ---
 
