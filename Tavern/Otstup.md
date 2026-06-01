@@ -2,7 +2,7 @@
 title: Apostasy
 parent: Travelers
 grand_parent: Tavern
-nav_order:
+nav_order: 6
 ---
 
 # Apostasy
