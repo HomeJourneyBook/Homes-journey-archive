@@ -12,6 +12,8 @@ Shen is a young woman with long dark hair and bright green eyes. Her body is cov
 
 She possesses an unusually deep understanding of Moods and is capable of finding an individual approach to almost anyone. For this reason, it is she who is the link between me and the information from the Travelers, and also receives Tea posts, new Schemes and Chaetron from me.
 
+Shen also maintains the records of arriving and departing Travelers, preserves stories brought back from distant Worlds, and oversees the collection of Schemes stored within the Tavern. Many of the names, accounts, and observations referenced throughout this Archive originate from records kept under her care.
+
 Despite her important role, Shen’s origin remains unknown. I have a guess that she is related to Dominia, specifically to the region of Arboris, though no reliable confirmation of this has ever been discovered. Shen herself rarely shares information about her own past or how long she has remained within the Tavern.
 
 In addition to her work within the Tavern, Shen is also known as a collector of stories, the publisher of her own records, and the author of numerous illustrations dedicated to Travelers, Worlds, and tea culture. Based on her works alone, it would likely be possible to assemble a separate archive in the future.
