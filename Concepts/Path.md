@@ -11,3 +11,12 @@ The Path is the term commonly used to describe the continuous movement of Travel
 According to translated records, the Path is not considered a simple route or physical journey. Rather, it represents a fundamental principle of existence itself, connecting Worlds, Travelers, Gates, and the remnants of Ancient Civilizations into a single ongoing process.
 
 Most Travelers perceive the Path differently depending on their Mood, the Worlds they visit, and the Schemes guiding them. For some, the Path becomes a search for knowledge. For others — a form of observation, exploration, or an attempt to understand what remains of the Universe during the Current Era.
+
+---
+
+<div>
+<a href="/Concepts/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-right: auto; width: fit-content;">
+  <div style="font-size: 8px; color: #888; text-align: right;">Back to</div>
+  <div style="font-size: 12px; text-align: right;">Concepts</div>
+</a>
+</div>
