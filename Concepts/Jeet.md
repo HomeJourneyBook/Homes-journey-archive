@@ -13,3 +13,12 @@ According to translated records, Jeet most commonly manifests through spatial di
 The exact nature of Jeet remains unknown even according to the Book itself. Within the surviving records, it is assumed to be a natural consequence of the instability of Essence — an inevitable process of gradual collapse.
 
 Travelers always attempt to avoid Worlds corrupted by Jeet, as prolonged exposure to such places may gradually affect not only the surrounding environment, but also the observer themselves. The consequences of this can lead to deviation from the Path and eventual descent into prolonged oblivion.
+
+---
+
+<div>
+<a href="/Concepts/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-right: auto; width: fit-content;">
+  <div style="font-size: 8px; color: #888; text-align: right;">Back to</div>
+  <div style="font-size: 12px; text-align: right;">Concepts</div>
+</a>
+</div>
