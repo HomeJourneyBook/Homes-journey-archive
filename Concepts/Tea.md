@@ -21,3 +21,10 @@ It is also through these trade routes that the tea of the Valley gradually sprea
 For the Travelers, tea likewise remains an inseparable part of daily life, a medium of exchange, and most importantly, one of the best ways to attune oneself before the next journey.
 
 ---
+
+<div>
+<a href="/Concepts/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-right: auto; width: fit-content;">
+  <div style="font-size: 8px; color: #888; text-align: right;">Back to</div>
+  <div style="font-size: 12px; text-align: right;">Concepts</div>
+</a>
+</div>
