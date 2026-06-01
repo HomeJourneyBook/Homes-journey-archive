@@ -65,6 +65,15 @@ If you truly intend to explore the universe of Home’s Journey together with me
 
 <div>
   
+<a href="/Fragments/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-bottom: 12px;">
+  <div style="font-size: 12px; margin-bottom: 8px;">Fragments</div>
+  <div style="font-size: 8px; color: #888;">Some random notes...</div>
+</a>
+
+</div>
+
+<div>
+  
 <a href="/Concepts/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-bottom: 12px;">
   <div style="font-size: 12px; margin-bottom: 8px;">Concepts</div>
   <div style="font-size: 8px; color: #888;">Terms and ideas that hold the Archive together</div>
