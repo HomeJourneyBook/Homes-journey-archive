@@ -2,7 +2,7 @@
 title: Hall of Fame
 parent: Travelers
 grand_parent: Tavern
-nav_order: 4
+nav_order: 5
 ---
 
 # Hall of Fame
