@@ -6,21 +6,19 @@ nav_order: 1
 
 # The Valley of Tea Dragons
 
-<img src="/assets/alphabet/letter_A.png" style="float: left; margin-right: 8px; width: 40px;" alt="A">mong all Worlds mentioned in the surviving records, the Valley of Tea Dragons remains one of the most isolated and, at the same time, one of the most significant regions known to me so far. It was here that the Great Tea Tree was discovered, around which the Villagers’ settlement, the tea fields, and most of the Valley’s modern life gradually formed over many generations.
+<img src="/assets/alphabet/letter_A.png" style="float: left; margin-right: 8px; width: 40px;" alt="A">mong all Worlds mentioned in the translated records, the Valley of Tea Dragons remains one of the most isolated and, at the same time, one of the most significant regions known to me so far. It was here that the Great Tea Tree was discovered, around which the Villagers’ settlement, the tea fields, and most of the Valley’s modern life gradually formed over many generations.
 
-The exact location of the Valley still remains unknown. Most ancient maps either contradict one another or end long before providing any reliable external landmarks.
+At the center of the Valley stands the Great Tea Tree — the oldest known relic of this region. Directly surrounding the Tree lies the Village of the Villagers, home to generations of inhabitants dedicated to Tea harvesting and maintaining life within the Valley.
 
-At the center of the Valley stands the Great Tea Tree — the oldest known relic of this region. Directly surrounding the tree lies the Village of the Villagers, home to generations of inhabitants dedicated to tea harvesting and maintaining life within the Valley.
+To the right of the Village stretch the vast the Tea Fields. It is here that the Villagers cultivate and gather most of the Tea leaves used throughout the Valley.
 
-To the right of the Village stretch the vast tea fields. It is here that the Villagers cultivate and gather most of the tea leaves used throughout the Valley.
+Below the Tea Fields begins the Emerald Forest — a dense region of ancient vegetation that differs noticeably from the rest of the Valley. Deep within this forest stands the Tea Rock — the burial site of the Founder of the Village. Despite numerous mentions, most information regarding the Founder himself remains unstudied to this day.
 
-Below the tea fields begins the Emerald Forest — a dense region of ancient vegetation that differs noticeably from the rest of the Valley. Deep within this forest stands the Tea Stone — the burial site of the Founder of the Village. Despite numerous mentions, most information regarding the Founder himself remains unstudied to this day.
-
-In the lower-left region of the Valley lies the Diamond Pond. The Villagers use it as a place for rest, fishing, and certain seasonal gatherings. Several old records also describe unusual properties associated with the pond’s water, though I have not yet been able to confirm such claims reliably.
+In the lower-left region of the Valley lies the Diamond Pond. The Villagers use it as a place for rest, fishing, and certain seasonal gatherings. Several records also describe unusual properties associated with the pond’s water, though I have not yet been able to confirm such claims reliably.
 
 The northern borders of the Valley are formed by two massive mountain regions known among the Villagers as the Left Shoulder and the Right Shoulder. Together, they create a natural stone ring surrounding most of the Valley and shielding it from the outside world. According to observations, many of the mountain passages either collapsed long ago or remain hidden.
 
-Special mention should be given to the Red Dragon — a creature constantly observed in the skies above the Valley. According to the Villagers’ accounts, the dragon has protected the region from the air for many generations and rarely leaves the mountain range. The origin of the dragon itself, as well as its connection to the Great Tea Tree, is referenced within the Legends, where the Tea Gods are said to have played a role in its creation.
+Special mention should be given to the Red Dragon — a creature constantly observed in the skies above the Valley. According to the Villagers’ accounts, the Dragon has protected the region from the air for many generations and rarely leaves the mountain range. The origin of the Dragon itself, as well as its connection to the Great Tea Tree, is referenced within the Legends, where the Tea Gods are said to have played a role in its creation...
 
 Despite the relative calmness of the Valley, I gradually began to suspect that a significant portion of its history was intentionally concealed or lost long before the emergence of the current generation of Villagers.
 
@@ -62,7 +60,7 @@ To the right of the Village, stretching across a vast distance, lie the Tea Fiel
 
 At first glance, the Tea Fields create an impression of great simplicity. Nearly the entire landscape is covered with orderly rows of tea bushes extending far toward the mountains surrounding the Valley. Most of the area remains open, causing the Fields to appear both peaceful and strangely mesmerizing at the same time.
 
-Despite this outward minimalism, the lives of the Villagers are deeply connected to this place. A significant portion of each day is spent among the rows of tea plants: here the inhabitants cultivate new growth, gather leaves, monitor the condition of the soil, and maintain order throughout the Fields.
+Despite this outward minimalism, the lives of the Villagers are deeply connected to this place. A significant portion of each day is spent among the rows of Tea plants: here the inhabitants cultivate new growth, gather leaves, monitor the condition of the soil, and maintain order throughout the Fields.
 
 My observations also suggest that tea harvested from different parts of the Fields may vary in both flavor and properties, even when the leaves themselves appear identical. This is supported not only by several translated records, but also by the opinions of the Villagers themselves.
 
@@ -111,7 +109,7 @@ The Pond received its name due to the unusual appearance of its water during cer
 
 The area surrounding the Pond is relatively open and differs greatly from the denser regions of the Valley. Here the Villagers occasionally gather for conversation, fishing, and small celebrations held during the warmer seasons. Several old records also mention rituals and seasonal ceremonies once performed near the water in earlier times.
 
-Despite its calm atmosphere, the origin of the Pond itself remains unknown. A number of ancient records suggest that the body of water existed within the Valley long before the first structures built by the Villagers appeared.
+Despite its calm atmosphere, the origin of the Pond itself remains unknown. A number of records suggest that the body of water existed within the Valley long before the first structures built by the Villagers appeared.
 
 Among the inhabitants of the Valley, there is also a widespread belief that the waters of the Diamond Pond possess the unusual ability to reflect not only the surrounding world, but also the inner state of the observer. Most such stories are likely little more than local superstition, though mentions of similar observations appear in several translated records I have studied.
 
@@ -151,7 +149,7 @@ The lower part of the Right Shoulder is crossed by a small river that separates 
 
 Despite its calmer reputation, a large portion of the Right Shoulder still remains poorly explored. Many sections of the slopes are covered with dense vegetation and rocky collapses, causing even the Villagers themselves to avoid climbing too high without necessity.
 
-In ancient records, the Right Shoulder is connected far less frequently with old legends or disappearances than the western part of the mountain range. Nevertheless, there remains a strong impression that the inhabitants of the Valley perceive both sides of the stone ring as something far more significant than ordinary mountains surrounding a settlement.
+In records, the Right Shoulder is connected far less frequently with old legends or disappearances than the western part of the mountain range. Nevertheless, there remains a strong impression that the inhabitants of the Valley perceive both sides of the stone ring as something far more significant than ordinary mountains surrounding a settlement.
 
 
 ![Right Shoulder](R_shoulder.png)
