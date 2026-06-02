@@ -7,7 +7,7 @@ nav_order: 0
 # Home Travelers
 
 <div style="text-align: center;">
-  <img src="Golden.png" style="width: 600px;" alt="Home Travelers">
+  <img src="Golden.jpeg" style="width: 600px;" alt="Home Travelers">
 </div>
 
 <img src="/assets/alphabet/letter_T.png" style="float: left; margin-right: 8px; width: 40px;" alt="T">ravelers are manifested forms of [Essence](/Concepts/Essence), created through passage into one of the six known types of Gates.
