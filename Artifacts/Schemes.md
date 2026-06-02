@@ -12,7 +12,7 @@ Unique and important Schemes here
 
 ## 
 
-<img src=".png" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Elixirs">
+<img src="Scheme21.gif" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Elixirs">
 
 <div style="clear: both;"></div>
 
@@ -20,7 +20,7 @@ Unique and important Schemes here
 
 ## 
 
-<img src=".png" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="The Book of All Recipes">
+<img src="Scheme22.gif" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="The Book of All Recipes">
 
 <div style="clear: both;"></div>
 
@@ -28,7 +28,7 @@ Unique and important Schemes here
 
 ##
 
-<img src="sova.png" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="The Three-Eyed Owl">
+<img src="Scheme23.png" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="The Three-Eyed Owl">
 
 <div style="clear: both;"></div>
 
@@ -36,7 +36,7 @@ Unique and important Schemes here
 
 ## 
 
-<img src=".png" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="Map of the Arboris area">
+<img src="Scheme24.gif" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="Map of the Arboris area">
 
 <div style="clear: both;"></div>
 
@@ -44,7 +44,15 @@ Unique and important Schemes here
 
 ##
 
-<img src=".png" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="Statue of Reverence">
+<img src="Scheme25.gif" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="Statue of Reverence">
+
+<div style="clear: both;"></div>
+
+---
+
+##
+
+<img src="Scheme26.gif" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="Statue of Reverence">
 
 <div style="clear: both;"></div>
 
