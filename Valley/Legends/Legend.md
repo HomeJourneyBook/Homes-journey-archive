@@ -274,6 +274,11 @@ And though many believe the conflict ended long ago, some records suggest that n
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 24px 0;">
 
+<a href="/Valley/Legends/Gods" style="grid-column: 1 / -1; display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; text-align: center;">
+  <div style="font-size: 12px; margin-bottom: 8px;">The Tea Gods</div>
+  <div style="font-size: 8px; color: #888;">Who create...</div>
+</a>
+
 <a href="/Valley/Legends/Dragons" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
   <div style="font-size: 12px; margin-bottom: 8px;">Read about Dragons</div>
   <div style="font-size: 8px; color: #888;">Who protect...</div>
