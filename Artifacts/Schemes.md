@@ -6,43 +6,50 @@ nav_order: 4
 
 # Collection of Schemes
 
-Unique and important Schemes here
+Among the countless Path Schemes recorded within the Archive, a small number have earned a place apart.
+
+These are Schemes that led somewhere significant — to Worlds previously unknown, to places beyond the edges of all existing records, or to locations so dangerous that their very existence reshaped how Travelers understand the boundaries of the Universe.
+
+Some of these Schemes are studied. Some are forbidden. All of them are preserved.
 
 ---
 
-## 
+## Scheme of the Outer Edge
 
 <img src="Scheme21.gif" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Elixirs">
-
+A Scheme that led further than any previously documented journey — to regions where the density of Worlds begins to thin and the structure of the Path itself becomes unstable.
 <div style="clear: both;"></div>
 
 ---
 
 ## 
 
-<img src="Scheme22.gif" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="The Book of All Recipes">
+
+<img src="Scheme22.gif" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="T">
 
 <div style="clear: both;"></div>
 
 ---
 
-##
+## Handmade Scheme
 
-<img src="Scheme23.png" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="The Three-Eyed Owl">
+<img src="Scheme23.png" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Handmade Scheme">
+Unlike most created Schemes, this was made by a Traveler who had been lost for an extended period and needed to find the way back to the Tavern from an uncharted location.
 
+The fact that it worked — that a Path home could be built from nothing — made it unlike any other Scheme in the Archive.
 <div style="clear: both;"></div>
 
 ---
 
 ## 
 
-<img src="Scheme24.gif" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="Map of the Arboris area">
+<img src="Scheme24.gif" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="M">
 
 <div style="clear: both;"></div>
 
 ---
 
-##
+## Lead to Edem
 
 <img src="Scheme25.gif" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Statue of Reverence">
 
@@ -50,10 +57,12 @@ Unique and important Schemes here
 
 ---
 
-##
+## Forbidden Scheme
 
-<img src="Scheme26.gif" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="Statue of Reverence">
+<img src="Scheme26.gif" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="Forbidden Scheme">
+This Scheme is no longer available for use. The Traveler who followed it arrived in a World so thoroughly consumed by Jeet that conscious presence within it became impossible almost immediately upon arrival.
 
+The Traveler survived. The World it leads to has not been revisited.
 <div style="clear: both;"></div>
 
 ---
