@@ -22,6 +22,6 @@ For this reason, many Travelers regard such cases with caution. Not because they
 <div>
 <a href="/Tavern/Cells" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-left: auto; width: fit-content;">
   <div style="font-size: 8px; color: #888; text-align: right;">Read next</div>
-  <div style="font-size: 12px; text-align: right;">Ctlls</div>
+  <div style="font-size: 12px; text-align: right;">Cells</div>
 </a>
 </div>
