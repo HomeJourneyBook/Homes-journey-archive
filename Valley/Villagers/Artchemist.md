@@ -6,11 +6,13 @@ nav_exclude: true
 # The Artchemist
 
 <img src="Artchemist.png" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Artchemist">
-Artchemist is one of the villagers responsible for preserving visual records within the Valley.
+Artchemist is one of the Villagers responsible for preserving visual records within the Valley.
 
-Most surviving sketches of Schemes of the Path, symbols, and fragments of distant Worlds are believed to have passed through his workshop at some point.
+Most surviving sketches and pictures, symbols, and fragments of distant Worlds are believed to have passed through his workshop at some point.
 
 Unlike ordinary artists, Artchemist is primarily concerned with preserving impressions, forms, and memories through physical materials.
+
+He also helps me make Chaetron. And always to help in creating this Archive.
 <div style="clear: both;"></div>
 
 ---
