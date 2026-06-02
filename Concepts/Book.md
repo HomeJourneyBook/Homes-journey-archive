@@ -12,7 +12,7 @@ It was discovered by me beside the Tea Stone in the Valley and is believed to ha
 
 The text is written in a [Figurative Language](/Concepts/Cipher) — a system of symbols, images, and meanings unlike any known form of writing. Even today, only a portion of its contents has been translated, while many passages continue to generate conflicting interpretations and require considerable time to decipher accurately.
 
-Several sections contain direct references to Travelers, the Tavern, various Worlds, and the fundamental Concepts of the Universe. For this reason, I believe the author lived during the Curent Era and personally witnessed at least some of the events described within its pages.
+Several sections contain direct references to Travelers, the Tavern, various Worlds, and the fundamental Concepts of the Universe. For this reason, I believe the author lived during the Current Era and personally witnessed at least some of the events described within its pages.
 
 Who the Founder was, how the Book was written, and why it was left beside the Stone remain questions that have yet to be answered.
 
