@@ -46,7 +46,9 @@ Travelers describe long silent paths, endless green corridors, and the constant 
 
 <h2 id="Net">Net</h2>
 
+<img src="net.png" style="float: right; margin-left: 16px; margin-top: 8px; width: 400px;" alt="Net">
 Almost nothing is known about this planet, except that traces of Jeet were found [here](/Fragments/10).
+<div style="clear: both;"></div>
 
 ---
 
