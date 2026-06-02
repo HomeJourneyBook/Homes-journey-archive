@@ -7,7 +7,7 @@ nav_order: 1
 
 # Villagers
 
-Among all inhabitants of the Valley, the Villagers form the foundation of its daily life. For many generations, they have maintained the Tea Fields, preserved the Village, crafted objects within the Workshop, conducted ceremonies, and continued traditions whose origins have, in many cases, long since been forgotten.
+Being inhabitants of the Valley, the Villagers form the foundation of its daily life. For many generations, they have maintained the Tea Fields, preserved the Village, crafted objects within the Workshop, conducted ceremonies, and continued traditions whose origins have, in many cases, long since been forgotten.
 
 The appearance of the Villagers has remained nearly unchanged throughout all known history of the Valley. Most wear heavy clothing that conceals the body almost entirely, while their faces are always hidden behind masks.
 
@@ -15,7 +15,7 @@ The shape of each mask is directly connected to the craft or responsibility of a
 
 Despite these distinctions, the Villagers rarely divide one another by status or importance of profession. Every role within the Valley is regarded as a necessary part of the overall order.
 
-Despite the apparent simplicity of their daily life, there is a strong sense that much of the Villagers’ knowledge was never directly written down, but instead passed through tradition, craft, shared labor, and tea ceremonies. Because of this, many ancient customs continue to exist even when their original meaning can no longer be fully explained through words.
+Despite the apparent simplicity of their daily life, there is a strong sense that much of the Villagers’ knowledge was never directly written down, but instead passed through tradition, craft, shared labor, and Tea ceremonies. Because of this, many ancient customs continue to exist even when their original meaning can no longer be fully explained through words.
 
 ---
 
