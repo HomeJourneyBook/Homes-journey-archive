@@ -11,6 +11,8 @@ They are the Five who created and nurtured the Great Tea Tree long before the fi
 
 Only fragments of their stories remain.
 
+> Illustrations made by Shen.
+{: .note }
 ---
 
 ## Three-leged Toad
