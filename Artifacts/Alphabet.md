@@ -1,7 +1,6 @@
 ---
 title: Collection of Figures
-parent: Artifacts
-nav_order: 5
+nav_exclude: true
 ---
 
 # Collection of Figures
