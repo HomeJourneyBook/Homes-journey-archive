@@ -22,11 +22,10 @@ A Scheme that led further than any previously documented journey — to regions 
 
 ---
 
-## 
+## The Path to Three Riches
 
-
-<img src="Scheme22.gif" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="T">
-
+<img src="Scheme22.gif" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="The Path to Three Riches">
+This Scheme was the first to open the World of Dominia for exploration. A discovery of considerable significance — one that led to the recovery of numerous artifacts and the documentation of three distinct civilizations within this World.
 <div style="clear: both;"></div>
 
 ---
@@ -49,7 +48,7 @@ The fact that it worked — that a Path home could be built from nothing — mad
 
 ---
 
-## Lead to Edem
+## Scheme that lead to Edem
 
 <img src="Scheme25.gif" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Statue of Reverence">
 The first Scheme that successfully established lead to Edem. Before it existed, the World appeared in records only as a name — mentioned in fragments of the Book, never confirmed. Once this Scheme proved the route, it was easier to create new Schemes to travel on this World.
