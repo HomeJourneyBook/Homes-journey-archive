@@ -44,7 +44,7 @@ nav_order: 6
 
 ##
 
-<img src="Teapot1.gif" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="Statue of Reverence">
+<img src="Teapot1.gif" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Statue of Reverence">
 
 <div style="clear: both;"></div>
 
