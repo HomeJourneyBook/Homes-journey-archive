@@ -25,3 +25,7 @@ search:
 
 aux_links:
   "△ ◎ ▣": "https://trianglecirclesquare.org"
+
+  plugins:
+  - jekyll-sitemap
+
