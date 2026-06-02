@@ -50,7 +50,7 @@ Travelers describe long silent paths, endless green corridors, and the constant 
 Almost nothing is known about this planet, except that traces of Jeet were found [here](/Fragments/10).
 
 <div style="text-align: center;">
-  <img src="net.png" style="width: 600px;" alt="Net">
+  <img src="net.png" style="width: 300px;" alt="Net">
 </div>
 
 ---
