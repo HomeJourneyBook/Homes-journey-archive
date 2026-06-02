@@ -1,7 +1,6 @@
 ---
 title: Objects from Solana
-parent: Artifacts
-nav_order: 6
+nav_exclude: true
 ---
 
 # Objects from Solana
