@@ -44,7 +44,7 @@ Travelers describe long silent paths, endless green corridors, and the constant 
 
 ---
 
-<h2 id="net"># Net</h2>
+<h2 id="net">Net</h2>
 
 Almost nothing is known about this planet, except that traces of Jeet were found [here](/Fragments/10).
 
