@@ -27,7 +27,7 @@ Who the Founder was, how the Book was written, and why it was left beside the St
 
 <a href="/Concepts/Cipher" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
   <div style="font-size: 8px; color: #888; text-align: right;">Read next</div>
-  <div style="font-size: 12px; text-align: right;">Figurative Language</div>
+  <div style="font-size: 12px; text-align: right;">Figures</div>
 </a>
 
 </div>
