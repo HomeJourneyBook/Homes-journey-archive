@@ -66,9 +66,16 @@ The Traveler survived. The World it leads to has not been revisited.
 
 ---
 
-<div>
-<a href="/Artifacts/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-right: auto; width: fit-content;">
-  <div style="font-size: 8px; color: #888; text-align: right;">Back to</div>
-  <div style="font-size: 12px; text-align: right;">Artifacts</div>
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 24px 0;">
+
+<a href="/Artifacts/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
+  <div style="font-size: 8px; color: #888;">Back to</div>
+  <div style="font-size: 12px;">Artifacts</div>
 </a>
+
+<a href="/Artifacts/From_Igneon" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
+  <div style="font-size: 8px; color: #888; text-align: right;">Read next</div>
+  <div style="font-size: 12px; text-align: right;">From Igneon</div>
+</a>
+
 </div>
