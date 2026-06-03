@@ -14,10 +14,16 @@ It is during this Era that Travelers continue their Path between Worlds, gatheri
 
 ---
 
-<div>
-<a href="/Concepts/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-right: auto; width: fit-content;">
-  <div style="font-size: 8px; color: #888; text-align: right;">Back to</div>
-  <div style="font-size: 12px; text-align: right;">Concepts</div>
-</a>
-</div>
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 24px 0;">
 
+<a href="/Concepts/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
+  <div style="font-size: 8px; color: #888;">Back to</div>
+  <div style="font-size: 12px;">Concepts</div>
+</a>
+
+<a href="/Concepts/Path" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
+  <div style="font-size: 8px; color: #888; text-align: right;">Read next</div>
+  <div style="font-size: 12px; text-align: right;">Path</div>
+</a>
+
+</div>
