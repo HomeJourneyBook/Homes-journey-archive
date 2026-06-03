@@ -56,6 +56,15 @@ If you truly intend to explore the universe of Home’s Journey together with me
 
 <div>
   
+<a href="/Fragments/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-bottom: 12px;">
+  <div style="font-size: 12px; margin-bottom: 8px;">Fragments</div>
+  <div style="font-size: 8px; color: #888;">Some random notes...</div>
+</a>
+
+</div>
+
+<div>
+  
 <a href="/Artifacts/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-bottom: 12px;">
   <div style="font-size: 12px; margin-bottom: 8px;">Artifacts</div>
   <div style="font-size: 8px; color: #888;">Objects recovered from Worlds that no longer exist</div>
@@ -63,14 +72,6 @@ If you truly intend to explore the universe of Home’s Journey together with me
 
 </div>
 
-<div>
-  
-<a href="/Fragments/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-bottom: 12px;">
-  <div style="font-size: 12px; margin-bottom: 8px;">Fragments</div>
-  <div style="font-size: 8px; color: #888;">Some random notes...</div>
-</a>
-
-</div>
 
 <div>
   
