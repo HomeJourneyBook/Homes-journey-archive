@@ -40,14 +40,6 @@ The fact that it worked — that a Path home could be built from nothing — mad
 
 ---
 
-## 
-
-<img src="Scheme24.gif" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="M">
-
-<div style="clear: both;"></div>
-
----
-
 ## Scheme that lead to Edem
 
 <img src="Scheme25.gif" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Statue of Reverence">
