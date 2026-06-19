@@ -22,7 +22,7 @@ He is the only one who remembers his creators from within. Not through texts —
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 24px 0;">
 
-<a href="/Tavern/1-1/1-1" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
+<a href="/Tavern/1-1/1-1#1-1" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
   <div style="font-size: 8px; color: #888;">Back to</div>
   <div style="font-size: 12px;">Unique Travelers</div>
 </a>
