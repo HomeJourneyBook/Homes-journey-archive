@@ -1,6 +1,7 @@
 ---
 title: Dragons of the Valley
 nav_exclude: true
+image: /assets/images/og.png
 ---
 
 # Dragons of the Valley

@@ -1,6 +1,7 @@
 ---
 title: The Legend
 nav_exclude: true
+image: /assets/images/og.png
 ---
 
 # The Legend of the Battle for the Great Tea Tree

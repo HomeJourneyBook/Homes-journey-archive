@@ -1,5 +1,6 @@
 ---
 title: The Book
+image: /assets/images/og.png
 parent: Concepts
 nav_order: 0
 ---

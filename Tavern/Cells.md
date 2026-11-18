@@ -2,6 +2,7 @@
 title: Cells
 parent: Tavern
 nav_order: 1
+image: /assets/images/og.png
 ---
 
 # The Cells

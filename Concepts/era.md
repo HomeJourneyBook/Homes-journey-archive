@@ -2,6 +2,7 @@
 title: Current Era
 parent: Concepts
 nav_order: 5
+image: /assets/images/og.png
 ---
 
 # Current Era

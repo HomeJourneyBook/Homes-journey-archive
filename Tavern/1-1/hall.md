@@ -3,6 +3,7 @@ title: Hall of Fame
 parent: Travelers
 grand_parent: Tavern
 nav_order: 5
+image: /assets/images/og.png
 ---
 
 # Hall of Fame

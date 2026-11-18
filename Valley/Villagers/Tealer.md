@@ -1,6 +1,7 @@
 ---
 title: The Tealer
 nav_exclude: true
+image: /assets/images/og.png
 ---
 
 # The Tealer

@@ -2,6 +2,7 @@
 title: Essence
 parent: Concepts
 nav_order: 7
+image: /assets/images/og.png
 ---
 
 # The Essence

@@ -1,6 +1,7 @@
 ---
 title: Events of Crystalis
 nav_exclude: true
+image: /assets/images/og.png
 ---
 
 # Events of Crystalis

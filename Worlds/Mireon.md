@@ -2,6 +2,7 @@
 title: Mireon
 parent: Worlds
 nav_order: 3
+image: /assets/images/og.png
 ---
 
 # Mireon

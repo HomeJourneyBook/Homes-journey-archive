@@ -1,6 +1,7 @@
 ---
 title: Characters of Igneon
 nav_exclude: true
+image: /assets/images/og.png
 ---
 
 # Characters of Igneon

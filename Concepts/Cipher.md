@@ -2,6 +2,7 @@
 title: The Figurative Language
 parent: Concepts
 nav_order: 1
+image: /assets/images/og.png
 ---
 
 # The Figurative Language

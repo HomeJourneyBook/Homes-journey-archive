@@ -2,6 +2,7 @@
 title: Tavern
 nav_order: 2
 has_children: true
+image: /assets/images/og.png
 ---
 
 # The Tavern

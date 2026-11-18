@@ -2,6 +2,7 @@
 title: Concepts
 nav_order: 6
 has_children: true
+image: /assets/images/og.png
 ---
 
 # Concepts

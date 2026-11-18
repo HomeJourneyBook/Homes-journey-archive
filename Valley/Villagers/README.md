@@ -3,6 +3,7 @@ title: Villagers
 parent: The Valley
 grand_parent: Worlds
 nav_order: 1
+image: /assets/images/og.png
 ---
 
 # Villagers

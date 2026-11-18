@@ -3,6 +3,7 @@ title: The Legend
 parent: The Valley
 grand_parent: Worlds
 nav_order: 3
+image: /assets/images/og.png
 ---
 
 # The Legend of the Battle for the Great Tea Tree

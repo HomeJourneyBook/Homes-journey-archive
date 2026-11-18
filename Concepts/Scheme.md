@@ -2,6 +2,7 @@
 title: Schemes of the Path
 parent: Concepts
 nav_order: 2
+image: /assets/images/og.png
 ---
 
 # Schemes of the Path

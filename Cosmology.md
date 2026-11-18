@@ -1,6 +1,7 @@
 ---
 title: Cosmology
 nav_order: 1
+image: /assets/images/og.png
 ---
 
 # Cosmology

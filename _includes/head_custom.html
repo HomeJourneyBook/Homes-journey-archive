@@ -1,16 +1,5 @@
 <link rel="preload" href="{{ '/assets/fonts/MEK.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
 
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    if (window.innerWidth > 800) {
-      var title = document.querySelector('.site-title');
-      if (title) {
-        title.innerHTML = '<img src="/assets/images/logo.png" style="height:32px;width:auto;">';
-      }
-    }
-  });
-</script>
-
 <style>
   @font-face {
     font-family: 'MEK';
@@ -274,6 +263,12 @@
   }
 
 }
+
+  .site-logo-img { display: none; height: 32px; width: auto; }
+  @media (min-width: 801px) {
+    .site-title .site-logo { display: none !important; }
+    .site-title .site-logo-img { display: block; }
+  }
 
   .breadcrumb-nav, .breadcrumb-nav-list-item { font-size: 14px !important; }
 

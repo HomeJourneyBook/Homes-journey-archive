@@ -2,6 +2,7 @@
 title: The Valley
 parent: Worlds
 nav_order: 1
+image: /assets/images/og.png
 ---
 
 # The Valley of Tea Dragons

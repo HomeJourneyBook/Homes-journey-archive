@@ -2,6 +2,7 @@
 title: from Crystalis
 parent: Artifacts
 nav_order: 3
+image: /assets/images/og.png
 ---
 
 # Found artifacts from Crystalis

@@ -1,6 +1,7 @@
 ---
 title: Leaders of the Legends
 nav_exclude: true
+image: /assets/images/og.png
 ---
 
 # Leaders of the Legends

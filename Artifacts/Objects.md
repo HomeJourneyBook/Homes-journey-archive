@@ -1,6 +1,7 @@
 ---
 title: Objects from Solana
 nav_exclude: true
+image: /assets/images/og.png
 ---
 
 # Objects from Solana

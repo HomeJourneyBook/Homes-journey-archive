@@ -1,6 +1,7 @@
 ---
 title: The Tea Harvester
 nav_exclude: true
+image: /assets/images/og.png
 ---
 
 

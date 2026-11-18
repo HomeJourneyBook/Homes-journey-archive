@@ -3,6 +3,7 @@ title: Arboris
 parent: Dominia
 grand_parent: Worlds
 nav_order: 2
+image: /assets/images/og.png
 ---
 
 # Arboris

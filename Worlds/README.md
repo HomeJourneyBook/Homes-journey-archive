@@ -2,6 +2,7 @@
 title: Worlds
 nav_order: 3
 has_children: true
+image: /assets/images/og.png
 ---
 
 # Home Worlds

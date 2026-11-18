@@ -2,6 +2,7 @@
 title: Edem
 parent: Worlds
 nav_order: 4
+image: /assets/images/og.png
 ---
 
 # Edem

@@ -1,6 +1,7 @@
 ---
 title: Characters of Arboris
 nav_exclude: true
+image: /assets/images/og.png
 ---
 
 # Characters of Arboris

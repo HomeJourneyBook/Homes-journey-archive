@@ -2,6 +2,7 @@
 title: from Arboris
 parent: Artifacts
 nav_order: 2
+image: /assets/images/og.png
 ---
 
 # Found artifacts from Arboris.

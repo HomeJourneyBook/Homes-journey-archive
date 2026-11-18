@@ -2,6 +2,7 @@
 title: Travelers
 parent: Tavern
 nav_order: 0
+image: /assets/images/og.png
 ---
 
 # Home Travelers

@@ -2,6 +2,7 @@
 title: Ancient Civilizations
 parent: Concepts
 nav_order: 4
+image: /assets/images/og.png
 ---
 
 # The Ancient Civilizations

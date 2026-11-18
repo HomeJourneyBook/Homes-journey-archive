@@ -1,6 +1,7 @@
 ---
 title: Locations of Crystalis
 nav_exclude: true
+image: /assets/images/og.png
 ---
 
 # Locations of Crystalis

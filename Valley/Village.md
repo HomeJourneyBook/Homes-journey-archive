@@ -3,6 +3,7 @@ title: Village
 parent: The Valley
 grand_parent: Worlds
 nav_order: 0
+image: /assets/images/og.png
 ---
 
 # The Village

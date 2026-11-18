@@ -3,6 +3,7 @@ title: Apostasy
 parent: Travelers
 grand_parent: Tavern
 nav_order: 6
+image: /assets/images/og.png
 ---
 
 # Apostasy

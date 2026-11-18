@@ -2,6 +2,7 @@
 title: Dominia
 parent: Worlds
 nav_order: 2
+image: /assets/images/og.png
 ---
 
 # The Dominia

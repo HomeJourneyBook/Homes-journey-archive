@@ -2,6 +2,7 @@
 title: Path
 parent: Concepts
 nav_order: 6
+image: /assets/images/og.png
 ---
 
 # The Path

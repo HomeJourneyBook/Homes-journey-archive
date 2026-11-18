@@ -1,0 +1,6 @@
+{%- comment -%}
+  Sidebar title. The theme's own logo block is kept for phones; laptops get the logo as a plain image.
+  Both are in the page from the start and CSS picks one, so nothing is swapped by a script after the page loads (no flicker).
+{%- endcomment -%}
+<div class="site-logo" role="img" aria-label="{{ site.title }}"></div>
+<img class="site-logo-img" src="{{ '/assets/images/logo.png' | relative_url }}" alt="{{ site.title }}">

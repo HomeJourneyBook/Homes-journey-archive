@@ -1,6 +1,7 @@
 ---
 title: Collection of Figures
 nav_exclude: true
+image: /assets/images/og.png
 ---
 
 # Collection of Figures

@@ -3,6 +3,7 @@ title: Moods
 parent: Travelers
 grand_parent: Tavern
 nav_order: 2
+image: /assets/images/og.png
 ---
 
 # Moods

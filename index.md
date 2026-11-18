@@ -2,6 +2,7 @@
 title: Home's Journey Archive
 nav_order: 0
 permalink: /archive/
+image: /assets/images/og.png
 ---
 
 # Home's Journey Archive

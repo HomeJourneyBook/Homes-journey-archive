@@ -2,6 +2,7 @@
 title: Chaetron
 parent: Concepts
 nav_order: 11
+image: /assets/images/og.png
 ---
 
 # Chaetron

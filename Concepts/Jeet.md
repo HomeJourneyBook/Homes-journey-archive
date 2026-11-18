@@ -2,6 +2,7 @@
 title: Jeet
 parent: Concepts
 nav_order: 8
+image: /assets/images/og.png
 ---
 
 # Jeet

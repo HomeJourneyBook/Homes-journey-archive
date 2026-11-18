@@ -1,6 +1,7 @@
 ---
 title: The Blacksmith
 nav_exclude: true
+image: /assets/images/og.png
 ---
 
 # The Blacksmith

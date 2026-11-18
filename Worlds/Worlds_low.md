@@ -2,6 +2,7 @@
 title: Less Explored Worlds
 parent: Worlds
 nav_order: 6
+image: /assets/images/og.png
 ---
 
 # Less Explored Worlds

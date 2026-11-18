@@ -2,6 +2,7 @@
 title: Tea
 parent: Concepts
 nav_order: 3
+image: /assets/images/og.png
 ---
 
 # Tea

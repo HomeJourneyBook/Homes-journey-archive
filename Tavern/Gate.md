@@ -4,6 +4,7 @@ parent: Travelers
 grand_parent: Tavern
 nav_order: 1
 description: "Records about the six types of Gates created by ancient civilizations"
+image: /assets/images/og.png
 ---
 
 # Gates

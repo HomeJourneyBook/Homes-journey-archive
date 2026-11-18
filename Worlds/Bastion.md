@@ -2,6 +2,7 @@
 title: Bastion
 parent: Worlds
 nav_order: 5
+image: /assets/images/og.png
 ---
 
 # Bastion

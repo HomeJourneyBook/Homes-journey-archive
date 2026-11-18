@@ -2,6 +2,7 @@
 title: Collection of Schemes
 parent: Artifacts
 nav_order: 0
+image: /assets/images/og.png
 ---
 
 # Collection of Schemes

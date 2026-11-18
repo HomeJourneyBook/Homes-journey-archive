@@ -1,6 +1,7 @@
 ---
 title: Locations of Igneon
 nav_exclude: true
+image: /assets/images/og.png
 ---
 
 # Locations of Igneon

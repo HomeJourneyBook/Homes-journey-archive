@@ -26,5 +26,5 @@ search:
 aux_links:
   "△ ◎ ▣": "https://trianglecirclesquare.org"
 
-
-
+# The picture that shows when a link is shared comes from "image:" in each page's front matter
+# (jekyll-seo-tag does not take it from this file); it makes the card large automatically.

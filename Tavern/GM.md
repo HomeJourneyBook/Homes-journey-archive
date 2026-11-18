@@ -2,6 +2,7 @@
 title: "GM"
 parent: Tavern
 nav_order: 3
+image: /assets/images/og.png
 ---
 
 # Music band "Gate Manifestation"

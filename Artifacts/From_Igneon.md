@@ -2,6 +2,7 @@
 title: from Igneon
 parent: Artifacts
 nav_order: 1
+image: /assets/images/og.png
 ---
 
 # Found artifacts from Igneon
