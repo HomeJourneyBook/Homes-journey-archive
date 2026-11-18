@@ -6,11 +6,11 @@ nav_order: 0
 
 # Home Travelers
 
-<div style="text-align: center;">
-  <img src="Golden.jpeg" style="width: 600px;" alt="Home Travelers">
+<div class="center">
+  <img src="Golden.jpeg" class="img-600" alt="Home Travelers">
 </div>
 
-<img src="/assets/alphabet/letter_T.png" style="float: left; margin-right: 8px; width: 40px;" alt="T">ravelers are manifested forms of [Essence](/Concepts/Essence), created through passage into one of the six known types of Gates.
+<img src="/assets/alphabet/letter_T.png" class="drop-cap" alt="T">ravelers are manifested forms of [Essence](/Concepts/Essence), created through passage into one of the six known types of Gates.
 
 Their emergence is not the result of randomness or choice. Rather, it is a point of convergence where three fundamental elements combine to form the uniqueness of each Traveler: the type of Gate entered by the Essence, the Mood manifested at the moment of connection, and the World in which the Gate was located at the time of activation.
 
@@ -29,9 +29,9 @@ Special mention should also be given to the Ritual of the 10 Gates, periodically
 ---
 
 <div>
-<a href="/Tavern/Gate" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-left: auto; width: fit-content;">
-  <div style="font-size: 8px; color: #888; text-align: right;">Read next</div>
-  <div style="font-size: 12px; text-align: right;">Gates</div>
+<a class="card card-next" href="/Tavern/Gate">
+  <div class="card-sub card-r">Read next</div>
+  <div class="card-title card-r">Gates</div>
 </a>
 </div>
 

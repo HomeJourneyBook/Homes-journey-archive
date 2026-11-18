@@ -6,7 +6,7 @@ nav_order: 1
 
 # The Valley of Tea Dragons
 
-<img src="/assets/alphabet/letter_A.png" style="float: left; margin-right: 8px; width: 40px;" alt="A">mong all Worlds mentioned in the translated records, the Valley of Tea Dragons remains one of the most isolated and, at the same time, one of the most significant regions known to me so far. It was here that the Great Tea Tree was discovered, around which the Villagers’ settlement, the tea fields, and most of the Valley’s modern life gradually formed over many generations.
+<img src="/assets/alphabet/letter_A.png" class="drop-cap" alt="A">mong all Worlds mentioned in the translated records, the Valley of Tea Dragons remains one of the most isolated and, at the same time, one of the most significant regions known to me so far. It was here that the Great Tea Tree was discovered, around which the Villagers’ settlement, the tea fields, and most of the Valley’s modern life gradually formed over many generations.
 
 At the center of the Valley stands the Great Tea Tree — the oldest known relic of this region. Directly surrounding the Tree lies the Village of the Villagers, home to generations of inhabitants dedicated to Tea harvesting and maintaining life within the Valley.
 
@@ -29,25 +29,25 @@ Despite the relative calmness of the Valley, I gradually began to suspect that a
 > You can continue to read about locations of the Valley. Or check this notes:
 {: .note }
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 24px 0;">
+<div class="cards">
 
-<a href="/Valley/Village" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 12px; margin-bottom: 8px;">Village</div>
-  <div style="font-size: 8px; color: #888;">The Home of Villagers...</div>
+<a class="card" href="/Valley/Village">
+  <div class="card-title card-mb">Village</div>
+  <div class="card-sub">The Home of Villagers...</div>
 </a>
 
-<a href="/Valley/Villagers/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 12px; margin-bottom: 8px;">Villagers</div>
-  <div style="font-size: 8px; color: #888;">Inhabittans of Village...</div>
+<a class="card" href="/Valley/Villagers/README">
+  <div class="card-title card-mb">Villagers</div>
+  <div class="card-sub">Inhabittans of Village...</div>
 </a>
 
 </div>
 
 <div>
   
-<a href="/Valley/Legends/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-top: 16px;">
-  <div style="font-size: 12px; margin-bottom: 8px;">The Legend of the Great Battle</div>
-  <div style="font-size: 8px; color: #888;">What happened...</div>
+<a class="card card-top" href="/Valley/Legends/README">
+  <div class="card-title card-mb">The Legend of the Great Battle</div>
+  <div class="card-sub">What happened...</div>
 </a>
   
 </div>
@@ -157,8 +157,8 @@ In records, the Right Shoulder is connected far less frequently with old legends
 ---
 
 <div>
-<a href="/Valley/Village" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-left: auto; width: fit-content;">
-  <div style="font-size: 8px; color: #888; text-align: right;">Read next</div>
-  <div style="font-size: 12px; text-align: right;">The Village</div>
+<a class="card card-next" href="/Valley/Village">
+  <div class="card-sub card-r">Read next</div>
+  <div class="card-title card-r">The Village</div>
 </a>
 </div>

@@ -272,21 +272,21 @@ And though many believe the conflict ended long ago, some records suggest that n
 
 ---
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 24px 0;">
+<div class="cards">
 
-<a href="/Valley/Legends/Gods" style="grid-column: 1 / -1; display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; text-align: center;">
-  <div style="font-size: 12px; margin-bottom: 8px;">The Tea Gods</div>
-  <div style="font-size: 8px; color: #888;">Who create...</div>
+<a class="card card-wide" href="/Valley/Legends/Gods">
+  <div class="card-title card-mb">The Tea Gods</div>
+  <div class="card-sub">Who create...</div>
 </a>
 
-<a href="/Valley/Legends/Dragons" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 12px; margin-bottom: 8px;">Read about Dragons</div>
-  <div style="font-size: 8px; color: #888;">Who protect...</div>
+<a class="card" href="/Valley/Legends/Dragons">
+  <div class="card-title card-mb">Read about Dragons</div>
+  <div class="card-sub">Who protect...</div>
 </a>
 
-<a href="/Valley/Legends/Creatures" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 12px; margin-bottom: 8px;">Read about Leaders</div>
-  <div style="font-size: 8px; color: #888;">Who attack...</div>
+<a class="card" href="/Valley/Legends/Creatures">
+  <div class="card-title card-mb">Read about Leaders</div>
+  <div class="card-sub">Who attack...</div>
 </a>
 
 </div>

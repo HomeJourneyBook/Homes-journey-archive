@@ -10,7 +10,7 @@ nav_order: 1
 
 ## The Great Division
 
-<img src="/assets/alphabet/letter_I.png" style="float: left; margin-right: 8px; width: 40px;" alt="I">n the beginning, there was no form.  
+<img src="/assets/alphabet/letter_I.png" class="drop-cap" alt="I">n the beginning, there was no form.  
 There was no time, no distinction, no boundaries.  
 There was only the Unified Essence — whole, limitless, nameless, and indivisible.
 
@@ -32,8 +32,8 @@ And thus occurred the first and greatest act — not creation, but self-division
 The Unified Essence intentionally shattered itself.
 
 
-<div style="text-align: center;">
-  <img src="division.png" style="width: 600px;" alt="Great Division">
+<div class="center">
+  <img src="division.png" class="img-600" alt="Great Division">
 </div>
 
 
@@ -63,8 +63,8 @@ It was the only way for the Essence to escape the state of perfect yet empty omn
 However, all division is unstable by nature…
 
 
-<div style="text-align: center;">
-  <img src="creating.webp" style="width: 600px;" alt="Creating Worlds">
+<div class="center">
+  <img src="creating.webp" class="img-600" alt="Creating Worlds">
 </div>
 
 
@@ -85,8 +85,8 @@ And though the excessive spread of Jeet may slow or even endanger the Great Retu
 ---
 
 <div>
-<a href="/Tavern/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-left: auto; width: fit-content;">
-  <div style="font-size: 8px; color: #888; text-align: right;">Read next</div>
-  <div style="font-size: 12px; text-align: right;">the Tavern</div>
+<a class="card card-next" href="/Tavern/README">
+  <div class="card-sub card-r">Read next</div>
+  <div class="card-title card-r">the Tavern</div>
 </a>
 </div>

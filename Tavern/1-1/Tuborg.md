@@ -5,7 +5,7 @@ nav_exclude: true
 
 # Tuborg
 
-<img src="Tuborg.png" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="Tuborg">
+<img src="Tuborg.png" class="img-left" alt="Tuborg">
 One of the first three Unique Travelers. Created, not born through the Ritual. A Gate left behind by a civilization that no longer exists.
 
 The crown is part of his form, inherited from those who created him. He seems to regard it without particular enthusiasm. Shen once passed along his words to me directly: “I would have preferred to look different.”
@@ -16,20 +16,20 @@ He is the only one who remembers his creators from within. Not through texts —
 
 >I hope he finds his Home someday.
 {: .note }
-<div style="clear: both;"></div>
+<div class="clear"></div>
 
 ---
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 24px 0;">
+<div class="cards">
 
-<a href="/Tavern/1-1/1-1#1-1" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 8px; color: #888;">Back to</div>
-  <div style="font-size: 12px;">Unique Travelers</div>
+<a class="card" href="/Tavern/1-1/1-1#1-1">
+  <div class="card-sub">Back to</div>
+  <div class="card-title">Unique Travelers</div>
 </a>
 
-<a href="/Tavern/1-1/Fireon" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 8px; color: #888; text-align: right;">Read next</div>
-  <div style="font-size: 12px; text-align: right;">Fireon</div>
+<a class="card" href="/Tavern/1-1/Fireon">
+  <div class="card-sub card-r">Read next</div>
+  <div class="card-title card-r">Fireon</div>
 </a>
 
 </div>

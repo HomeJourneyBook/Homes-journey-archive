@@ -5,26 +5,26 @@ nav_exclude: true
 
 # The Tea Monk
 
-<img src="monk.png" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Tea Monk">
+<img src="monk.png" class="img-right" alt="Tea Monk">
 Tea Monk is one of the villagers associated with meditation, discipline, and traditional tea rituals within the Valley.
 
 She is often seen near quieter parts of the settlement, where villagers gather for reflection, silence, or ceremonial preparation.
 
 Some villagers believe that Tea Monk preserves practices and teachings far older than the village itself.
-<div style="clear: both;"></div>
+<div class="clear"></div>
 
 ---
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 24px 0;">
+<div class="cards">
 
-<a href="/Valley/Villagers/README#villagers-list" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 12px; margin-bottom: 8px;">Back to Villagers</div>
-  <div style="font-size: 8px; color: #888;"></div>
+<a class="card" href="/Valley/Villagers/README#villagers-list">
+  <div class="card-title card-mb">Back to Villagers</div>
+  <div class="card-sub"></div>
 </a>
 
-<a href="/Valley/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 12px; margin-bottom: 8px;">Back to the Valley</div>
-  <div style="font-size: 8px; color: #888;"></div>
+<a class="card" href="/Valley/README">
+  <div class="card-title card-mb">Back to the Valley</div>
+  <div class="card-sub"></div>
 </a>
 
 </div>
