@@ -7,6 +7,11 @@ image: /assets/images/og.png
 
 # Shen
 
+<div class="shen-art" role="img" aria-label="Shen">
+  <img class="shen-idle" src="/assets/images/shen.png" alt="">
+  <img class="shen-blink" src="/assets/images/shen_blink.png" alt="">
+</div>
+
 Shen is one of the central figures of the Tavern and its permanent keeper. She is responsible for the Bar, the distribution of tea among Travelers, and assisting in the selection of the necessary Schemes before a new journey begins.
 
 Shen is a young woman with long dark hair and bright green eyes. Her body is covered in tattoos depicting blooming sakura and dragons. The most recognizable part of her appearance remains her wide triangular hat with long red tassels, making Shen nearly impossible to mistake for anyone else among the visitors of the Tavern.
@@ -20,12 +25,6 @@ Despite her important role, Shen’s origin remains unknown. I have a guess that
 In addition to her work within the Tavern, Shen is also known as a collector of stories, the publisher of her own records, and the author of numerous illustrations dedicated to Travelers, Worlds, and tea culture. Based on her works alone, it would likely be possible to assemble a separate archive in the future.
 
 Among most Travelers, Shen is perceived not only as the keeper of the Tavern, but also as one of the few figures of the Current Era who truly understands the nature of the Path.
-
->bonus for early readers. Will replace on pixel one later
-
----
-
-![Shen](Shen.jpeg){: width="600" }
 
 ---
 

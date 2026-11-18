@@ -322,4 +322,17 @@
     .main-content ul li a, .text-delta { font-size: 22px !important; }
   }
 
+  /* Shen from the card game: her idle picture, and now and then she blinks */
+  .shen-art { position: relative; width: min(310px, 70vw); aspect-ratio: 1; margin: 1.5rem auto; }
+  .shen-art img { position: absolute; inset: 0; width: 100%; height: 100%; image-rendering: pixelated; }
+  .shen-art .shen-blink { opacity: 0; animation: shen-blink 6.5s linear infinite; }
+  @keyframes shen-blink {
+    0%, 85.9% { opacity: 0; }
+    86%, 88% { opacity: 1; }
+    88.1%, 89.9% { opacity: 0; }
+    90%, 92% { opacity: 1; }
+    92.1%, 100% { opacity: 0; }
+  }
+  @media (prefers-reduced-motion: reduce) { .shen-art .shen-blink { animation: none; } }
+
 </style>
