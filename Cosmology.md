@@ -64,7 +64,7 @@ However, all division is unstable by nature…
 
 
 <div style="text-align: center;">
-  <img src="creating.png" style="width: 600px;" alt="Creating Worlds">
+  <img src="creating.webp" style="width: 600px;" alt="Creating Worlds">
 </div>
 
 

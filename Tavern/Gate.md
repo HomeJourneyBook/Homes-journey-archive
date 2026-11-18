@@ -30,7 +30,7 @@ Below are listed the six known types of Gates, accompanied by brief notes transl
 
 ## Orbiton
 
-<img src="Orbiton.png" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Orbiton">
+<img src="Orbiton.webp" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Orbiton">
 The Orbiton exist in a state of celestial stillness, beyond the flow of time. Their form resembles a traveler sealed within a shell, turned inward upon themselves — as though their entire being has collapsed into a single point. In the vicinity of such Gates, space itself seems to quietly bow toward the center, drawn by an invisible yet irresistible force.
 
 >_“They do not rotate. They do not vanish. Yet everything returns to them.”_
@@ -45,7 +45,7 @@ Their purpose is to show the way back. To the place where time loses all meaning
 
 ## Szarg
 
-<img src="Szarg.png" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="Szarg">
+<img src="Szarg.webp" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="Szarg">
 The Szarg dwell in darkness untouched by light. Their form resembles a frozen figure with a slightly open maw — like an ever-waiting maw. These Gates most often awaken in the depths of craters or in zones of absolute silence, where even echoes perish before they are born.
 
 >_“It hides where light dares not enter. It does not chase. It waits.”_
@@ -60,7 +60,7 @@ These Gates reveal themselves not to those who seek, but to those who have lost 
 
 ## Umbasir
 
-<img src="Umbasir.png" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Umbasir">
+<img src="Umbasir.webp" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Umbasir">
 The Umbasir are organic, shifting Gates that tremble at the edge of visibility. Their surface is unstable, resembling fabric woven from shadows, subtly moving even when the surrounding air is perfectly still. They cannot be seen until the moment of activation — yet their presence is felt long before one draws near.
 
 >_“You never see them arrive. But you always know when they are near.”_
@@ -75,7 +75,7 @@ These Gates are tied to the displaced, the forgotten, and those whose essence ha
 
 ## Mechird
 
-<img src="Mechird.png" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="Mechird">
+<img src="Mechird.webp" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="Mechird">
 The Mechird are assembled with engineering precision, yet stripped of all original context. Their form resembles fragments of machines once part of something far greater. Their surfaces are metallic and angular, filled with repeating patterns and flawless lines.
 
 >_“They calculate. They adapt. They do not stop.”_
@@ -90,7 +90,7 @@ Yet even their flawless precision carries a quiet melancholy. They stand as remi
 
 ## Dreegan
 
-<img src="Dreegan.png" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Dreegan">
+<img src="Dreegan.webp" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Dreegan">
 Dreegan are rooted Gates whose form resembles an ancient, twisted tree trunk with a hollow void at its center. Their roots burrow deep into the soil of Worlds, while their branch-like extensions cut through the fabric of space like frozen lightning. They most often awaken in places where time itself seems to have stopped: abandoned sacred gardens, ruined temples, and paths no one dares to truly call “forgotten.”
 
 >_“They stood here longer than time itself. They do not move. They do not sleep. But they remember.”_
@@ -105,7 +105,7 @@ Those who approach a Dreegan sometimes hear quiet whispers — not words, but ec
 
 ## Xuitqr (Nuthqir)
 
-<img src="Xuqtr.png" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="Xuqtr">
+<img src="Xuqtr.webp" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="Xuqtr">
 Xuitqr appear as towering, imposing figures crowned with masses of twisting tentacles, resembling a living crown of roots or exposed nerves. At the center of their bodies lies a vast black void — an absolute rupture within reality itself.
 
 >_“They do not speak.  They do not move. And yet — they see everything.”_

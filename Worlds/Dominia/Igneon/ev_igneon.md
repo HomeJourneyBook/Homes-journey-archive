@@ -19,7 +19,7 @@ Under the night sky of the planet Dominia, when the Fire Lake in the Igneon regi
 
 ## Lava Extraction
 
-<img src="dobi4a_lava.gif" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Lava Extraction">
+<img src="dobi4a_lava.webp" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Lava Extraction">
 A large-scale lava extraction operation has unfolded on the lava fields of the Igneon region. Massive lava excavators with enormous buckets and heat-resistant manipulators dig lava from active flows, transporting it along long conveyor belts to processing plants. Workers, clad in special thermal protective gear, oversee the processes and maintain the equipment. Thermal insulation barriers and cooling systems protect people and machinery from the intense heat and lava splashes. In the background, active volcanoes and mountain ranges rise, creating a dramatic landscape shrouded in smoke and steam.
 <div style="clear: both;"></div>
 
