@@ -5,7 +5,7 @@ nav_exclude: true
 
 # Reaper
 
-<img src="Reaper.gif" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="Reaper">
+<img src="Reaper.webp" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="Reaper">
 There are Worlds one does not return from. Not because survival is impossible — but because Jeet changes those who linger too long. Most Travelers know this, and I make a point of never sending anyone there.
 
 And yet, Reaper goes exactly there.

@@ -20,7 +20,7 @@ The Fire Lizard is a majestic creature from the Igneon region on the planet Domi
 
 ## Lava Lamp
 
-<img src="Lava_lamp.gif" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="Lava Lamp">
+<img src="Lava_lamp.webp" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="Lava Lamp">
 The lava lamp from Igneon is a high-tech metallic capsule used in fire rituals by the Fire Priests. The lamp, made of heat-resistant metal, has a smooth, streamlined shape and contains a substance inside that resembles moving lava, shimmering with bright colors. The lamp continuously emits a soft but bright light, symbolizing the eternal flame. At the bottom of the lamp, there is an anti-gravity mechanism that allows it to hover in the air and slowly rotate. This mystical and eternal light is a central element of the rituals, illuminating ceremonial sites and lending an atmosphere of sanctity and mysticism to the ceremonies.
 <div style="clear: both;"></div>
 
@@ -28,7 +28,7 @@ The lava lamp from Igneon is a high-tech metallic capsule used in fire rituals b
 
 ## Fiery Altar
 
-<img src="The_Fiery_Altar.gif" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Fiery Altar">
+<img src="The_Fiery_Altar.webp" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Fiery Altar">
 The Fiery Altar, crafted from a single piece of obsidian, is set on a massive base of lava stone covered with delicate carvings of flames and fiery symbols. Inside the altar, lava shimmers, emitting warmth and a soft glow. Atop the altar stands a luxurious golden chalice, adorned with fine engravings. Bright orange-red flames continuously stream from the chalice, illuminating the surrounding space with a warm light and creating a mystical atmosphere. The church is filled with the quiet murmur of lava and the gentle crackle of flames, immersing all present in a state of deep reverence and sanctity.
 <div style="clear: both;"></div>
 

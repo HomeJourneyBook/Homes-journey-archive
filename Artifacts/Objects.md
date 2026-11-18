@@ -35,7 +35,7 @@ nav_exclude: true
 
 ## 
 
-<img src="EditionTanks.gif" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="Map of the Arboris area">
+<img src="EditionTanks.webp" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="Map of the Arboris area">
 
 <div style="clear: both;"></div>
 

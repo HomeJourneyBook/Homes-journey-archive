@@ -13,7 +13,7 @@ I brew it from leftover tea and several other ingredients, all completely natura
 Once prepared, the finished Chaetron is poured into containers and shipped to the Tavern, where Travelers use it to alter their appearance.
 
 <div style="text-align: center;">
-  <img src="chaetron.gif" style="width: 600px;" alt="Chaetron">
+  <img src="chaetron.webp" style="width: 600px;" alt="Chaetron">
 </div>
 
 ---
