@@ -6,7 +6,7 @@ has_children: true
 
 # The Tavern
 
-<img src="/assets/alphabet/letter_A.png" style="float: left; margin-right: 8px; width: 40px;" alt="A">mong all places that continue to exist during the [Current Era](/Concepts/era), the Tavern remains one of the few stable points where [Paths](/Concepts/Path), Worlds, and stories intersect through the presence of Travelers.
+<img src="/assets/alphabet/letter_A.png" class="drop-cap" alt="A">mong all places that continue to exist during the [Current Era](/Concepts/era), the Tavern remains one of the few stable points where [Paths](/Concepts/Path), Worlds, and stories intersect through the presence of Travelers.
 
 Despite the constant movement and ever-changing visitors, an unusually calm atmosphere persists within the Tavern. According to most descriptions, this place serves simultaneously as a shelter, a place of rest, a space for exchanging stories, and a temporary pause between journeys.
 
@@ -14,7 +14,7 @@ For most Travelers, the Tavern remains the only place they are capable of return
 
 Inside the Tavern, the scent of hot tea is ever-present, accompanied by quiet conversations, the sounds of dishes, and distant music. The Tavern itself is a large and welcoming space centered around the main hall known as the Bar, overseen by Shen. It is here that Travelers most often gather to discuss newly discovered Worlds, study [Schemes of the Path](/Concepts/Scheme), and participate in tea ceremonies before beginning another journey.
 
-<img src="tavern.webp" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Tavern">
+<img src="tavern.webp" class="img-right" alt="Tavern">
 Beyond the Bar, the Tavern also contains a hangar — a vast collection of cells used both as resting quarters and departure points for travel. These spaces are designed in a minimalist style and equipped with everything necessary for prolonged stays. However, access to them requires an active Scheme.
 
 From time to time, the Tavern also hosts performances by the musical group Gate Manifestation, formed by the Travelers themselves. According to visitor accounts, their music is often based on sounds, rhythms, and instruments brought from various Worlds, many of which were recovered as artifacts of [Ancient civilizations](/Concepts/civil).
@@ -22,7 +22,7 @@ From time to time, the Tavern also hosts performances by the musical group Gate 
 The Tavern also serves as a place where many other artifacts are carefully preserved, each representing a source of pride for the Traveler who managed to recover it. 
 
 The Travelers Hall of Fame is also located here.
-<div style="clear: both;"></div>
+<div class="clear"></div>
 
 > To this day, I have been unable to determine the true origin of the Tavern.
 {: .note }
@@ -30,9 +30,9 @@ The Travelers Hall of Fame is also located here.
 ---
 
 <div>
-<a href="/Tavern/Travelers" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-left: auto; width: fit-content;">
-  <div style="font-size: 8px; color: #888; text-align: right;">Read next</div>
-  <div style="font-size: 12px; text-align: right;">Home Travelers</div>
+<a class="card card-next" href="/Tavern/Travelers">
+  <div class="card-sub card-r">Read next</div>
+  <div class="card-title card-r">Home Travelers</div>
 </a>
 </div>
 

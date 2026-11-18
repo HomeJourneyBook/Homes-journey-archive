@@ -13,21 +13,21 @@ The found artifacts of this region can be explored [here](/Artifacts/From_Igneon
 
 ## Topics:
 
-<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 16px; margin: 24px 0;">
+<div class="cards cards-3">
 
-<a href="Igneon/locs_igneon" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 12px; margin-bottom: 8px;">Locations</div>
-  <div style="font-size: 8px; color: #888;"></div>
+<a class="card" href="Igneon/locs_igneon">
+  <div class="card-title card-mb">Locations</div>
+  <div class="card-sub"></div>
 </a>
 
-<a href="Igneon/char_igneon" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 12px; margin-bottom: 8px;">Characters</div>
-  <div style="font-size: 8px; color: #888;"></div>
+<a class="card" href="Igneon/char_igneon">
+  <div class="card-title card-mb">Characters</div>
+  <div class="card-sub"></div>
 </a>
 
-<a href="Igneon/ev_igneon" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 12px; margin-bottom: 8px;">Events</div>
-  <div style="font-size: 8px; color: #888;"></div>
+<a class="card" href="Igneon/ev_igneon">
+  <div class="card-title card-mb">Events</div>
+  <div class="card-sub"></div>
 </a>
 
 </div>
@@ -35,8 +35,8 @@ The found artifacts of this region can be explored [here](/Artifacts/From_Igneon
 ---
 
 <div>
-<a href="/Worlds/Dominia/Arboris" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-left: auto; width: fit-content;">
-  <div style="font-size: 8px; color: #888; text-align: right;">Read next</div>
-  <div style="font-size: 12px; text-align: right;">Arboris</div>
+<a class="card card-next" href="/Worlds/Dominia/Arboris">
+  <div class="card-sub card-r">Read next</div>
+  <div class="card-title card-r">Arboris</div>
 </a>
 </div>

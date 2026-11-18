@@ -12,22 +12,22 @@ I brew it from leftover tea and several other ingredients, all completely natura
 
 Once prepared, the finished Chaetron is poured into containers and shipped to the Tavern, where Travelers use it to alter their appearance.
 
-<div style="text-align: center;">
-  <img src="chaetron.webp" style="width: 600px;" alt="Chaetron">
+<div class="center">
+  <img src="chaetron.webp" class="img-600" alt="Chaetron">
 </div>
 
 ---
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 24px 0;">
+<div class="cards">
 
-<a href="/Concepts/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 8px; color: #888;">Back to</div>
-  <div style="font-size: 12px;">Concepts</div>
+<a class="card" href="/Concepts/README">
+  <div class="card-sub">Back to</div>
+  <div class="card-title">Concepts</div>
 </a>
 
-<a href="/archive/" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 8px; color: #888; text-align: right;">Back to</div>
-  <div style="font-size: 12px; text-align: right;">Begining</div>
+<a class="card" href="/archive/">
+  <div class="card-sub card-r">Back to</div>
+  <div class="card-title card-r">Begining</div>
 </a>
 
 </div>

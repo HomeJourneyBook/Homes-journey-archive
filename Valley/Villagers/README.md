@@ -21,85 +21,85 @@ Despite the apparent simplicity of their daily life, there is a strong sense tha
 
 <h2 id="villagers-list">Known Villagers:</h2>
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 24px 0;">
+<div class="cards">
 
-<a href="/Valley/Villagers/Arborist" style="display: block; padding: 12px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 10px;">Arborist</div>
+<a class="card card-small" href="/Valley/Villagers/Arborist">
+  <div class="card-title card-small-title">Arborist</div>
 </a>
 
-<a href="/Valley/Villagers/Artchemist" style="display: block; padding: 12px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 10px;">Artchemist</div>
+<a class="card card-small" href="/Valley/Villagers/Artchemist">
+  <div class="card-title card-small-title">Artchemist</div>
 </a>
 
-<a href="/Valley/Villagers/Blacksmith" style="display: block; padding: 12px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 10px;">Blacksmith</div>
+<a class="card card-small" href="/Valley/Villagers/Blacksmith">
+  <div class="card-title card-small-title">Blacksmith</div>
 </a>
 
-<a href="/Valley/Villagers/Cook" style="display: block; padding: 12px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 10px;">Cook</div>
+<a class="card card-small" href="/Valley/Villagers/Cook">
+  <div class="card-title card-small-title">Cook</div>
 </a>
 
-<a href="/Valley/Villagers/Fisherman" style="display: block; padding: 12px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 10px;">Fisherman</div>
+<a class="card card-small" href="/Valley/Villagers/Fisherman">
+  <div class="card-title card-small-title">Fisherman</div>
 </a>
 
-<a href="/Valley/Villagers/Harvester" style="display: block; padding: 12px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 10px;">Tea Harvester</div>
+<a class="card card-small" href="/Valley/Villagers/Harvester">
+  <div class="card-title card-small-title">Tea Harvester</div>
 </a>
 
-<a href="/Valley/Villagers/Mechanic" style="display: block; padding: 12px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 10px;">Mechanic</div>
+<a class="card card-small" href="/Valley/Villagers/Mechanic">
+  <div class="card-title card-small-title">Mechanic</div>
 </a>
 
-<a href="/Valley/Villagers/Monk" style="display: block; padding: 12px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 10px;">Tea Monk</div>
+<a class="card card-small" href="/Valley/Villagers/Monk">
+  <div class="card-title card-small-title">Tea Monk</div>
 </a>
 
-<a href="/Valley/Villagers/Shearer" style="display: block; padding: 12px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 10px;">Tea Shearer</div>
+<a class="card card-small" href="/Valley/Villagers/Shearer">
+  <div class="card-title card-small-title">Tea Shearer</div>
 </a>
 
-<a href="/Valley/Villagers/Tealder" style="display: block; padding: 12px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 10px;">Tealder</div>
+<a class="card card-small" href="/Valley/Villagers/Tealder">
+  <div class="card-title card-small-title">Tealder</div>
 </a>
 
-<a href="/Valley/Villagers/Tealer" style="display: block; padding: 12px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 10px;">Tealer</div>
+<a class="card card-small" href="/Valley/Villagers/Tealer">
+  <div class="card-title card-small-title">Tealer</div>
 </a>
 
-<a href="/Valley/Villagers/Teantist" style="display: block; padding: 12px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 10px;">Teantist</div>
+<a class="card card-small" href="/Valley/Villagers/Teantist">
+  <div class="card-title card-small-title">Teantist</div>
 </a>
 
-<a href="/Valley/Villagers/Teasurer" style="display: block; padding: 12px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 10px;">Teasurer</div>
+<a class="card card-small" href="/Valley/Villagers/Teasurer">
+  <div class="card-title card-small-title">Teasurer</div>
 </a>
 
-<a href="/Valley/Villagers/Tj" style="display: block; padding: 12px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 10px;">TJ</div>
+<a class="card card-small" href="/Valley/Villagers/Tj">
+  <div class="card-title card-small-title">TJ</div>
 </a>
 
-<a href="/Valley/Villagers/Doctor" style="display: block; padding: 12px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 10px;">Teasculapius</div>
+<a class="card card-small" href="/Valley/Villagers/Doctor">
+  <div class="card-title card-small-title">Teasculapius</div>
 </a>
 
-<a href="/Valley/Villagers/WebTeaveloper" style="display: block; padding: 12px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 10px;">Web Teaveloper</div>
+<a class="card card-small" href="/Valley/Villagers/WebTeaveloper">
+  <div class="card-title card-small-title">Web Teaveloper</div>
 </a>
 
 </div>
 
 ---
 
-<div style="text-align: center;">
-  <img src="Villagers.jpeg" style="width: 600px;" alt="Family">
+<div class="center">
+  <img src="Villagers.jpeg" class="img-600" alt="Family">
 </div>
 
 ---
 
 <div>
-<a href="/Valley/Legends/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-left: auto; width: fit-content;">
-  <div style="font-size: 8px; color: #888; text-align: right;">Read next</div>
-  <div style="font-size: 12px; text-align: right;">The Legend</div>
+<a class="card card-next" href="/Valley/Legends/README">
+  <div class="card-sub card-r">Read next</div>
+  <div class="card-title card-r">The Legend</div>
 </a>
 </div>

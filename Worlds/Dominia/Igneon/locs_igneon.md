@@ -42,8 +42,8 @@ Before you stretches the vast Lava Sea, its viscous, dense surface constantly mo
 ---
 
 <div>
-<a href="/Worlds/Dominia/Igneon" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-right: auto; width: fit-content;">
-  <div style="font-size: 8px; color: #888; text-align: right;">Back to</div>
-  <div style="font-size: 12px; text-align: right;">Igneon</div>
+<a class="card card-prev" href="/Worlds/Dominia/Igneon">
+  <div class="card-sub card-r">Back to</div>
+  <div class="card-title card-r">Igneon</div>
 </a>
 </div>

@@ -27,22 +27,22 @@ While studying the ancient Book, it gradually became clear to me that many recor
 
 At present, it seems to me that the figurative language is not simply an ancient form of writing, but a far more complex system describing the very structure of the Path, the Worlds, and the Essence itself. Perhaps this is precisely why even a fragmentary understanding of the language already allows for the creation of new Schemes of the Path, and with them, the discovery of routes toward previously unknown Worlds.
 
-<div style="text-align: center;">
-  <img src="Figures.jpeg" style="width: 600px;" alt="Cipher">
+<div class="center">
+  <img src="Figures.jpeg" class="img-600" alt="Cipher">
 </div>
 
 ---
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 24px 0;">
+<div class="cards">
 
-<a href="/Concepts/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 8px; color: #888;">Back to</div>
-  <div style="font-size: 12px;">Concepts</div>
+<a class="card" href="/Concepts/README">
+  <div class="card-sub">Back to</div>
+  <div class="card-title">Concepts</div>
 </a>
 
-<a href="/Concepts/Scheme" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 8px; color: #888; text-align: right;">Read next</div>
-  <div style="font-size: 12px; text-align: right;">Schemes of the Path</div>
+<a class="card" href="/Concepts/Scheme">
+  <div class="card-sub card-r">Read next</div>
+  <div class="card-title card-r">Schemes of the Path</div>
 </a>
 
 </div>

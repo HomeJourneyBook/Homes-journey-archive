@@ -47,8 +47,8 @@ Mentions of this fortress found in Traveler records strongly suggest that it was
 ---
 
 <div>
-<a href="/Worlds/Worlds_low" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-left: auto; width: fit-content;">
-  <div style="font-size: 8px; color: #888; text-align: right;">Read next</div>
-  <div style="font-size: 12px; text-align: right;">Less Explored Worlds</div>
+<a class="card card-next" href="/Worlds/Worlds_low">
+  <div class="card-sub card-r">Read next</div>
+  <div class="card-title card-r">Less Explored Worlds</div>
 </a>
 </div>

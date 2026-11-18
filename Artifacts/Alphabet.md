@@ -11,47 +11,47 @@ Unique and important Figures here
 
 ## 
 
-<img src=".png" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="Elixirs">
+<img src=".png" class="img-right" alt="Elixirs">
 
-<div style="clear: both;"></div>
-
----
-
-## 
-
-<img src=".png" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="The Book of All Recipes">
-
-<div style="clear: both;"></div>
-
----
-
-##
-
-<img src="sova.png" style="float: right; margin-left: 16px; margin-bottom: 8px; width: 400px;" alt="The Three-Eyed Owl">
-
-<div style="clear: both;"></div>
+<div class="clear"></div>
 
 ---
 
 ## 
 
-<img src=".png" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="Map of the Arboris area">
+<img src=".png" class="img-left" alt="The Book of All Recipes">
 
-<div style="clear: both;"></div>
+<div class="clear"></div>
 
 ---
 
 ##
 
-<img src=".png" style="float: left; margin-right: 16px; margin-bottom: 8px; width: 400px;" alt="Statue of Reverence">
+<img src="sova.png" class="img-right" alt="The Three-Eyed Owl">
 
-<div style="clear: both;"></div>
+<div class="clear"></div>
+
+---
+
+## 
+
+<img src=".png" class="img-left" alt="Map of the Arboris area">
+
+<div class="clear"></div>
+
+---
+
+##
+
+<img src=".png" class="img-left" alt="Statue of Reverence">
+
+<div class="clear"></div>
 
 ---
 
 <div>
-<a href="/Artifacts/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-right: auto; width: fit-content;">
-  <div style="font-size: 8px; color: #888; text-align: right;">Back to</div>
-  <div style="font-size: 12px; text-align: right;">Artifacts</div>
+<a class="card card-prev" href="/Artifacts/README">
+  <div class="card-sub card-r">Back to</div>
+  <div class="card-title card-r">Artifacts</div>
 </a>
 </div>

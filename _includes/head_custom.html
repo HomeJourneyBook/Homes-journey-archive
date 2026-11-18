@@ -16,7 +16,7 @@
 
   body {
     font-family: 'Press Start 2P', monospace !important;
-    font-size: 10px;
+    font-size: 12px;
     line-height: 2;
     background-color: #0c1113;
   }
@@ -62,7 +62,7 @@
 }
 
   .site-title {
-    font-size: 8px !important;
+    font-size: 10px !important;
     line-height: 1.4 !important;
     white-space: nowrap;
     overflow: hidden;
@@ -99,7 +99,7 @@
   }
 
   .nav-list .nav-list-item .nav-list-link {
-    font-size: 9px !important;
+    font-size: 11px !important;
     padding: 6px 12px !important;
     line-height: 1.6 !important;
   }
@@ -180,8 +180,8 @@
 @media (max-width: 800px) {
 
   /* Текст и заголовки */
-  body { font-size: 8px !important; }
-  h1 { font-size: 1rem !important; }
+  body { font-size: 12px !important; }
+  h1 { font-size: 1.1rem !important; }
 
   /* Шапка — фиксированная, с фоном и иконкой */
   .site-header {
@@ -268,5 +268,33 @@
   }
 
 }
+
+  /* ---- Cards and page furniture (were inline styles repeated in every page) ---- */
+  .cards { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 24px 0; }
+  .cards-3 { grid-template-columns: 1fr 1fr 1fr; }
+  .card { display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; }
+  .card-small { padding: 12px; }
+  .card-next { margin-left: auto; width: fit-content; }
+  .card-prev { margin-right: auto; width: fit-content; }
+  .card-gap { margin-bottom: 12px; }
+  .card-top { margin-top: 16px; }
+  .card-wide { grid-column: 1 / -1; text-align: center; }
+  .card-title { font-size: 14px; }
+  .card-small-title { font-size: 12px; }
+  .card-mb { margin-bottom: 8px; }
+  .card-sub { font-size: 11px; color: #a0a0a0; }
+  .card-r { text-align: right; }
+  .clear { clear: both; }
+  .center { text-align: center; }
+  .warn-box { padding: 12px; border: 1px solid #FF6961; color: #FF6961; }
+  .img-right { float: right; margin-left: 16px; margin-bottom: 8px; width: 400px; max-width: 100%; }
+  .img-left { float: left; margin-right: 16px; margin-bottom: 8px; width: 400px; max-width: 100%; }
+  .img-600 { width: 600px; max-width: 100%; }
+  .drop-cap { float: left; margin-right: 8px; width: 40px; }
+  @media (max-width: 800px) {
+    .cards, .cards-3 { grid-template-columns: 1fr; }
+    .img-right, .img-left { float: none; display: block; margin: 0 auto 12px; width: 100%; }
+    .card-title { font-size: 14px; }
+  }
 
 </style>

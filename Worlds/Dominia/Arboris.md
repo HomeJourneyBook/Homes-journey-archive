@@ -15,21 +15,21 @@ The found artifacts of this region can be explored [here](/Artifacts/From_Arbori
 
 ## Topics:
 
-<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 16px; margin: 24px 0;">
+<div class="cards cards-3">
 
-<a href="Arboris/locs_arboris" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 12px; margin-bottom: 8px;">Locations</div>
-  <div style="font-size: 8px; color: #888;"></div>
+<a class="card" href="Arboris/locs_arboris">
+  <div class="card-title card-mb">Locations</div>
+  <div class="card-sub"></div>
 </a>
 
-<a href="Arboris/char_arboris" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 12px; margin-bottom: 8px;">Characters</div>
-  <div style="font-size: 8px; color: #888;"></div>
+<a class="card" href="Arboris/char_arboris">
+  <div class="card-title card-mb">Characters</div>
+  <div class="card-sub"></div>
 </a>
 
-<a href="Arboris/ev_arboris" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 12px; margin-bottom: 8px;">Events</div>
-  <div style="font-size: 8px; color: #888;"></div>
+<a class="card" href="Arboris/ev_arboris">
+  <div class="card-title card-mb">Events</div>
+  <div class="card-sub"></div>
 </a>
 
 </div>
@@ -37,8 +37,8 @@ The found artifacts of this region can be explored [here](/Artifacts/From_Arbori
 ---
 
 <div>
-<a href="/Worlds/Dominia/Crystalis" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-left: auto; width: fit-content;">
-  <div style="font-size: 8px; color: #888; text-align: right;">Read next</div>
-  <div style="font-size: 12px; text-align: right;">Crystalis</div>
+<a class="card card-next" href="/Worlds/Dominia/Crystalis">
+  <div class="card-sub card-r">Read next</div>
+  <div class="card-title card-r">Crystalis</div>
 </a>
 </div>

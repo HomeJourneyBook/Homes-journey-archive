@@ -79,8 +79,8 @@ According to Traveler records, the region of Gold is one of the easiest places i
 ---
 
 <div>
-<a href="/Worlds/Edem" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-left: auto; width: fit-content;">
-  <div style="font-size: 8px; color: #888; text-align: right;">Read next</div>
-  <div style="font-size: 12px; text-align: right;">Edem</div>
+<a class="card card-next" href="/Worlds/Edem">
+  <div class="card-sub card-r">Read next</div>
+  <div class="card-title card-r">Edem</div>
 </a>
 </div>

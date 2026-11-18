@@ -50,9 +50,9 @@ The Castle of Arboris stands as a majestic structure crafted entirely from rich,
 ---
 
 <div>
-<a href="/Worlds/Dominia/Arboris" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-right: auto; width: fit-content;">
-  <div style="font-size: 8px; color: #888; text-align: right;">Back to</div>
-  <div style="font-size: 12px; text-align: right;">Arboris</div>
+<a class="card card-prev" href="/Worlds/Dominia/Arboris">
+  <div class="card-sub card-r">Back to</div>
+  <div class="card-title card-r">Arboris</div>
 </a>
 </div>
 

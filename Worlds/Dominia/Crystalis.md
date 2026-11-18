@@ -13,21 +13,21 @@ At the moment, the least is known about this region. Perhaps many artifacts have
 
 ## Topics:
 
-<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 16px; margin: 24px 0;">
+<div class="cards cards-3">
 
-<a href="Crystalis/locs_crystalis" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 12px; margin-bottom: 8px;">Locations</div>
-  <div style="font-size: 8px; color: #888;"></div>
+<a class="card" href="Crystalis/locs_crystalis">
+  <div class="card-title card-mb">Locations</div>
+  <div class="card-sub"></div>
 </a>
 
-<a href="Crystalis/char_crystalis" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 12px; margin-bottom: 8px;">Characters</div>
-  <div style="font-size: 8px; color: #888;"></div>
+<a class="card" href="Crystalis/char_crystalis">
+  <div class="card-title card-mb">Characters</div>
+  <div class="card-sub"></div>
 </a>
 
-<a href="Crystalis/ev_crystalis" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 12px; margin-bottom: 8px;">Events</div>
-  <div style="font-size: 8px; color: #888;"></div>
+<a class="card" href="Crystalis/ev_crystalis">
+  <div class="card-title card-mb">Events</div>
+  <div class="card-sub"></div>
 </a>
 
 </div>
@@ -35,8 +35,8 @@ At the moment, the least is known about this region. Perhaps many artifacts have
 ---
 
 <div>
-<a href="/Worlds/Mireon" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-left: auto; width: fit-content;">
-  <div style="font-size: 8px; color: #888; text-align: right;">Read next</div>
-  <div style="font-size: 12px; text-align: right;">Mireon</div>
+<a class="card card-next" href="/Worlds/Mireon">
+  <div class="card-sub card-r">Read next</div>
+  <div class="card-title card-r">Mireon</div>
 </a>
 </div>

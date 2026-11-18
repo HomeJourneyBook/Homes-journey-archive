@@ -11,27 +11,27 @@ This section contains surviving records connected to one of the oldest known con
 
 According to the Legend, countless beings, rulers, creatures, and entire races came to the Valley seeking the power hidden within the leaves of the Great Tea Tree. Some wished to protect the balance of the valley, while others sought power, immortality, knowledge, or salvation for their own worlds.
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 24px 0;">
+<div class="cards">
 
-<a href="/Valley/Legends/Legend" style="grid-column: 1 / -1; display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; text-align: center;">
-  <div style="font-size: 12px; margin-bottom: 8px;">Read The Legend</div>
-  <div style="font-size: 8px; color: #888;">What happened...</div>
+<a class="card card-wide" href="/Valley/Legends/Legend">
+  <div class="card-title card-mb">Read The Legend</div>
+  <div class="card-sub">What happened...</div>
 </a>
 
-<a href="/Valley/Legends/Gods" style="grid-column: 1 / -1; display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; text-align: center;">
-  <div style="font-size: 12px; margin-bottom: 8px;">The Tea Gods</div>
-  <div style="font-size: 8px; color: #888;">Who create...</div>
+<a class="card card-wide" href="/Valley/Legends/Gods">
+  <div class="card-title card-mb">The Tea Gods</div>
+  <div class="card-sub">Who create...</div>
 </a>
 
 
-<a href="/Valley/Legends/Dragons" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 12px; margin-bottom: 8px;">Dragons</div>
-  <div style="font-size: 8px; color: #888;">Who protect...</div>
+<a class="card" href="/Valley/Legends/Dragons">
+  <div class="card-title card-mb">Dragons</div>
+  <div class="card-sub">Who protect...</div>
 </a>
 
-<a href="/Valley/Legends/Creatures" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b;">
-  <div style="font-size: 12px; margin-bottom: 8px;">Leaders</div>
-  <div style="font-size: 8px; color: #888;">Who attack...</div>
+<a class="card" href="/Valley/Legends/Creatures">
+  <div class="card-title card-mb">Leaders</div>
+  <div class="card-sub">Who attack...</div>
 </a>
 
 </div>
@@ -39,8 +39,8 @@ According to the Legend, countless beings, rulers, creatures, and entire races c
 ---
 
 <div>
-<a href="/Worlds/Dominia/README" style="display: block; padding: 16px; border: 1px solid #c8a84b; text-decoration: none; color: #c8a84b; margin-left: auto; width: fit-content;">
-  <div style="font-size: 8px; color: #888; text-align: right;">Read next</div>
-  <div style="font-size: 12px; text-align: right;">Dominia</div>
+<a class="card card-next" href="/Worlds/Dominia/README">
+  <div class="card-sub card-r">Read next</div>
+  <div class="card-title card-r">Dominia</div>
 </a>
 </div>
