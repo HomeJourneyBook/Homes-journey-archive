@@ -28,10 +28,5 @@ Special mention should also be given to the Ritual of the 10 Gates, periodically
 
 ---
 
-<div>
-<a class="card card-next" href="/Tavern/Gate">
-  <div class="card-sub card-r">Read next</div>
-  <div class="card-title card-r">Gates</div>
-</a>
-</div>
+{% include nav_next.html next="/Tavern/Gate" next_title="Gates" %}
 

@@ -26,16 +26,4 @@ A very rare reptile native to the area, encountering it is considered great luck
 
 ---
 
-<div class="cards">
-
-<a class="card" href="/Artifacts/README">
-  <div class="card-sub">Back to</div>
-  <div class="card-title">Artifacts</div>
-</a>
-
-<a class="card" href="/Concepts/README">
-  <div class="card-sub card-r">Read next</div>
-  <div class="card-title card-r">Concepts</div>
-</a>
-
-</div>
+{% include nav_cards.html back="/Artifacts/README" back_title="Artifacts" next="/Concepts/README" next_title="Concepts" %}

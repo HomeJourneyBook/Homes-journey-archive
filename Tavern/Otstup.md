@@ -19,9 +19,4 @@ For this reason, many Travelers regard such cases with caution. Not because they
 
 ---
 
-<div>
-<a class="card card-next" href="/Tavern/Cells">
-  <div class="card-sub card-r">Read next</div>
-  <div class="card-title card-r">Cells</div>
-</a>
-</div>
+{% include nav_next.html next="/Tavern/Cells" next_title="Cells" %}

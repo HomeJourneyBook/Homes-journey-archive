@@ -16,16 +16,4 @@ In the current era, Travelers continue to discover traces of the Departed across
 
 ---
 
-<div class="cards">
-
-<a class="card" href="/Concepts/README">
-  <div class="card-sub">Back to</div>
-  <div class="card-title">Concepts</div>
-</a>
-
-<a class="card" href="/Concepts/era">
-  <div class="card-sub card-r">Read next</div>
-  <div class="card-title card-r">Current Era</div>
-</a>
-
-</div>
+{% include nav_cards.html back="/Concepts/README" back_title="Concepts" next="/Concepts/era" next_title="Current Era" %}

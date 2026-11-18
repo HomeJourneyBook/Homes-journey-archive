@@ -20,16 +20,4 @@ Somewhat greater understanding of the Essence was only achieved through the tran
 
 ---
 
-<div class="cards">
-
-<a class="card" href="/Concepts/README">
-  <div class="card-sub">Back to</div>
-  <div class="card-title">Concepts</div>
-</a>
-
-<a class="card" href="/Concepts/Jeet">
-  <div class="card-sub card-r">Read next</div>
-  <div class="card-title card-r">Jeet</div>
-</a>
-
-</div>
+{% include nav_cards.html back="/Concepts/README" back_title="Concepts" next="/Concepts/Jeet" next_title="Jeet" %}

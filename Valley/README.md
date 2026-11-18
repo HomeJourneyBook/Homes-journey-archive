@@ -156,9 +156,4 @@ In records, the Right Shoulder is connected far less frequently with old legends
 
 ---
 
-<div>
-<a class="card card-next" href="/Valley/Village">
-  <div class="card-sub card-r">Read next</div>
-  <div class="card-title card-r">The Village</div>
-</a>
-</div>
+{% include nav_next.html next="/Valley/Village" next_title="The Village" %}

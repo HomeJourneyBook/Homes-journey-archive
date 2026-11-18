@@ -58,16 +58,4 @@ The Traveler survived. The World it leads to has not been revisited.
 
 ---
 
-<div class="cards">
-
-<a class="card" href="/Artifacts/README">
-  <div class="card-sub">Back to</div>
-  <div class="card-title">Artifacts</div>
-</a>
-
-<a class="card" href="/Artifacts/From_Igneon">
-  <div class="card-sub card-r">Read next</div>
-  <div class="card-title card-r">From Igneon</div>
-</a>
-
-</div>
+{% include nav_cards.html back="/Artifacts/README" back_title="Artifacts" next="/Artifacts/From_Igneon" next_title="From Igneon" %}

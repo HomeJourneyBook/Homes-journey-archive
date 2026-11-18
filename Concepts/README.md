@@ -14,9 +14,4 @@ At present, it is precisely these concepts that gradually allow for a more compl
 
 ---
 
-<div>
-<a class="card card-next" href="/Concepts/Book">
-  <div class="card-sub card-r">Read next</div>
-  <div class="card-title card-r">The Book</div>
-</a>
-</div>
+{% include nav_next.html next="/Concepts/Book" next_title="The Book" %}

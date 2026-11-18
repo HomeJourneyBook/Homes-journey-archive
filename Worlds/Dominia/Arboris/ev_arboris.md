@@ -49,10 +49,5 @@ A trader from Arboris carefully transports Elixirs through the dense forests, th
 
 ---
 
-<div>
-<a class="card card-prev" href="/Worlds/Dominia/Arboris">
-  <div class="card-sub card-r">Back to</div>
-  <div class="card-title card-r">Arboris</div>
-</a>
-</div>
+{% include nav_prev.html back="/Worlds/Dominia/Arboris" back_title="Arboris" %}
 

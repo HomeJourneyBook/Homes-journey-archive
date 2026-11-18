@@ -1,0 +1,7 @@
+{%- comment -%} A single "Read next" card on the right. Parameters: next (url), next_title. {%- endcomment -%}
+<div>
+<a class="card card-next" href="{{ include.next }}">
+  <div class="card-sub card-r">Read next</div>
+  <div class="card-title card-r">{{ include.next_title }}</div>
+</a>
+</div>

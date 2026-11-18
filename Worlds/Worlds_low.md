@@ -55,9 +55,4 @@ Almost nothing is known about this place, except that traces of Jeet were found 
 
 ---
 
-<div>
-<a class="card card-next" href="/Artifacts/README">
-  <div class="card-sub card-r">Read next</div>
-  <div class="card-title card-r">Artifacts</div>
-</a>
-</div>
+{% include nav_next.html next="/Artifacts/README" next_title="Artifacts" %}

@@ -38,9 +38,4 @@ According to the Legend, countless beings, rulers, creatures, and entire races c
 
 ---
 
-<div>
-<a class="card card-next" href="/Worlds/Dominia/README">
-  <div class="card-sub card-r">Read next</div>
-  <div class="card-title card-r">Dominia</div>
-</a>
-</div>
+{% include nav_next.html next="/Worlds/Dominia/README" next_title="Dominia" %}

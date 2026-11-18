@@ -16,9 +16,4 @@ The exact period during which this World existed remains impossible to determine
 
 ---
 
-<div>
-<a class="card card-next" href="/Worlds/Dominia/Igneon">
-  <div class="card-sub card-r">Read next</div>
-  <div class="card-title card-r">Igneon</div>
-</a>
-</div>
+{% include nav_next.html next="/Worlds/Dominia/Igneon" next_title="Igneon" %}

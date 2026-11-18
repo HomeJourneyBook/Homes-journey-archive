@@ -19,9 +19,4 @@ Each World possesses its own atmosphere, history, and traces of the Path.
 
 ---
 
-<div>
-<a class="card card-next" href="/Valley/README">
-  <div class="card-sub card-r">Read next</div>
-  <div class="card-title card-r">The Valley of Tea Dragons</div>
-</a>
-</div>
+{% include nav_next.html next="/Valley/README" next_title="The Valley of Tea Dragons" %}

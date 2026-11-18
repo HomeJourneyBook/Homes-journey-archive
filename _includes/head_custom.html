@@ -1,5 +1,4 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+<link rel="preload" href="{{ '/assets/fonts/MEK.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {
@@ -13,11 +12,18 @@
 </script>
 
 <style>
+  @font-face {
+    font-family: 'MEK';
+    src: url('{{ "/assets/fonts/MEK.woff2" | relative_url }}') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }
 
   body {
-    font-family: 'Press Start 2P', monospace !important;
-    font-size: 12px;
-    line-height: 2;
+    font-family: 'MEK', 'Courier New', monospace !important;
+    font-size: 16px;
+    line-height: 1.9;
     background-color: #0c1113;
   }
 
@@ -32,7 +38,7 @@
   }
 
   .search-input {
-  font-size: 12px !important;
+  font-size: 14px !important;
 }
 
 .search {
@@ -62,7 +68,7 @@
 }
 
   .site-title {
-    font-size: 10px !important;
+    font-size: 14px !important;
     line-height: 1.4 !important;
     white-space: nowrap;
     overflow: hidden;
@@ -94,12 +100,12 @@
 }
 
   .side-bar {
-    font-family: 'Press Start 2P', monospace !important;
+    font-family: 'MEK', 'Courier New', monospace !important;
     background: #0c1113 !important;
   }
 
   .nav-list .nav-list-item .nav-list-link {
-    font-size: 11px !important;
+    font-size: 15px !important;
     padding: 6px 12px !important;
     line-height: 1.6 !important;
   }
@@ -123,12 +129,12 @@
     margin-bottom: 1.5rem;
   }
 
-  h1 { font-size: 1.4rem !important; }
-  h2 { font-size: 1.1rem !important; }
-  h3 { font-size: 0.9rem !important; }
+  h1 { font-size: 1.8rem !important; }
+  h2 { font-size: 1.4rem !important; }
+  h3 { font-size: 1.15rem !important; }
 
   h1, h2, h3, h4 {
-    font-family: 'Press Start 2P', monospace !important;
+    font-family: 'MEK', 'Courier New', monospace !important;
     word-break: break-word;
   }
 
@@ -180,8 +186,8 @@
 @media (max-width: 800px) {
 
   /* Текст и заголовки */
-  body { font-size: 12px !important; }
-  h1 { font-size: 1.1rem !important; }
+  body { font-size: 16px !important; }
+  h1 { font-size: 1.5rem !important; }
 
   /* Шапка — фиксированная, с фоном и иконкой */
   .site-header {
@@ -238,18 +244,18 @@
   .nav-list-link,
   .nav-list .nav-list-item .nav-list-link,
   .nav-list .nav-list-item a {
-    font-size: 12px !important;
+    font-size: 16px !important;
     padding: 8px 12px !important;
     line-height: 2 !important;
   }
 
   /* Table of Contents */
   .text-delta {
-    font-size: 14px !important;
+    font-size: 16px !important;
   }
 
   .main-content ul li a {
-    font-size: 12px !important;
+    font-size: 16px !important;
     line-height: 2 !important;
   }
 
@@ -269,6 +275,8 @@
 
 }
 
+  .breadcrumb-nav, .breadcrumb-nav-list-item { font-size: 14px !important; }
+
   /* ---- Cards and page furniture (were inline styles repeated in every page) ---- */
   .cards { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 24px 0; }
   .cards-3 { grid-template-columns: 1fr 1fr 1fr; }
@@ -279,10 +287,10 @@
   .card-gap { margin-bottom: 12px; }
   .card-top { margin-top: 16px; }
   .card-wide { grid-column: 1 / -1; text-align: center; }
-  .card-title { font-size: 14px; }
-  .card-small-title { font-size: 12px; }
+  .card-title { font-size: 18px; }
+  .card-small-title { font-size: 16px; }
   .card-mb { margin-bottom: 8px; }
-  .card-sub { font-size: 11px; color: #a0a0a0; }
+  .card-sub { font-size: 14px; color: #a0a0a0; }
   .card-r { text-align: right; }
   .clear { clear: both; }
   .center { text-align: center; }
@@ -294,7 +302,7 @@
   @media (max-width: 800px) {
     .cards, .cards-3 { grid-template-columns: 1fr; }
     .img-right, .img-left { float: none; display: block; margin: 0 auto 12px; width: 100%; }
-    .card-title { font-size: 14px; }
+    .card-title { font-size: 18px; }
   }
 
 </style>

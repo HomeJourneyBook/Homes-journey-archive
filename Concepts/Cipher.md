@@ -33,16 +33,4 @@ At present, it seems to me that the figurative language is not simply an ancient
 
 ---
 
-<div class="cards">
-
-<a class="card" href="/Concepts/README">
-  <div class="card-sub">Back to</div>
-  <div class="card-title">Concepts</div>
-</a>
-
-<a class="card" href="/Concepts/Scheme">
-  <div class="card-sub card-r">Read next</div>
-  <div class="card-title card-r">Schemes of the Path</div>
-</a>
-
-</div>
+{% include nav_cards.html back="/Concepts/README" back_title="Concepts" next="/Concepts/Scheme" next_title="Schemes of the Path" %}

@@ -21,9 +21,4 @@ Approximately 25 different types of Moods are known, each unique in its own way 
 
 ---
 
-<div>
-<a class="card card-next" href="/Tavern/1-1/1-1">
-  <div class="card-sub card-r">Read next</div>
-  <div class="card-title card-r">Unique Travelers</div>
-</a>
-</div>
+{% include nav_next.html next="/Tavern/1-1/1-1" next_title="Unique Travelers" %}

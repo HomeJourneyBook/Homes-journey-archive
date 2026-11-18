@@ -15,16 +15,4 @@ He once wrote to me, asking whether the Book contained anything about his civili
 
 ---
 
-<div class="cards">
-
-<a class="card" href="/Tavern/1-1/1-1#1-1">
-  <div class="card-sub">Back to</div>
-  <div class="card-title">Unique Travelers</div>
-</a>
-
-<a class="card" href="/Tavern/1-1/Reaper">
-  <div class="card-sub card-r">Read next</div>
-  <div class="card-title card-r">Reaper</div>
-</a>
-
-</div>
+{% include nav_cards.html back="/Tavern/1-1/1-1#1-1" back_title="Unique Travelers" next="/Tavern/1-1/Reaper" next_title="Reaper" %}

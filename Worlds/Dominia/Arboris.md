@@ -36,9 +36,4 @@ The found artifacts of this region can be explored [here](/Artifacts/From_Arbori
 
 ---
 
-<div>
-<a class="card card-next" href="/Worlds/Dominia/Crystalis">
-  <div class="card-sub card-r">Read next</div>
-  <div class="card-title card-r">Crystalis</div>
-</a>
-</div>
+{% include nav_next.html next="/Worlds/Dominia/Crystalis" next_title="Crystalis" %}

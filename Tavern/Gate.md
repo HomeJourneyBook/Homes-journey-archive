@@ -118,10 +118,5 @@ They appear in the most desolate places — among dead plains and forgotten ruin
 
 ---
 
-<div>
-<a class="card card-next" href="/Tavern/Mood">
-  <div class="card-sub card-r">Read next</div>
-  <div class="card-title card-r">Moods</div>
-</a>
-</div>
+{% include nav_next.html next="/Tavern/Mood" next_title="Moods" %}
 

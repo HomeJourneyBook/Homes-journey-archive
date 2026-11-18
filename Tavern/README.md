@@ -29,11 +29,6 @@ The Travelers Hall of Fame is also located here.
 
 ---
 
-<div>
-<a class="card card-next" href="/Tavern/Travelers">
-  <div class="card-sub card-r">Read next</div>
-  <div class="card-title card-r">Home Travelers</div>
-</a>
-</div>
+{% include nav_next.html next="/Tavern/Travelers" next_title="Home Travelers" %}
 
 

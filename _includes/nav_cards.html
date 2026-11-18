@@ -1,0 +1,17 @@
+{%- comment -%}
+  Back / Next cards at the end of a page.
+  Parameters: back (url), back_title, next (url), next_title. Leave a pair out to show only one card.
+{%- endcomment -%}
+<div class="cards">
+
+<a class="card" href="{{ include.back }}">
+  <div class="card-sub">Back to</div>
+  <div class="card-title">{{ include.back_title }}</div>
+</a>
+
+<a class="card" href="{{ include.next }}">
+  <div class="card-sub card-r">Read next</div>
+  <div class="card-title card-r">{{ include.next_title }}</div>
+</a>
+
+</div>

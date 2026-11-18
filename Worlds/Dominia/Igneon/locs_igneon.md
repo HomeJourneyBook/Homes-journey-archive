@@ -41,9 +41,4 @@ Before you stretches the vast Lava Sea, its viscous, dense surface constantly mo
 
 ---
 
-<div>
-<a class="card card-prev" href="/Worlds/Dominia/Igneon">
-  <div class="card-sub card-r">Back to</div>
-  <div class="card-title card-r">Igneon</div>
-</a>
-</div>
+{% include nav_prev.html back="/Worlds/Dominia/Igneon" back_title="Igneon" %}

@@ -104,9 +104,4 @@ A small settlement composed of uniform houses and narrow streets. Similar archit
 
 ---
 
-<div>
-<a class="card card-next" href="/Worlds/Bastion">
-  <div class="card-sub card-r">Read next</div>
-  <div class="card-title card-r">Bastion</div>
-</a>
-</div>
+{% include nav_next.html next="/Worlds/Bastion" next_title="Bastion" %}

@@ -50,16 +50,4 @@ In the heart of the Arboris Temple, a statue stands as a symbol of wisdom and jo
 
 ---
 
-<div class="cards">
-
-<a class="card" href="/Artifacts/README">
-  <div class="card-sub">Back to</div>
-  <div class="card-title">Artifacts</div>
-</a>
-
-<a class="card" href="/Artifacts/From_Crystalis">
-  <div class="card-sub card-r">Read next</div>
-  <div class="card-title card-r">From Crystalis</div>
-</a>
-
-</div>
+{% include nav_cards.html back="/Artifacts/README" back_title="Artifacts" next="/Artifacts/From_Crystalis" next_title="From Crystalis" %}

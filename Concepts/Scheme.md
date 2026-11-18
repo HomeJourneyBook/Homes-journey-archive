@@ -26,16 +26,4 @@ Particularly ancient Schemes, or those that once opened Paths to exceptionally w
 
 ---
 
-<div class="cards">
-
-<a class="card" href="/Concepts/README">
-  <div class="card-sub">Back to</div>
-  <div class="card-title">Concepts</div>
-</a>
-
-<a class="card" href="/Concepts/Tea">
-  <div class="card-sub card-r">Read next</div>
-  <div class="card-title card-r">Tea</div>
-</a>
-
-</div>
+{% include nav_cards.html back="/Concepts/README" back_title="Concepts" next="/Concepts/Tea" next_title="Tea" %}

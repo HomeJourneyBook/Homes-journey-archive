@@ -42,16 +42,4 @@ This device displays all four locations within the Igneon area: the Lava Sea, th
 
 ---
 
-<div class="cards">
-
-<a class="card" href="/Artifacts/README">
-  <div class="card-sub">Back to</div>
-  <div class="card-title">Artifacts</div>
-</a>
-
-<a class="card" href="/Artifacts/From_Arboris">
-  <div class="card-sub card-r">Read next</div>
-  <div class="card-title card-r">From Arboris</div>
-</a>
-
-</div>
+{% include nav_cards.html back="/Artifacts/README" back_title="Artifacts" next="/Artifacts/From_Arboris" next_title="From Arboris" %}

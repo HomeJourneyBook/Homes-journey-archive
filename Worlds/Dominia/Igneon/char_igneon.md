@@ -33,9 +33,4 @@ The Fire Priest, clad in a red robe adorned with runes, amulets, and golden paul
 
 ---
 
-<div>
-<a class="card card-prev" href="/Worlds/Dominia/Igneon">
-  <div class="card-sub card-r">Back to</div>
-  <div class="card-title card-r">Igneon</div>
-</a>
-</div>
+{% include nav_prev.html back="/Worlds/Dominia/Igneon" back_title="Igneon" %}

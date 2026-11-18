@@ -5,9 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="color-scheme" content="dark">
   <title>{{ site.title }}</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+  <link rel="preload" href="{{ '/assets/fonts/MEK.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
   <style>
+    @font-face { font-family: 'MEK'; src: url('{{ "/assets/fonts/MEK.woff2" | relative_url }}') format('woff2'); font-display: swap; }
     * { margin: 0; padding: 0; box-sizing: border-box; }
 
     :root {
@@ -15,7 +15,7 @@
     }
 
     body {
-      font-family: 'Press Start 2P', monospace;
+      font-family: 'MEK', 'Courier New', monospace;
       background-image: url('{{ "/assets/images/land_bg.png" | relative_url }}');
       background-size: cover;
       background-position: center;
@@ -41,15 +41,15 @@
     }
 
     .landing-text {
-      font-size: 8px;
-      color: #888;
-      max-width: 400px;
-      line-height: 2;
+      font-size: 16px;
+      color: #a0a0a0;
+      max-width: 440px;
+      line-height: 1.8;
       text-align: center;
     }
 
     .landing a {
-      font-size: 10px;
+      font-size: 16px;
       color: #f0d080;
       text-decoration: none;
       border: 1px solid #8b6914;
@@ -68,7 +68,7 @@
     <img src="{{ "/assets/images/Book.webp" | relative_url }}" alt="The Book">
     <p class="landing-text">These records were not meant to be found.</p>
     <a href="https://archive.trianglecirclesquare.org/archive/">READ THE ARCHIVE</a>
-    <p style="font-size: 6px; color: #9a9a9a; letter-spacing: 1px; margin-top: 1rem;">
+    <p style="font-size: 12px; color: #9a9a9a; letter-spacing: 1px; margin-top: 1rem;">
   All rights reserved &copy; 2026 ▲●■
 </p>
   </div>

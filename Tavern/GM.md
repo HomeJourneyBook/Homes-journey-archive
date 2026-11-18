@@ -13,9 +13,4 @@ nav_order: 3
 
 ---
 
-<div>
-<a class="card card-next" href="/Worlds/README">
-  <div class="card-sub card-r">Read next</div>
-  <div class="card-title card-r">Home Worlds</div>
-</a>
-</div>
+{% include nav_next.html next="/Worlds/README" next_title="Home Worlds" %}

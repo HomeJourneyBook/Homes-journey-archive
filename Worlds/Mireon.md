@@ -78,9 +78,4 @@ According to Traveler records, the region of Gold is one of the easiest places i
 
 ---
 
-<div>
-<a class="card card-next" href="/Worlds/Edem">
-  <div class="card-sub card-r">Read next</div>
-  <div class="card-title card-r">Edem</div>
-</a>
-</div>
+{% include nav_next.html next="/Worlds/Edem" next_title="Edem" %}

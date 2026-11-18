@@ -10,9 +10,4 @@ has_children: true
 
 ---
 
-<div>
-<a class="card card-next" href="/Fragments/1">
-  <div class="card-sub card-r">Read next</div>
-  <div class="card-title card-r">Ink</div>
-</a>
-</div>
+{% include nav_next.html next="/Fragments/1" next_title="Ink" %}

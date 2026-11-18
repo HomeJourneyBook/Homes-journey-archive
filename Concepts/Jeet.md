@@ -16,16 +16,4 @@ Travelers always attempt to avoid Worlds corrupted by Jeet, as prolonged exposur
 
 ---
 
-<div class="cards">
-
-<a class="card" href="/Concepts/README">
-  <div class="card-sub">Back to</div>
-  <div class="card-title">Concepts</div>
-</a>
-
-<a class="card" href="/Concepts/chaetron">
-  <div class="card-sub card-r">Read next</div>
-  <div class="card-title card-r">Chaetron</div>
-</a>
-
-</div>
+{% include nav_cards.html back="/Concepts/README" back_title="Concepts" next="/Concepts/chaetron" next_title="Chaetron" %}

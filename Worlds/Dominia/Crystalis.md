@@ -34,9 +34,4 @@ At the moment, the least is known about this region. Perhaps many artifacts have
 
 ---
 
-<div>
-<a class="card card-next" href="/Worlds/Mireon">
-  <div class="card-sub card-r">Read next</div>
-  <div class="card-title card-r">Mireon</div>
-</a>
-</div>
+{% include nav_next.html next="/Worlds/Mireon" next_title="Mireon" %}

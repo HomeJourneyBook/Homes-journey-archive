@@ -97,9 +97,4 @@ Despite the apparent simplicity of their daily life, there is a strong sense tha
 
 ---
 
-<div>
-<a class="card card-next" href="/Valley/Legends/README">
-  <div class="card-sub card-r">Read next</div>
-  <div class="card-title card-r">The Legend</div>
-</a>
-</div>
+{% include nav_next.html next="/Valley/Legends/README" next_title="The Legend" %}

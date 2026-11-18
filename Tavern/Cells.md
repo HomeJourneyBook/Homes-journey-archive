@@ -22,9 +22,4 @@ For this reason, the Cells are regarded as some of the most important spaces wit
 
 ---
 
-<div>
-<a class="card card-next" href="/Tavern/Shen">
-  <div class="card-sub card-r">Read next</div>
-  <div class="card-title card-r">Shen</div>
-</a>
-</div>
+{% include nav_next.html next="/Tavern/Shen" next_title="Shen" %}

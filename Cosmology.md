@@ -84,9 +84,4 @@ And though the excessive spread of Jeet may slow or even endanger the Great Retu
 
 ---
 
-<div>
-<a class="card card-next" href="/Tavern/README">
-  <div class="card-sub card-r">Read next</div>
-  <div class="card-title card-r">the Tavern</div>
-</a>
-</div>
+{% include nav_next.html next="/Tavern/README" next_title="the Tavern" %}

@@ -15,9 +15,4 @@ Unlike Worlds, which can be observed directly, and records from the Book, which 
 
 ---
 
-<div>
-<a class="card card-next" href="/Artifacts/Schemes">
-  <div class="card-sub card-r">Read next</div>
-  <div class="card-title card-r">Collection of Schemes</div>
-</a>
-</div>
+{% include nav_next.html next="/Artifacts/Schemes" next_title="Collection of Schemes" %}

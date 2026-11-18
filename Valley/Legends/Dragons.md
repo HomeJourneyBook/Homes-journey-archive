@@ -59,9 +59,4 @@ The only known trace left behind after the battle was a single golden egg discov
 
 ---
 
-<div>
-<a class="card card-prev" href="/Valley/Legends/README">
-  <div class="card-sub card-r">Back to</div>
-  <div class="card-title card-r">The Legend</div>
-</a>
-</div>
+{% include nav_prev.html back="/Valley/Legends/README" back_title="The Legend" %}

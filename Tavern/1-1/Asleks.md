@@ -17,16 +17,4 @@ His visit disrupted our usual rhythm considerably. He asked about every variety 
 
 ---
 
-<div class="cards">
-
-<a class="card" href="/Tavern/1-1/1-1#1-1">
-  <div class="card-sub">Back to</div>
-  <div class="card-title">Unique Travelers</div>
-</a>
-
-<a class="card" href="/Tavern/1-1/Tuborg">
-  <div class="card-sub card-r">Read next</div>
-  <div class="card-title card-r">Tuborg</div>
-</a>
-
-</div>
+{% include nav_cards.html back="/Tavern/1-1/1-1#1-1" back_title="Unique Travelers" next="/Tavern/1-1/Tuborg" next_title="Tuborg" %}

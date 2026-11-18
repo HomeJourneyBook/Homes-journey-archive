@@ -46,9 +46,4 @@ Mentions of this fortress found in Traveler records strongly suggest that it was
 
 ---
 
-<div>
-<a class="card card-next" href="/Worlds/Worlds_low">
-  <div class="card-sub card-r">Read next</div>
-  <div class="card-title card-r">Less Explored Worlds</div>
-</a>
-</div>
+{% include nav_next.html next="/Worlds/Worlds_low" next_title="Less Explored Worlds" %}

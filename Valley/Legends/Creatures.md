@@ -110,9 +110,4 @@ Eldritch Spawn - otherworldly beings of chaos and dread, their twisted forms and
 
 ---
 
-<div>
-<a class="card card-prev" href="/Valley/Legends/README">
-  <div class="card-sub card-r">Back to</div>
-  <div class="card-title card-r">The Legend</div>
-</a>
-</div>
+{% include nav_prev.html back="/Valley/Legends/README" back_title="The Legend" %}

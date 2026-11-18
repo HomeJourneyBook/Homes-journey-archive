@@ -17,9 +17,4 @@ After — their name is spoken aloud in the Tavern for the first time.
 
 ---
 
-<div>
-<a class="card card-next" href="/Tavern/Otstup">
-  <div class="card-sub card-r">Read next</div>
-  <div class="card-title card-r">Apostasy</div>
-</a>
-</div>
+{% include nav_next.html next="/Tavern/Otstup" next_title="Apostasy" %}

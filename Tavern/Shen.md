@@ -28,9 +28,4 @@ Among most Travelers, Shen is perceived not only as the keeper of the Tavern, bu
 
 ---
 
-<div>
-<a class="card card-next" href="/Tavern/GM">
-  <div class="card-sub card-r">Read next</div>
-  <div class="card-title card-r">GM</div>
-</a>
-</div>
+{% include nav_next.html next="/Tavern/GM" next_title="GM" %}

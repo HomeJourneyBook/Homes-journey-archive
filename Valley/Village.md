@@ -85,9 +85,4 @@ Inside the Workshop, the sounds of labor are almost constant: the creaking of to
 
 ---
 
-<div>
-<a class="card card-next" href="/Valley/Villagers/README">
-  <div class="card-sub card-r">Read next</div>
-  <div class="card-title card-r">Villagers</div>
-</a>
-</div>
+{% include nav_next.html next="/Valley/Villagers/README" next_title="Villagers" %}

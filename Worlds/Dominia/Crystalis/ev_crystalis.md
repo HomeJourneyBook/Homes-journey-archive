@@ -25,11 +25,6 @@ The process of extracting energy from the local valuable resource.
 
 ---
 
-<div>
-<a class="card card-prev" href="/Worlds/Dominia/Crystalis">
-  <div class="card-sub card-r">Back to</div>
-  <div class="card-title card-r">Crystalis</div>
-</a>
-</div>
+{% include nav_prev.html back="/Worlds/Dominia/Crystalis" back_title="Crystalis" %}
 
 

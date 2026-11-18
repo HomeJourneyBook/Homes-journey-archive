@@ -49,9 +49,4 @@ Unique and important Figures here
 
 ---
 
-<div>
-<a class="card card-prev" href="/Artifacts/README">
-  <div class="card-sub card-r">Back to</div>
-  <div class="card-title card-r">Artifacts</div>
-</a>
-</div>
+{% include nav_prev.html back="/Artifacts/README" back_title="Artifacts" %}

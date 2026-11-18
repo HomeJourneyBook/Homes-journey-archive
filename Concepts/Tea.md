@@ -22,16 +22,4 @@ For the Travelers, tea likewise remains an inseparable part of daily life, a med
 
 ---
 
-<div class="cards">
-
-<a class="card" href="/Concepts/README">
-  <div class="card-sub">Back to</div>
-  <div class="card-title">Concepts</div>
-</a>
-
-<a class="card" href="/Concepts/civil">
-  <div class="card-sub card-r">Read next</div>
-  <div class="card-title card-r">Ancient Civilizations</div>
-</a>
-
-</div>
+{% include nav_cards.html back="/Concepts/README" back_title="Concepts" next="/Concepts/civil" next_title="Ancient Civilizations" %}
