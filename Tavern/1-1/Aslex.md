@@ -1,12 +1,12 @@
 ---
-title: Asleks
+title: Aslex
 nav_exclude: true
 image: /assets/images/og.png
 ---
 
-# Asleks
+# Aslex
 
-<img src="Asleks.png" class="img-left" alt="Asleks">
+<img src="Aslex.png" class="img-left" alt="Aslex">
 One of the first three. Not born of the Ritual — created as a singular Gate by a civilization that has long since departed. How old he truly is, I cannot say. He himself seems disinclined to count. And in general, in the current era, we do not trouble ourselves much with the keeping of time.
 
 His Path has long been shaped by a single pursuit — a tea that no longer exists. A recipe that, by his conviction, was once known and has since been lost.

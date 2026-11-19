@@ -220,9 +220,31 @@
     color: #c8a84b !important;
   }
 
-  /* Навигационное меню */
+  /* Бургер: крупная зона нажатия и видимая рамка, чтобы попадать пальцем */
+  #menu-button {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    width: 48px !important;
+    height: 48px !important;
+    margin: 4px 10px 4px 0 !important;
+    border: 1px solid rgba(200, 168, 75, 0.55) !important;
+    border-radius: 6px;
+    -webkit-tap-highlight-color: transparent;
+  }
+  #menu-button svg {
+    width: 28px !important;
+    height: 28px !important;
+  }
+  #menu-button:active { background: rgba(200, 168, 75, 0.18); }
+
+  /* Навигационное меню: прокручивается внутри, не уезжает за экран */
   .site-nav {
     top: 55px !important;
+    max-height: calc(100vh - 55px) !important;
+    max-height: calc(100dvh - 55px) !important;
+    overflow-y: auto !important;
+    -webkit-overflow-scrolling: touch;
   }
 
   .side-bar {
